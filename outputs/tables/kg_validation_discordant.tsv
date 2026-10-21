@@ -1,0 +1,6 @@
+sample	group	units_short	units_long	lineage_short	lineage_long	units_agree	lineage_agree	lineage_agree_excl_other
+HG00253	EUR	4/4	4/4	4A/4B	4A/other	TRUE	FALSE	
+HG02257	AFR	5/5	4/5	5A/5B	5A/other	FALSE	FALSE	
+HG02451	AFR	4/5	4/5	4A/5A	5A/other	TRUE	FALSE	
+NA19682	AMR	4/4	4/4	4A/4B	4B/other	TRUE	FALSE	
+NA20827	EUR	4/5	4/5	4B/5A	4B/other	TRUE	FALSE	

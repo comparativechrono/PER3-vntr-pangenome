@@ -1,0 +1,27 @@
+population	population_name	superpopulation	haplotypes	five	freq_five	ci_lower	ci_upper
+ESN	Esan in Nigeria	AFR	198	67	0.338	0.276	0.407
+MSL	Mende in Sierra Leone	AFR	170	58	0.341	0.274	0.415
+LWK	Luhya in Webuye, Kenya	AFR	198	73	0.369	0.305	0.438
+YRI	Yoruba in Ibadan, Nigeria	AFR	216	82	0.38	0.318	0.446
+ASW	African Ancestry in Southwest US	AFR	122	47	0.385	0.304	0.474
+ACB	African Caribbean in Barbados	AFR	192	75	0.391	0.324	0.461
+GWD	Gambian in Western Division, The Gambia	AFR	226	91	0.403	0.341	0.468
+PEL	Peruvian in Lima, Peru	AMR	170	15	0.088	0.054	0.14
+MXL	Mexican Ancestry in Los Angeles, California	AMR	128	32	0.25	0.183	0.332
+CLM	Colombian in Medellin, Colombia	AMR	188	49	0.261	0.203	0.328
+PUR	Puerto Rican in Puerto Rico	AMR	208	82	0.394	0.33	0.462
+CDX	Chinese Dai in Xishuangbanna, China	EAS	186	15	0.081	0.049	0.129
+CHB	Han Chinese in Beijing, China	EAS	206	29	0.141	0.1	0.195
+JPT	Japanese in Tokyo, Japan	EAS	208	30	0.144	0.103	0.198
+KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	198	33	0.167	0.121	0.225
+CHS	Southern Han Chinese, China	EAS	210	42	0.2	0.152	0.259
+FIN	Finnish in Finland	EUR	198	57	0.288	0.229	0.355
+GBR	British in England and Scotland	EUR	182	56	0.308	0.245	0.378
+IBS	Iberian populations in Spain	EUR	214	72	0.336	0.277	0.402
+CEU	Utah residents with Northern and Western European ancestry	EUR	198	73	0.369	0.305	0.438
+TSI	Toscani in Italy	EUR	214	79	0.369	0.307	0.436
+STU	Sri Lankan Tamil in the UK	SAS	204	63	0.309	0.249	0.375
+BEB	Bengali in Bangladesh	SAS	172	56	0.326	0.26	0.399
+ITU	Indian Telugu in the UK	SAS	204	71	0.348	0.286	0.416
+PJL	Punjabi in Lahore,Pakistan	SAS	192	69	0.359	0.295	0.429
+GIH	Gujarati Indian in Houston,TX	SAS	206	82	0.398	0.334	0.466

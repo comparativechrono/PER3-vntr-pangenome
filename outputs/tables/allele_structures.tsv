@@ -1,0 +1,9 @@
+units	structure	lineage	ser_thr	haplotypes
+4	R1-R3-R4-R5	4A	27	238
+5	R1-R2-R3*9A>G-R4-R5	5A	33	108
+4	R1-R3-R4*8T>C-R5	4B	28	85
+5	R1-R2-R3-R4-R5	5B	33	26
+4	R1-R3-R4-R5*9G>T	other	27	2
+4	R1*9G>A-R3-R4*8T>C-R5	other	28	1
+4	R1-R2-R4*8T>C,14T>C-R5	other	28	1
+5	R1-R2*45T>C-R3*9A>G-R4-R5	other	33	1

@@ -1,0 +1,14 @@
+trait	label	file	prefix	beta	se	p	freq	N	scale	study
+chronotype	Chronotype (self-report; higher = morning)	chronotype_Jones2019.tsv		BETA	SE	P_BOLT_LMM	A1FREQ	449734	score units	Jones 2019, GCST007576
+morning	Morning person (self-report)	morning_person_Jones2019.tsv		LOGOR	LOGOR_SE	P_BOLT_LMM	A1FREQ	403195	log odds ratio	Jones 2019, GCST007565
+sleepdur	Sleep duration (self-report)	sleep_duration_Dashti2019.tsv		BETA_SLEEPDURATION	SE_SLEEPDURATION	P_SLEEPDURATION	A1FREQ	446118	hours	Dashti 2019, GCST007561
+insomnia	Insomnia symptoms (self-report)	insomnia_Lane2019.tsv		BETA_INSOMNIA	SE_INSOMNIA	P_INSOMNIA	A1FREQ	453379	linear-model beta (case = 1)	Lane 2019, GCST007387
+nap	Daytime napping (self-report)	daytime_nap_Dashti2021.tsv		beta	standard_error	p_value	effect_allele_frequency	452633	napping category	Dashti 2021, GCST011494
+acc_midpoint	Sleep midpoint (accelerometer)	accelerometer_Jones2019.tsv	ACC_SLEEP_MIDP_RAW_SIN	BETA	SE	P	A1FREQ	84810	SD	Jones 2019b, GCST007807
+acc_l5	L5 timing (accelerometer)	accelerometer_Jones2019.tsv	ACC_L5_TIME_RAW_SIN	BETA	SE	P	A1FREQ	85205	SD	Jones 2019b, GCST007805
+acc_m10	M10 timing (accelerometer)	accelerometer_Jones2019.tsv	ACC_M10_TIME_RAW_SIN	BETA	SE	P	A1FREQ	85670	SD	Jones 2019b, GCST007806
+acc_duration	Sleep duration (accelerometer)	accelerometer_Jones2019.tsv	ACC_SLEEP_DUR_RAW_SIN	BETA	SE	P	A1FREQ	85449	SD	Jones 2019b, GCST007801
+acc_efficiency	Sleep efficiency (accelerometer)	accelerometer_Jones2019.tsv	ACC_SLEEP_EFF_RAW_SIN	BETA	SE	P	A1FREQ	84810	SD	Jones 2019b, GCST007803
+acc_episodes	Number of sleep episodes (accelerometer)	accelerometer_Jones2019.tsv	ACC_N_SLEEP_EPISODES_RAW_SIN	BETA	SE	P	A1FREQ	84810	SD	Jones 2019b, GCST007804
+acc_duration_sd	Variability of sleep duration (accelerometer)	accelerometer_Jones2019.tsv	ACC_SLEEP_DUR_SD_RAW_SIN	BETA	SE	P	A1FREQ	84441	SD	Jones 2019b, GCST007802
+acc_inactivity	Diurnal inactivity (accelerometer)	accelerometer_Jones2019.tsv	ACC_DIURNAL_INACT_RAW_SIN	BETA	SE	P	A1FREQ	84757	SD	Jones 2019b, GCST007808

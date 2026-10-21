@@ -1,0 +1,17 @@
+02: GRCh38 repeat protein (90 aa) at NP_001276791.1 residues 981-1070 of 1210
+    R1 CTGTCCACGGGGTCACCTCCCAGGGAGAATCCATCCCATCCTACTGCCAGCGCT  LSTGSPPRENPSHPTASA  S/T=6
+    R2 CTGTCCACAGGATCGCCTCCCATGAAGAATCCATCCCATCCTACTGCCAGCGCT  LSTGSPPMKNPSHPTASA  S/T=6
+    R3 CTGTCCACAGGATCGCCTCCCATGAAGAATCCATCCCATCCTACTGCCAGCACA  LSTGSPPMKNPSHPTAST  S/T=7
+    R4 CTGTCCATGGGATTGCCTCCCAGCAGGACTCCATCCCATCCTACTGCCACTGTT  LSMGLPPSRTPSHPTATV  S/T=6
+    R5 CTGTCCACGGGGTCACCTCCCAGCGAATCCCCATCCAGAACTGGTTCAGCAGCA  LSTGSPPSESPSRTGSAA  S/T=8
+02: haplotypes by units: {4: 327, 5: 135} | length method disagrees for 3 [('HG02717_hap2', 599), ('HG03516_hap1', 599), ('NA18508_hap1', 599)]
+02: lineages: {'4A': 238, '5A': 108, '4B': 85, '5B': 26, 'other': 5}
+02: 1000 Genomes haplotypes with a deletion call in the repeat, by structure: {'R1-R2-R4*8T>C,14T>C-R5': 12, 'R1-R2-R4*8T>C-R5': 1, 'R1-R3*9A>G-R4-R5': 1, 'R1-R3*9A>G-R4-R5*9G>T': 1}
+     238  4 units  R1-R3-R4-R5                      4A     S/T=27
+     108  5 units  R1-R2-R3*9A>G-R4-R5              5A     S/T=33
+      85  4 units  R1-R3-R4*8T>C-R5                 4B     S/T=28
+      26  5 units  R1-R2-R3-R4-R5                   5B     S/T=33
+       2  4 units  R1-R3-R4-R5*9G>T                 other  S/T=27
+       1  4 units  R1*9G>A-R3-R4*8T>C-R5            other  S/T=28
+       1  4 units  R1-R2-R4*8T>C,14T>C-R5           other  S/T=28
+       1  5 units  R1-R2*45T>C-R3*9A>G-R4-R5        other  S/T=33

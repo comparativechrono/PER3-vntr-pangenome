@@ -1,0 +1,54 @@
+species	common_name	group	dna_units	protein_units
+Gorilla gorilla gorilla	western lowland gorilla	Hominidae (great apes)	4/3.61	3.61
+Homo sapiens	human	Hominidae (great apes)	5/5	5
+Pan paniscus	bonobo	Hominidae (great apes)	3/3	3
+Pan troglodytes	chimpanzee	Hominidae (great apes)	4/4	4
+Pongo abelii	Sumatran orangutan	Hominidae (great apes)	3/3	3
+Pongo pygmaeus	Bornean orangutan	Hominidae (great apes)	3/3	3
+Hylobates moloch	silvery gibbon	Hylobatidae (gibbons)	3	3
+Nomascus leucogenys	northern white-cheeked gibbon	Hylobatidae (gibbons)	3	3
+Symphalangus syndactylus	siamang	Hylobatidae (gibbons)	4/4	4
+Cercocebus atys	sooty mangabey	Cercopithecidae (Old World monkeys)	3	3
+Chlorocebus sabaeus	green monkey	Cercopithecidae (Old World monkeys)	3	3
+Colobus angolensis palliatus		Cercopithecidae (Old World monkeys)	3	3
+Macaca fascicularis	crab-eating macaque	Cercopithecidae (Old World monkeys)	3	3
+Macaca mulatta	Rhesus monkey	Cercopithecidae (Old World monkeys)	3	3
+Macaca nemestrina	pig-tailed macaque	Cercopithecidae (Old World monkeys)	3	3
+Macaca thibetana thibetana		Cercopithecidae (Old World monkeys)	3	3
+Mandrillus leucophaeus	drill	Cercopithecidae (Old World monkeys)	3	3
+Papio anubis	olive baboon	Cercopithecidae (Old World monkeys)	3	3
+Piliocolobus tephrosceles	Ugandan red Colobus	Cercopithecidae (Old World monkeys)	3	3
+Rhinopithecus bieti	black snub-nosed monkey	Cercopithecidae (Old World monkeys)	3	3
+Rhinopithecus roxellana	golden snub-nosed monkey	Cercopithecidae (Old World monkeys)	3	3
+Theropithecus gelada	gelada	Cercopithecidae (Old World monkeys)	3	3
+Trachypithecus francoisi	Francois's langur	Cercopithecidae (Old World monkeys)	3	3
+Aotus nancymaae	Ma's night monkey	Platyrrhini (New World monkeys)	2	2
+Callithrix jacchus	white-tufted-ear marmoset	Platyrrhini (New World monkeys)	7	7
+Cebus imitator	Panamanian white-faced capuchin	Platyrrhini (New World monkeys)	2	2
+Saimiri boliviensis	Bolivian squirrel monkey	Platyrrhini (New World monkeys)	4	4
+Sapajus apella	tufted capuchin	Platyrrhini (New World monkeys)	2	2
+Carlito syrichta	Philippine tarsier	Tarsiidae (tarsiers)		
+Eulemur rufifrons	Bennett's brown lemur	Strepsirrhini (lemurs, lorises, galagos)		
+Lemur catta	Ring-tailed lemur	Strepsirrhini (lemurs, lorises, galagos)		
+Microcebus murinus	gray mouse lemur	Strepsirrhini (lemurs, lorises, galagos)		
+Nycticebus coucang	slow loris	Strepsirrhini (lemurs, lorises, galagos)		
+Otolemur garnettii	small-eared galago	Strepsirrhini (lemurs, lorises, galagos)		
+Propithecus coquereli	Coquerel's sifaka	Strepsirrhini (lemurs, lorises, galagos)		
+Galeopterus variegatus	Sunda flying lemur	Dermoptera (colugos; not primates)		
+Mus caroli	Ryukyu mouse	Rodentia (not primates)		
+Mus musculus	house mouse	Rodentia (not primates)		
+Mus pahari	shrew mouse	Rodentia (not primates)		
+Rattus norvegicus	Norway rat	Rodentia (not primates)		
+Rattus rattus	black rat	Rodentia (not primates)		
+Canis aureus	golden jackal	Carnivora (not primates)		
+Canis lupus baileyi	Mexican gray wolf	Carnivora (not primates)		
+Canis lupus dingo	dingo	Carnivora (not primates)		
+Canis lupus familiaris	dog	Carnivora (not primates)		
+Bos grunniens	domestic yak	Artiodactyla (not primates)		
+Bos indicus	zebu cattle	Artiodactyla (not primates)		
+Bos indicus x Bos taurus	hybrid cattle	Artiodactyla (not primates)		
+Bos javanicus	banteng	Artiodactyla (not primates)		
+Bos mutus	wild yak	Artiodactyla (not primates)		
+Bos taurus	domestic cattle	Artiodactyla (not primates)		
+Monodelphis domestica	gray short-tailed opossum	Marsupialia (not primates)		
+Gallus gallus	chicken	Aves (a bird)		

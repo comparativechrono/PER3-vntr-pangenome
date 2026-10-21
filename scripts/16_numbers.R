@@ -1,0 +1,106 @@
+# 16. Every number quoted in the manuscript, with the table it comes from: outputs/manuscript_numbers.tsv
+source(file.path(dirname(sub("^--file=", "", grep("^--file=", commandArgs(FALSE), value = TRUE))), "lib.R"))
+N <- list()
+add <- function(key, value, source, note = "") N[[length(N) + 1]] <<- data.frame(key = key, value = as.character(value), source = source, note = note)
+t <- function(f) read_tsv(file.path(TAB, f))
+
+hp <- t("hprc_haplotype_alleles.tsv")
+add("hprc_people", length(unique(hp$sample)), "hprc_haplotype_alleles.tsv")
+add("hprc_haplotypes", nrow(hp), "hprc_haplotype_alleles.tsv")
+add("hprc_four_unit", sum(hp$units == 4), "hprc_haplotype_alleles.tsv")
+add("hprc_five_unit", sum(hp$units == 5), "hprc_haplotype_alleles.tsv")
+add("hprc_other_unit_numbers", sum(!hp$units %in% c(4, 5)), "hprc_haplotype_alleles.tsv")
+add("hprc_length_method_disagree", sum(hp$units != hp$units_from_length), "hprc_haplotype_alleles.tsv", "599-bp haplotypes (1-bp deletion outside the repeat)")
+for (l in c("4A", "4B", "5A", "5B", "other")) add(paste0("hprc_lineage_", l), sum(hp$lineage == l), "hprc_haplotype_alleles.tsv")
+add("hprc_total_units", sum(hp$units), "hprc_haplotype_alleles.tsv")
+add("hprc_four_common_alleles", sprintf("%d of %d (%.1f%%)", sum(hp$lineage != "other"), nrow(hp), 100 * mean(hp$lineage != "other")), "hprc_haplotype_alleles.tsv")
+st <- t("allele_structures.tsv"); add("hprc_distinct_structures", nrow(st), "allele_structures.tsv")
+uc <- t("unit_catalogue.tsv"); add("distinct_unit_sequences", nrow(uc), "unit_catalogue.tsv")
+for (l in c("4A", "4B", "5A", "5B")) add(paste0("ser_thr_", l), hp$ser_thr[hp$lineage == l][1], "hprc_haplotype_alleles.tsv")
+gc <- t("graph_concordance.tsv"); add("pggb_concordant", sum(gc$agree == 1, na.rm = TRUE), "graph_concordance.tsv"); add("pggb_compared", sum(!is.na(gc$agree) & gc$agree != ""), "graph_concordance.tsv")
+fg <- t("hprc_freq_by_group.tsv")
+for (i in seq_len(nrow(fg))) add(paste0("hprc_freq5_", fg$group[i]), sprintf("%.3f (%.3f-%.3f)", fg$freq_five[i], fg$ci_lower[i], fg$ci_upper[i]), "hprc_freq_by_group.tsv")
+ts <- t("hprc_tests.tsv")
+add("hprc_chisq", sprintf("chi2 = %.1f, df = %d, P = %s", ts$statistic[1], ts$df[1], fmt_p(ts$p[1])), "hprc_tests.tsv")
+add("hprc_hwe_p", ts$p[2], "hprc_tests.tsv")
+gt <- t("hprc_genotypes.tsv"); add("hprc_genotypes", paste(gt$genotype, gt$people, collapse = "; "), "hprc_genotypes.tsv")
+lg <- t("hprc_lineages_by_group.tsv")
+for (i in seq_len(nrow(lg))) add(paste0("hprc_share4B_of_four_", lg$group[i]), lg$share_4B_of_four[i], "hprc_lineages_by_group.tsv")
+ld <- t("hprc_tags_top.tsv")
+for (s in c("rs228701", "rs1773135")) { x <- ld[ld$rsid == s, ]
+  add(paste0("tag_r2_all_", s), x$r2, "hprc_tags_top.tsv"); for (g in GROUPS) add(paste0("tag_r2_", g, "_", s), x[[paste0("r2_", g)]], "hprc_tags_top.tsv") }
+ldall <- t("hprc_ld_vntr_snvs.tsv")
+for (s_ in c("rs2087947", "rs696305", "rs172933", "rs488728", "rs228640", "rs228729")) { x <- ldall[which(ldall$rsid == s_), ]
+  if (nrow(x)) add(paste0("proxy_r2_", s_), sprintf("all %.2f; AFR %.2f, AMR %.2f, EAS %.2f, EUR %.2f, SAS %.2f", x$r2, x$r2_AFR, x$r2_AMR, x$r2_EAS, x$r2_EUR, x$r2_SAS), "hprc_ld_vntr_snvs.tsv") }
+ex <- t("hprc_ld_extent.tsv")
+for (i in seq_len(nrow(ex))) add(paste0("ld_extent_r2_gt_", ex$r2_above[i]), sprintf("%d SNVs, span %.1f kb, farthest %.1f kb", ex$snvs[i], ex$span_kb[i], ex$farthest_kb[i]), "hprc_ld_extent.tsv")
+lt <- t("hprc_lineage_tags.tsv"); lt <- lt[lt$rank == 1, ]
+for (i in seq_len(nrow(lt))) add(paste0("best_tag_", lt$lineage[i]), sprintf("%s-%s r2 = %.3f", lt$rsid[i], lt$lineage_allele[i], lt$r2[i]), "hprc_lineage_tags.tsv")
+kt <- t("kg_tag_ld.tsv"); add("kg_tags_r2_all", kt$r2_rs228701_rs1773135[kt$group == "All"], "kg_tag_ld.tsv")
+kv <- t("kg_validation.tsv")
+add("kg_units_concordant", sprintf("%d of %d", kv$units_concordant, kv$people), "kg_validation.tsv")
+add("kg_lineage_concordant", sprintf("%d of %d (people without an 'other' allele)", kv$lineage_concordant_without_other, kv$people_without_other_lineage), "kg_validation.tsv")
+kf <- t("kg_freq_by_group.tsv")
+for (i in seq_len(nrow(kf))) add(paste0("kg_freq5_", kf$group[i]), sprintf("%.3f (%.3f-%.3f)", kf$freq_five[i], kf$ci_lower[i], kf$ci_upper[i]), "kg_freq_by_group.tsv")
+kp <- t("kg_freq_by_population.tsv")
+add("kg_freq5_min", sprintf("%s %.3f", kp$population[which.min(kp$freq_five)], min(kp$freq_five)), "kg_freq_by_population.tsv")
+add("kg_freq5_max", sprintf("%s %.3f", kp$population[which.max(kp$freq_five)], max(kp$freq_five)), "kg_freq_by_population.tsv")
+kl <- t("kg_lineages_by_group.tsv")
+for (i in seq_len(nrow(kl))) add(paste0("kg_lineages_", kl$group[i]), sprintf("4A %.2f, 4B %.2f, 5A %.2f, 5B %.2f", kl[["4A"]][i], kl[["4B"]][i], kl[["5A"]][i], kl[["5B"]][i]), "kg_lineages_by_group.tsv")
+sv <- t("kg_sv_calls.tsv"); add("kg_sv_deletion_haplotypes", sprintf("%s of %s (four-unit by tag: %s)", sv$carriers_haplotypes[nrow(sv)], sv$haplotypes[nrow(sv)], sv$four_unit_by_tag[nrow(sv)]), "kg_sv_calls.tsv")
+svg <- t("kg_sv_by_group.tsv")
+for (i in seq_len(nrow(svg))) add(paste0("kg_sv_by_group_", svg$group[i]), sprintf("%d of %d haplotypes with a call: %d on five-unit tag, %d on four-unit tag (of %d four-unit by tag); five-unit-tag carriers %.4f", svg$with_deletion_call[i], svg$haplotypes[i], svg$on_five_unit_tag[i], svg$on_four_unit_tag[i], svg$four_unit_by_tag[i], svg$freq_deletion_on_five_unit_tag[i]), "kg_sv_by_group.tsv")
+car <- t("kg_sv_carriers.tsv"); tb <- table(paste0(car$structure_short_read, " (", car$units_by_tag, " units by tag)"))
+add("kg_sv_structures", paste(names(tb), as.integer(tb), sep = ": ", collapse = "; "), "kg_sv_carriers.tsv")
+add("kg_sv_carriers_in_hprc", paste(car$haplotype[car$long_read_alleles != ""], car$long_read_alleles[car$long_read_alleles != ""], sep = ": ", collapse = "; "), "kg_sv_carriers.tsv")
+sl <- t("sublineages_by_group.tsv")
+for (i in seq_len(nrow(sl))) add(paste0("sublineages_", gsub("[^A-Za-z0-9]", "", sl$data[i]), "_", sl$group[i]), sprintf("4B.1 %d, 4B.2 %d, 4B.0 %d, 4B haplotypes %d", sl[["4B.1"]][i], sl[["4B.2"]][i], sl[["4B.0"]][i], sl[["4B.1"]][i] + sl[["4B.2"]][i] + sl[["4B.0"]][i] + sl[["4B.1+4B.2"]][i]), "sublineages_by_group.tsv")
+ls_all <- t("lineage_snps_1kg.tsv")
+for (i in seq_len(nrow(ls_all))) add(paste0("kg_", ifelse(grepl("EUR", ls_all$data[i]), "EUR", "All"), "_on_sublineages_", ls_all$rsid[i], "-", ls_all$alt[i]), sprintf("%d carriers; 4B.1 %s, 4B.2 %s, 4B.0 %s", ls_all$alt_haplotypes[i], ls_all[["alt_on_4B.1"]][i], ls_all[["alt_on_4B.2"]][i], ls_all[["alt_on_4B.0"]][i]), "lineage_snps_1kg.tsv", "carrier haplotypes on each 4B sub-lineage (unrelated)")
+ls_ <- t("lineage_snps_1kg.tsv"); ls_ <- ls_[grepl("EUR", ls_$data), ]
+for (i in seq_len(nrow(ls_))) add(paste0("eur_on_lineages_", ls_$rsid[i], "-", ls_$alt[i]), paste(ls_$alt_on_4A[i], ls_$alt_on_4B[i], ls_$alt_on_5A[i], ls_$alt_on_5B[i], sep = " | "), "lineage_snps_1kg.tsv", "carriers on 4A | 4B | 5A | 5B")
+gr <- t("gwas_tag_results.tsv"); gr <- gr[gr$rsid == "rs1773135", ]
+for (i in seq_len(nrow(gr))) add(paste0("tag_", gr$trait[i]), sprintf("beta %.4g (SE %.3g), P %s; %.4f SD (95%% CI %.4f to %.4f); MDE80 %.4f SD", gr$beta[i], gr$se[i], fmt_p(gr$p[i]), gr$beta_sd[i], gr$ci_lower_sd[i], gr$ci_upper_sd[i], gr$mde80_p05_sd[i]), "gwas_tag_results.tsv")
+raw <- t("gwas_tag_accelerometer_raw_units.tsv"); raw <- raw[raw$measure == "ACC_SLEEP_MIDP", ]
+add("tag_acc_midpoint_seconds", sprintf("%.0f s per allele (95%% CI %.0f to %.0f s), P %s", 3600 * raw$beta_hours, 3600 * (raw$beta_hours - 1.96 * raw$se_hours), 3600 * (raw$beta_hours + 1.96 * raw$se_hours), fmt_p(raw$p)), "gwas_tag_accelerometer_raw_units.tsv", "GWAS of untransformed sleep midpoint")
+lm_ <- t("gwas_lineage_marker_results.tsv"); lm_ <- lm_[lm_$trait == "chronotype", ]
+for (i in seq_len(nrow(lm_))) add(paste0("chronotype_marginal_", lm_$rsid[i], "-", lm_$allele[i]), sprintf("freq %.4f, beta %.4f, P %s", lm_$freq[i], lm_$beta[i], fmt_p(lm_$p[i])), "gwas_lineage_marker_results.tsv")
+lin <- t("lineage_model.tsv")
+for (i in seq_len(nrow(lin))) add(paste0("lineage_model_", lin$panel[i], "_", lin$trait[i], "_", lin$marker[i]), sprintf("%s: bJ %.4f (SE %.4f), P %s", lin$contrast[i], lin$bJ[i], lin$bJ_se[i], fmt_p(lin$pJ[i])), "lineage_model.tsv")
+add("tag_info_chronotype", sprintf("rs1773135 %.3f; rs228701 %.3f", gr$info[gr$trait == "chronotype"], t("gwas_tag_results.tsv")$info[t("gwas_tag_results.tsv")$rsid == "rs228701" & t("gwas_tag_results.tsv")$trait == "chronotype"]), "gwas_tag_results.tsv", "imputation information score in UK Biobank")
+e1 <- lin[lin$panel == "EUR" & lin$trait == "chronotype", ]
+b41 <- e1$bJ[e1$marker == "rs61773390"]; brr <- e1$bJ[e1$marker == "rs150812083"]
+add("rare_branch_vs_4A_chronotype", sprintf("4B.1 %.4f; rare branch %.4f (%.1f times)", b41, b41 + brr, (b41 + brr) / b41), "lineage_model.tsv", "joint effects relative to 4A, EUR panel")
+sdc <- gr$sd_trait[gr$trait == "chronotype"]
+e <- lin[lin$panel == "EUR" & lin$trait == "chronotype" & lin$contrast == "five units (5A and 5B by frequency) vs 4A", ]
+add("lineage_five_vs_4A_chronotype_sd", sprintf("%.4f SD (95%% CI %.4f to %.4f); weight of 5A %.2f", e$bJ / sdc, (e$bJ - 1.96 * e$bJ_se) / sdc, (e$bJ + 1.96 * e$bJ_se) / sdc, e$w_5A), "lineage_model.tsv", "joint effect / chronotype SD of step 08")
+tc <- t("cojo_tag_conditional.tsv")
+for (i in seq_len(nrow(tc))) add(paste0("cojo_tag_", tc$panel[i], "_", tc$trait[i], "_", tc$method[i]), sprintf("%d signals; conditional beta %.4f (SE %.4f), P %s", tc$signals[i], tc$bC[i], tc$bC_se[i], fmt_p(tc$pC[i])), "cojo_tag_conditional.tsv")
+ss <- t("single_snp_conditional.tsv")
+for (i in seq_len(nrow(ss))) add(paste0("single_cond_", ss$panel[i], "_", ss$trait[i]), sprintf("r %.3f; z %.2f -> %.2f, P %s", ss$r_five_with_4B1[i], ss$z_tag[i], ss$z_tag_given_rs61773390[i], fmt_p(ss$p[i])), "single_snp_conditional.tsv")
+if (file.exists(file.path(TAB, "gcta_crosscheck.tsv"))) { gc2 <- t("gcta_crosscheck.tsv"); add("gcta_max_rel_diff", signif(max(gc2$max_rel_diff_b), 2), "gcta_crosscheck.tsv") }
+if (file.exists(file.path(TAB, "susie_credible_sets.tsv"))) {
+  su <- t("susie_credible_sets.tsv"); sd_ <- t("susie_diagnostics.tsv"); stg <- t("susie_tags.tsv")
+  sfx <- function(pn) ifelse(pn == "EUR", "", paste0("_", pn))         # the main panel keeps the plain keys
+  for (i in seq_len(nrow(sd_))) add(paste0("susie_", sd_$trait[i], sfx(sd_$panel[i])), sprintf("%d credible sets; LD mismatch s = %.3f", sd_$credible_sets[i], sd_$ld_mismatch_s[i]), "susie_diagnostics.tsv")
+  for (i in seq_len(nrow(su))) add(paste0("susie_cs_", su$trait[i], "_", su$credible_set[i], sfx(su$panel[i])), sprintf("lead %s (PIP %.2f), %d variants; minor allele on %s; best lineage %s (r2 %.2f)", su$lead[i], su$lead_pip[i], su$size[i], su$minor_allele_haplotypes_by_lineage[i], su$best_lineage[i], su$r2_best_lineage[i]), "susie_credible_sets.tsv")
+  for (i in seq_len(nrow(stg))) add(paste0("susie_pip_", stg$trait[i], "_", stg$tag[i], sfx(stg$panel[i])), stg$pip[i], "susie_tags.tsv")
+}
+gx <- t("gtex_summary.tsv")
+for (i in seq_len(nrow(gx))) add(paste0("gtex_", gx$rsid[i]), sprintf("%s; tissues P<0.05: %d of %d; Bonferroni: %d; top %s NES %.3f P %s; brain P<0.05: %d of %d; hypothalamus NES %.3f P %s", gx$marks[i], gx$tissues_p05[i], gx$tissues[i], gx$tissues_bonferroni[i], gx$top_tissue[i], gx$top_NES[i], fmt_p(gx$top_p[i]), gx$brain_p05[i], gx$brain_tissues[i], gx$hypothalamus_NES[i], fmt_p(gx$hypothalamus_p[i])), "gtex_summary.tsv")
+pq <- t("gwas_catalog_per3_protein.tsv")
+add("pqtl_per3", sprintf("%d associations; strongest %s-%s P %s (%s); 1000G carriers %s, on 4B %s", nrow(pq), pq$rsid[1], pq$effect_allele[1], pq$p_value[1], pq$first_author[1], pq$carriers_1000G_all[1], pq$on_4B_1000G_all[1]), "gwas_catalog_per3_protein.tsv")
+mk <- t("mukamel_sleep_traits.tsv")
+for (i in seq_len(nrow(mk))) add(paste0("mukamel_", mk$mukamel_phenotype[i]), sprintf("z %.2f, P %s", mk$mukamel_z_longer[i], mk$mukamel_p[i]), "mukamel_sleep_traits.tsv")
+ie <- t("implied_length_effects.tsv"); ip <- ie[ie$level == "population", ]
+add("implied_per_allele_sd_range", sprintf("%.4f to %.4f", min(ip$implied_beta_five_sd), max(ip$implied_beta_five_sd)), "implied_length_effects.tsv")
+add("implied_55v44_sd_range", sprintf("%.4f to %.4f", min(ip$implied_55_vs_44_sd), max(ip$implied_55_vs_44_sd)), "implied_length_effects.tsv")
+pu <- t("primate_units_by_species.tsv")
+for (i in seq_len(nrow(pu))) add(paste0("primate_", gsub(" ", "_", pu$species[i])), sprintf("DNA %s; protein %s", pu$dna_units[i], pu$protein_units[i]), "primate_units_by_species.tsv")
+pd <- t("primate_units_dna.tsv")
+add("primate_sequences_long_read", sum(pd$long_read_assembly == "yes"), "primate_units_dna.tsv", "of the 35 genome sequences (filled dots in Figure 5, with GRCh38)")
+pa <- t("primate_aligned_region.tsv")
+for (g in unique(pa$group)) add(paste0("aligned_region_", gsub("[^A-Za-z]", "", g)), paste(sort(pa$residues_aligned_to_human_repeat[pa$group == g]), collapse = ","), "primate_aligned_region.tsv")
+out <- do.call(rbind, N)
+write.table(out, file.path(ROOT, "outputs", "manuscript_numbers.tsv"), sep = "\t", quote = FALSE, row.names = FALSE)
+cat(sprintf("16: %d numbers written to outputs/manuscript_numbers.tsv\n", nrow(out)))

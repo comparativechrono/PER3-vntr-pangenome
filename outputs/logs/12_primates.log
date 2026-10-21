@@ -1,0 +1,62 @@
+12: units in the genome sequences:
+    Gorilla gorilla gorilla        second_haplotype   4.0   long-read: yes     R1(0) R1(1) R4(1) R5(0)
+    Gorilla gorilla gorilla        second_haplotype   3.61  long-read: yes     R1(0) R1(1) R4(9) R1(17)
+    Homo sapiens                   CHM13              5.0   long-read: yes     R1(0) R2(0) R3(0) R4(0) R5(0)
+    Homo sapiens                   GRCh38             5.0   long-read: unknown R1(0) R2(0) R3(0) R4(0) R5(0)
+    Pan paniscus                   second_haplotype   3.0   long-read: yes     R1(0) R1(3) R5(1)
+    Pan paniscus                   second_haplotype   3.0   long-read: yes     R1(0) R1(3) R5(1)
+    Pan troglodytes                reference_assembly 4.0   long-read: yes     R1(0) R3(1) R4(1) R5(1)
+    Pan troglodytes                second_haplotype   4.0   long-read: yes     R1(0) R3(1) R4(1) R5(1)
+    Pongo abelii                   reference_assembly 3.0   long-read: yes     R1(1) R4(2) R5(1)
+    Pongo abelii                   second_haplotype   3.0   long-read: yes     R1(1) R4(2) R5(1)
+    Pongo pygmaeus                 reference_assembly 3.0   long-read: yes     R1(1) R4(3) R5(1)
+    Pongo pygmaeus                 second_haplotype   3.0   long-read: yes     R1(1) R4(2) R5(1)
+    Hylobates moloch               reference_assembly 3.0   long-read: yes     R1(1) R4(4) R5(2)
+    Nomascus leucogenys            reference_assembly 3.0   long-read: yes     R1(1) R4(1) R5(2)
+    Symphalangus syndactylus       reference_assembly 4.0   long-read: yes     R1(1) R1(3) R4(3) R5(1)
+    Symphalangus syndactylus       second_haplotype   4.0   long-read: yes     R1(1) R1(3) R4(3) R5(1)
+    Cercocebus atys                reference_assembly 3.0   long-read: yes     R1(2) R4(4) R5(3)
+    Chlorocebus sabaeus            reference_assembly 3.0   long-read: yes     R1(1) R4(3) R5(1)
+    Colobus angolensis palliatus   reference_assembly 3.0   long-read: no      R1(1) R4(3) R5(1)
+    Macaca fascicularis            reference_assembly 3.0   long-read: yes     R1(2) R4(2) R5(3)
+    Macaca mulatta                 reference_assembly 3.0   long-read: yes     R1(2) R4(2) R5(3)
+    Macaca nemestrina              reference_assembly 3.0   long-read: yes     R1(2) R4(3) R5(3)
+    Macaca thibetana thibetana     reference_assembly 3.0   long-read: yes     R1(2) R4(3) R5(3)
+    Mandrillus leucophaeus         reference_assembly 3.0   long-read: no      R1(3) R4(4) R5(3)
+    Papio anubis                   reference_assembly 3.0   long-read: yes     R1(2) R4(4) R5(3)
+    Piliocolobus tephrosceles      reference_assembly 3.0   long-read: unknown R1(1) R4(3) R5(1)
+    Rhinopithecus bieti            reference_assembly 3.0   long-read: unknown R1(2) R4(3) R5(2)
+    Rhinopithecus roxellana        reference_assembly 3.0   long-read: yes     R1(2) R4(3) R5(2)
+    Theropithecus gelada           reference_assembly 3.0   long-read: unknown R1(2) R4(4) R5(3)
+    Trachypithecus francoisi       reference_assembly 3.0   long-read: no      R1(2) R4(3) R5(1)
+    Aotus nancymaae                reference_assembly 2.0   long-read: yes     R1(1) R5(4)
+    Callithrix jacchus             reference_assembly 7.0   long-read: yes     R1(5) R1(3) R1(3) R1(4) R1(5) R1(4) R5(4)
+    Cebus imitator                 reference_assembly 2.0   long-read: no      R1(4) R5(3)
+    Saimiri boliviensis            reference_assembly 4.0   long-read: yes     R1(3) R1(4) R1(4) R5(4)
+    Sapajus apella                 reference_assembly 2.0   long-read: no      R1(4) R5(3)
+12: units in the proteins, by group:
+    Hominidae (great apes)                        ['3.0', '3.61', '4.0', '5.0']
+    Hylobatidae (gibbons)                         ['3.0', '4.0']
+    Cercopithecidae (Old World monkeys)           ['3.0']
+    Platyrrhini (New World monkeys)               ['2.0', '4.0', '7.0']
+    Tarsiidae (tarsiers)                          ['none']
+    Strepsirrhini (lemurs, lorises, galagos)      ['none']
+    Dermoptera (colugos; not primates)            ['none']
+    Rodentia (not primates)                       ['none']
+    Carnivora (not primates)                      ['none']
+    Artiodactyla (not primates)                   ['none']
+    Marsupialia (not primates)                    ['none']
+    Aves (a bird)                                 ['none']
+12: residues aligned to the 90-residue human repeat (kalign), by group:
+    Hominidae (great apes)                        [54, 54, 54, 65, 72, 90]
+    Hylobatidae (gibbons)                         [54, 54, 72]
+    Cercopithecidae (Old World monkeys)           [54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54, 54]
+    Platyrrhini (New World monkeys)               [36, 36, 36, 72, 126]
+    Tarsiidae (tarsiers)                          [21]
+    Strepsirrhini (lemurs, lorises, galagos)      [21, 21, 21, 21, 21, 21]
+    Dermoptera (colugos; not primates)            [0]
+    Rodentia (not primates)                       [14, 16, 16, 16, 16]
+    Carnivora (not primates)                      [21, 21, 21, 21]
+    Artiodactyla (not primates)                   [0, 0, 0, 20, 21, 49]
+    Marsupialia (not primates)                    [44]
+    Aves (a bird)                                 [44]

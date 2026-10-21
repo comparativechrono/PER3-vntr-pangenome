@@ -1,0 +1,475 @@
+key	value	source	note
+hprc_people	231	hprc_haplotype_alleles.tsv	
+hprc_haplotypes	462	hprc_haplotype_alleles.tsv	
+hprc_four_unit	327	hprc_haplotype_alleles.tsv	
+hprc_five_unit	135	hprc_haplotype_alleles.tsv	
+hprc_other_unit_numbers	0	hprc_haplotype_alleles.tsv	
+hprc_length_method_disagree	3	hprc_haplotype_alleles.tsv	599-bp haplotypes (1-bp deletion outside the repeat)
+hprc_lineage_4A	238	hprc_haplotype_alleles.tsv	
+hprc_lineage_4B	85	hprc_haplotype_alleles.tsv	
+hprc_lineage_5A	108	hprc_haplotype_alleles.tsv	
+hprc_lineage_5B	26	hprc_haplotype_alleles.tsv	
+hprc_lineage_other	5	hprc_haplotype_alleles.tsv	
+hprc_total_units	1983	hprc_haplotype_alleles.tsv	
+hprc_four_common_alleles	457 of 462 (98.9%)	hprc_haplotype_alleles.tsv	
+hprc_distinct_structures	8	allele_structures.tsv	
+distinct_unit_sequences	11	unit_catalogue.tsv	
+ser_thr_4A	27	hprc_haplotype_alleles.tsv	
+ser_thr_4B	28	hprc_haplotype_alleles.tsv	
+ser_thr_5A	33	hprc_haplotype_alleles.tsv	
+ser_thr_5B	33	hprc_haplotype_alleles.tsv	
+pggb_concordant	462	graph_concordance.tsv	
+pggb_compared	462	graph_concordance.tsv	
+hprc_freq5_AFR	0.371 (0.296-0.454)	hprc_freq_by_group.tsv	
+hprc_freq5_AMR	0.182 (0.115-0.275)	hprc_freq_by_group.tsv	
+hprc_freq5_EAS	0.225 (0.155-0.316)	hprc_freq_by_group.tsv	
+hprc_freq5_EUR	0.367 (0.256-0.493)	hprc_freq_by_group.tsv	
+hprc_freq5_SAS	0.306 (0.211-0.420)	hprc_freq_by_group.tsv	
+hprc_freq5_All	0.292 (0.253-0.335)	hprc_freq_by_group.tsv	
+hprc_chisq	chi2 = 13.3, df = 4, P = 0.0099	hprc_tests.tsv	
+hprc_hwe_p	0.43	hprc_tests.tsv	
+hprc_genotypes	4/4 113; 4/5 101; 5/5 17	hprc_genotypes.tsv	
+hprc_share4B_of_four_AFR	0.128	hprc_lineages_by_group.tsv	
+hprc_share4B_of_four_AMR	0.394	hprc_lineages_by_group.tsv	
+hprc_share4B_of_four_EAS	0.051	hprc_lineages_by_group.tsv	
+hprc_share4B_of_four_EUR	0.514	hprc_lineages_by_group.tsv	
+hprc_share4B_of_four_SAS	0.46	hprc_lineages_by_group.tsv	
+hprc_share4B_of_four_All	0.263	hprc_lineages_by_group.tsv	
+tag_r2_all_rs228701	0.9896	hprc_tags_top.tsv	
+tag_r2_AFR_rs228701	0.97	hprc_tags_top.tsv	
+tag_r2_AMR_rs228701	1	hprc_tags_top.tsv	
+tag_r2_EAS_rs228701	1	hprc_tags_top.tsv	
+tag_r2_EUR_rs228701	1	hprc_tags_top.tsv	
+tag_r2_SAS_rs228701	1	hprc_tags_top.tsv	
+tag_r2_all_rs1773135	0.9896	hprc_tags_top.tsv	
+tag_r2_AFR_rs1773135	0.97	hprc_tags_top.tsv	
+tag_r2_AMR_rs1773135	1	hprc_tags_top.tsv	
+tag_r2_EAS_rs1773135	1	hprc_tags_top.tsv	
+tag_r2_EUR_rs1773135	1	hprc_tags_top.tsv	
+tag_r2_SAS_rs1773135	1	hprc_tags_top.tsv	
+proxy_r2_rs2087947	all 0.58; AFR 0.43, AMR 0.78, EAS 0.58, EUR 0.63, SAS 0.94	hprc_ld_vntr_snvs.tsv	
+proxy_r2_rs696305	all 0.24; AFR 0.71, AMR 0.03, EAS 0.17, EUR 0.25, SAS 0.21	hprc_ld_vntr_snvs.tsv	
+proxy_r2_rs172933	all 0.07; AFR 0.19, AMR 0.00, EAS 0.15, EUR 0.01, SAS 0.16	hprc_ld_vntr_snvs.tsv	
+proxy_r2_rs488728	all 0.11; AFR 0.24, AMR 0.01, EAS 0.27, EUR 0.04, SAS 0.19	hprc_ld_vntr_snvs.tsv	
+proxy_r2_rs228640	all 0.19; AFR 0.07, AMR 0.35, EAS 0.12, EUR 0.29, SAS 0.25	hprc_ld_vntr_snvs.tsv	
+proxy_r2_rs228729	all 0.65; AFR 0.45, AMR 0.92, EAS 0.56, EUR 1.00, SAS 0.94	hprc_ld_vntr_snvs.tsv	
+ld_extent_r2_gt_0.95	2 SNVs, span 0.5 kb, farthest 0.3 kb	hprc_ld_extent.tsv	
+ld_extent_r2_gt_0.8	3 SNVs, span 1.2 kb, farthest 0.9 kb	hprc_ld_extent.tsv	
+ld_extent_r2_gt_0.5	26 SNVs, span 61.2 kb, farthest 44.4 kb	hprc_ld_extent.tsv	
+ld_extent_r2_gt_0.2	53 SNVs, span 166.5 kb, farthest 136.1 kb	hprc_ld_extent.tsv	
+best_tag_4A	rs2859387-A r2 = 0.983	hprc_lineage_tags.tsv	
+best_tag_4B	rs228663-A r2 = 0.986	hprc_lineage_tags.tsv	
+best_tag_5A	rs12023156-G r2 = 0.988	hprc_lineage_tags.tsv	
+best_tag_5B	rs228728-A r2 = 0.602	hprc_lineage_tags.tsv	
+kg_tags_r2_all	0.9981	kg_tag_ld.tsv	
+kg_units_concordant	221 of 222	kg_validation.tsv	
+kg_lineage_concordant	217 of 217 (people without an 'other' allele)	kg_validation.tsv	
+kg_freq5_AFR	0.373 (0.347-0.399)	kg_freq_by_group.tsv	
+kg_freq5_AMR	0.256 (0.225-0.290)	kg_freq_by_group.tsv	
+kg_freq5_EAS	0.148 (0.127-0.171)	kg_freq_by_group.tsv	
+kg_freq5_EUR	0.335 (0.307-0.365)	kg_freq_by_group.tsv	
+kg_freq5_SAS	0.349 (0.319-0.379)	kg_freq_by_group.tsv	
+kg_freq5_All	0.299 (0.287-0.312)	kg_freq_by_group.tsv	
+kg_freq5_min	CDX 0.081	kg_freq_by_population.tsv	
+kg_freq5_max	GWD 0.403	kg_freq_by_population.tsv	
+kg_lineages_AFR	4A 0.54, 4B 0.09, 5A 0.24, 5B 0.14	kg_lineages_by_group.tsv	
+kg_lineages_AMR	4A 0.46, 4B 0.28, 5A 0.21, 5B 0.05	kg_lineages_by_group.tsv	
+kg_lineages_EAS	4A 0.80, 4B 0.05, 5A 0.15, 5B 0.00	kg_lineages_by_group.tsv	
+kg_lineages_EUR	4A 0.37, 4B 0.29, 5A 0.29, 5B 0.05	kg_lineages_by_group.tsv	
+kg_lineages_SAS	4A 0.39, 4B 0.26, 5A 0.33, 5B 0.02	kg_lineages_by_group.tsv	
+kg_lineages_All	4A 0.52, 4B 0.18, 5A 0.24, 5B 0.06	kg_lineages_by_group.tsv	
+kg_sv_deletion_haplotypes	15 of 6404 (four-unit by tag: 4466)	kg_sv_calls.tsv	
+kg_sv_by_group_All	15 of 6404 haplotypes with a call: 14 on five-unit tag, 1 on four-unit tag (of 4466 four-unit by tag); five-unit-tag carriers 0.0022	kg_sv_by_group.tsv	
+kg_sv_by_group_AFR	14 of 1786 haplotypes with a call: 14 on five-unit tag, 0 on four-unit tag (of 1118 four-unit by tag); five-unit-tag carriers 0.0078	kg_sv_by_group.tsv	
+kg_sv_by_group_AMR	1 of 980 haplotypes with a call: 0 on five-unit tag, 1 on four-unit tag (of 733 four-unit by tag); five-unit-tag carriers 0.0000	kg_sv_by_group.tsv	
+kg_sv_by_group_EAS	0 of 1170 haplotypes with a call: 0 on five-unit tag, 0 on four-unit tag (of 989 four-unit by tag); five-unit-tag carriers 0.0000	kg_sv_by_group.tsv	
+kg_sv_by_group_EUR	0 of 1266 haplotypes with a call: 0 on five-unit tag, 0 on four-unit tag (of 836 four-unit by tag); five-unit-tag carriers 0.0000	kg_sv_by_group.tsv	
+kg_sv_by_group_SAS	0 of 1202 haplotypes with a call: 0 on five-unit tag, 0 on four-unit tag (of 790 four-unit by tag); five-unit-tag carriers 0.0000	kg_sv_by_group.tsv	
+kg_sv_structures	R1-R2-R4*8T>C,14T>C-R5 (5 units by tag): 12; R1-R2-R4*8T>C-R5 (4 units by tag): 1; R1-R3*9A>G-R4-R5 (5 units by tag): 1; R1-R3*9A>G-R4-R5*9G>T (5 units by tag): 1	kg_sv_carriers.tsv	
+kg_sv_carriers_in_hprc	HG02257_hap2: R1-R2-R3*9A>G-R4-R5 / R1-R2-R4*8T>C,14T>C-R5	kg_sv_carriers.tsv	
+sublineages_HPRC_AFR	4B.1 8, 4B.2 1, 4B.0 2, 4B haplotypes 11	sublineages_by_group.tsv	
+sublineages_HPRC_AMR	4B.1 19, 4B.2 9, 4B.0 0, 4B haplotypes 28	sublineages_by_group.tsv	
+sublineages_HPRC_EAS	4B.1 1, 4B.2 3, 4B.0 0, 4B haplotypes 4	sublineages_by_group.tsv	
+sublineages_HPRC_EUR	4B.1 15, 4B.2 4, 4B.0 0, 4B haplotypes 19	sublineages_by_group.tsv	
+sublineages_HPRC_SAS	4B.1 15, 4B.2 8, 4B.0 0, 4B haplotypes 23	sublineages_by_group.tsv	
+sublineages_HPRC_All	4B.1 58, 4B.2 25, 4B.0 2, 4B haplotypes 85	sublineages_by_group.tsv	
+sublineages_1000G2504unrelated_AFR	4B.1 94, 4B.2 13, 4B.0 15, 4B haplotypes 122	sublineages_by_group.tsv	
+sublineages_1000G2504unrelated_AMR	4B.1 148, 4B.2 48, 4B.0 1, 4B haplotypes 197	sublineages_by_group.tsv	
+sublineages_1000G2504unrelated_EAS	4B.1 8, 4B.2 43, 4B.0 0, 4B haplotypes 51	sublineages_by_group.tsv	
+sublineages_1000G2504unrelated_EUR	4B.1 198, 4B.2 97, 4B.0 0, 4B haplotypes 295	sublineages_by_group.tsv	
+sublineages_1000G2504unrelated_SAS	4B.1 158, 4B.2 98, 4B.0 0, 4B haplotypes 256	sublineages_by_group.tsv	
+sublineages_1000G2504unrelated_All	4B.1 606, 4B.2 299, 4B.0 16, 4B haplotypes 921	sublineages_by_group.tsv	
+kg_EUR_on_sublineages_rs150812083-G	11 carriers; 4B.1 11/198, 4B.2 0/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs10462020-G	198 carriers; 4B.1 198/198, 4B.2 0/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs61773390-T	198 carriers; 4B.1 198/198, 4B.2 0/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs228697-G	97 carriers; 4B.1 0/198, 4B.2 97/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs228726-A	96 carriers; 4B.1 0/198, 4B.2 93/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs228654-A	97 carriers; 4B.1 0/198, 4B.2 97/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs2640909-C	295 carriers; 4B.1 198/198, 4B.2 97/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs228663-A	295 carriers; 4B.1 198/198, 4B.2 97/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs2859387-A	374 carriers; 4B.1 0/198, 4B.2 0/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs12023156-G	289 carriers; 4B.1 0/198, 4B.2 0/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs6680585-A	288 carriers; 4B.1 0/198, 4B.2 0/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs7545893-A	198 carriers; 4B.1 197/198, 4B.2 0/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs2087947-T	287 carriers; 4B.1 1/198, 4B.2 2/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs148515378-A	17 carriers; 4B.1 0/198, 4B.2 17/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_EUR_on_sublineages_rs10462021-G	198 carriers; 4B.1 198/198, 4B.2 0/97, 4B.0 0/0	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs150812083-G	17 carriers; 4B.1 17/606, 4B.2 0/299, 4B.0 0/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs10462020-G	604 carriers; 4B.1 604/606, 4B.2 0/299, 4B.0 0/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs61773390-T	606 carriers; 4B.1 606/606, 4B.2 0/299, 4B.0 0/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs228697-G	302 carriers; 4B.1 0/606, 4B.2 299/299, 4B.0 0/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs228726-A	310 carriers; 4B.1 0/606, 4B.2 295/299, 4B.0 12/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs228654-A	315 carriers; 4B.1 0/606, 4B.2 299/299, 4B.0 16/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs2640909-C	921 carriers; 4B.1 606/606, 4B.2 299/299, 4B.0 16/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs228663-A	921 carriers; 4B.1 606/606, 4B.2 299/299, 4B.0 16/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs2859387-A	2587 carriers; 4B.1 0/606, 4B.2 0/299, 4B.0 0/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs12023156-G	1217 carriers; 4B.1 0/606, 4B.2 0/299, 4B.0 0/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs6680585-A	1227 carriers; 4B.1 0/606, 4B.2 0/299, 4B.0 0/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs7545893-A	606 carriers; 4B.1 603/606, 4B.2 0/299, 4B.0 0/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs2087947-T	1263 carriers; 4B.1 1/606, 4B.2 2/299, 4B.0 3/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs148515378-A	51 carriers; 4B.1 0/606, 4B.2 51/299, 4B.0 0/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+kg_All_on_sublineages_rs10462021-G	606 carriers; 4B.1 606/606, 4B.2 0/299, 4B.0 0/16	lineage_snps_1kg.tsv	carrier haplotypes on each 4B sub-lineage (unrelated)
+eur_on_lineages_rs150812083-G	0/374 | 11/295 | 0/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs10462020-G	0/374 | 198/295 | 0/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs61773390-T	0/374 | 198/295 | 0/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs228697-G	0/374 | 97/295 | 0/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs228726-A	1/374 | 93/295 | 2/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs228654-A	0/374 | 97/295 | 0/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs2640909-C	0/374 | 295/295 | 0/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs228663-A	0/374 | 295/295 | 0/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs2859387-A	374/374 | 0/295 | 0/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs12023156-G	1/374 | 0/295 | 288/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs6680585-A	1/374 | 0/295 | 287/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs7545893-A	0/374 | 197/295 | 1/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs2087947-T	5/374 | 3/295 | 279/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs148515378-A	0/374 | 17/295 | 0/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+eur_on_lineages_rs10462021-G	0/374 | 198/295 | 0/288 | 0/49	lineage_snps_1kg.tsv	carriers on 4A | 4B | 5A | 5B
+tag_chronotype	beta -0.002972 (SE 0.00283), P 0.28; -0.0023 SD (95% CI -0.0067 to 0.0020); MDE80 0.0062 SD	gwas_tag_results.tsv	
+tag_morning	beta -0.008337 (SE 0.00476), P 0.070; -0.0041 SD (95% CI -0.0087 to 0.0005); MDE80 0.0066 SD	gwas_tag_results.tsv	
+tag_sleepdur	beta 0.003258 (SE 0.00239), P 0.16; 0.0030 SD (95% CI -0.0013 to 0.0074); MDE80 0.0063 SD	gwas_tag_results.tsv	
+tag_insomnia	beta 0.002009 (SE 0.00146), P 0.19; 0.0030 SD (95% CI -0.0013 to 0.0074); MDE80 0.0062 SD	gwas_tag_results.tsv	
+tag_nap	beta 0.003074 (SE 0.00128), P 0.020; 0.0053 SD (95% CI 0.0010 to 0.0097); MDE80 0.0062 SD	gwas_tag_results.tsv	
+tag_acc_midpoint	beta 0.01704 (SE 0.0051), P 9.0e-04; 0.0171 SD (95% CI 0.0071 to 0.0272); MDE80 0.0144 SD	gwas_tag_results.tsv	
+tag_acc_l5	beta 0.00738 (SE 0.00506), P 0.15; 0.0075 SD (95% CI -0.0026 to 0.0175); MDE80 0.0143 SD	gwas_tag_results.tsv	
+tag_acc_m10	beta -0.001088 (SE 0.00503), P 0.82; -0.0011 SD (95% CI -0.0111 to 0.0089); MDE80 0.0143 SD	gwas_tag_results.tsv	
+tag_acc_duration	beta -0.005966 (SE 0.00499), P 0.24; -0.0061 SD (95% CI -0.0161 to 0.0039); MDE80 0.0143 SD	gwas_tag_results.tsv	
+tag_acc_efficiency	beta 0.003028 (SE 0.00496), P 0.56; 0.0031 SD (95% CI -0.0069 to 0.0132); MDE80 0.0144 SD	gwas_tag_results.tsv	
+tag_acc_episodes	beta 0.006386 (SE 0.00492), P 0.20; 0.0066 SD (95% CI -0.0034 to 0.0167); MDE80 0.0144 SD	gwas_tag_results.tsv	
+tag_acc_duration_sd	beta 0.001652 (SE 0.0051), P 0.70; 0.0017 SD (95% CI -0.0084 to 0.0117); MDE80 0.0144 SD	gwas_tag_results.tsv	
+tag_acc_inactivity	beta -0.008886 (SE 0.00493), P 0.066; -0.0092 SD (95% CI -0.0193 to 0.0008); MDE80 0.0144 SD	gwas_tag_results.tsv	
+tag_acc_midpoint_seconds	31 s per allele (95% CI 12 to 50 s), P 0.0013	gwas_tag_accelerometer_raw_units.tsv	GWAS of untransformed sleep midpoint
+chronotype_marginal_rs1773135-A	freq 0.3401, beta -0.0030, P 0.28	gwas_lineage_marker_results.tsv	
+chronotype_marginal_rs2859387-A	freq 0.3661, beta -0.0072, P 0.011	gwas_lineage_marker_results.tsv	
+chronotype_marginal_rs228663-A	freq 0.2939, beta 0.0113, P 1.4e-04	gwas_lineage_marker_results.tsv	
+chronotype_marginal_rs61773390-T	freq 0.1964, beta 0.0341, P 1.2e-23	gwas_lineage_marker_results.tsv	
+chronotype_marginal_rs10462020-G	freq 0.1966, beta 0.0339, P 2.3e-23	gwas_lineage_marker_results.tsv	
+chronotype_marginal_rs228697-G	freq 0.0971, beta -0.0344, P 4.8e-14	gwas_lineage_marker_results.tsv	
+chronotype_marginal_rs228654-A	freq 0.0967, beta -0.0346, P 3.7e-14	gwas_lineage_marker_results.tsv	
+chronotype_marginal_rs228726-A	freq 0.0964, beta -0.0350, P 2.2e-14	gwas_lineage_marker_results.tsv	
+chronotype_marginal_rs150812083-G	freq 0.0047, beta 0.1905, P 2.4e-22	gwas_lineage_marker_results.tsv	
+chronotype_marginal_rs6680585-A	freq 0.2959, beta -0.0015, P 0.63	gwas_lineage_marker_results.tsv	
+lineage_model_EUR_chronotype_rs1773135	5B vs 4A: bJ -0.0029 (SE 0.0063), P 0.65	lineage_model.tsv	
+lineage_model_EUR_chronotype_rs6680585	5A vs 5B: bJ 0.0057 (SE 0.0064), P 0.38	lineage_model.tsv	
+lineage_model_EUR_chronotype_rs61773390	4B.1 vs 4A: bJ 0.0250 (SE 0.0038), P 5.5e-11	lineage_model.tsv	
+lineage_model_EUR_chronotype_rs228697	4B.2 vs 4A: bJ -0.0278 (SE 0.0048), P 7.1e-09	lineage_model.tsv	
+lineage_model_EUR_chronotype_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ 0.1558 (SE 0.0203), P 1.7e-14	lineage_model.tsv	
+lineage_model_EUR_chronotype_rs1773135+rs6680585	5A vs 4A: bJ 0.0028 (SE 0.0033), P 0.39	lineage_model.tsv	
+lineage_model_EUR_chronotype_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ 0.0021 (SE 0.0031), P 0.51	lineage_model.tsv	
+lineage_model_EUR_chronotype_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.56	lineage_model.tsv	
+lineage_model_EUR_morning_rs1773135	5B vs 4A: bJ -0.0083 (SE 0.0106), P 0.43	lineage_model.tsv	
+lineage_model_EUR_morning_rs6680585	5A vs 5B: bJ 0.0091 (SE 0.0108), P 0.40	lineage_model.tsv	
+lineage_model_EUR_morning_rs61773390	4B.1 vs 4A: bJ 0.0402 (SE 0.0064), P 3.3e-10	lineage_model.tsv	
+lineage_model_EUR_morning_rs228697	4B.2 vs 4A: bJ -0.0447 (SE 0.0081), P 2.8e-08	lineage_model.tsv	
+lineage_model_EUR_morning_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ 0.2306 (SE 0.0339), P 1.1e-11	lineage_model.tsv	
+lineage_model_EUR_morning_rs1773135+rs6680585	5A vs 4A: bJ 0.0007 (SE 0.0055), P 0.90	lineage_model.tsv	
+lineage_model_EUR_morning_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ -0.0005 (SE 0.0053), P 0.93	lineage_model.tsv	
+lineage_model_EUR_morning_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.70	lineage_model.tsv	
+lineage_model_EUR_acc_midpoint_rs1773135	5B vs 4A: bJ 0.0348 (SE 0.0113), P 0.0021	lineage_model.tsv	
+lineage_model_EUR_acc_midpoint_rs6680585	5A vs 5B: bJ -0.0275 (SE 0.0116), P 0.017	lineage_model.tsv	
+lineage_model_EUR_acc_midpoint_rs61773390	4B.1 vs 4A: bJ -0.0201 (SE 0.0068), P 0.0033	lineage_model.tsv	
+lineage_model_EUR_acc_midpoint_rs228697	4B.2 vs 4A: bJ 0.0037 (SE 0.0086), P 0.67	lineage_model.tsv	
+lineage_model_EUR_acc_midpoint_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ -0.0547 (SE 0.0363), P 0.13	lineage_model.tsv	
+lineage_model_EUR_acc_midpoint_rs1773135+rs6680585	5A vs 4A: bJ 0.0074 (SE 0.0059), P 0.21	lineage_model.tsv	
+lineage_model_EUR_acc_midpoint_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ 0.0109 (SE 0.0056), P 0.053	lineage_model.tsv	
+lineage_model_EUR_acc_midpoint_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.0074	lineage_model.tsv	
+lineage_model_EUR_acc_l5_rs1773135	5B vs 4A: bJ 0.0115 (SE 0.0112), P 0.31	lineage_model.tsv	
+lineage_model_EUR_acc_l5_rs6680585	5A vs 5B: bJ -0.0103 (SE 0.0115), P 0.37	lineage_model.tsv	
+lineage_model_EUR_acc_l5_rs61773390	4B.1 vs 4A: bJ -0.0196 (SE 0.0068), P 0.0039	lineage_model.tsv	
+lineage_model_EUR_acc_l5_rs228697	4B.2 vs 4A: bJ 0.0155 (SE 0.0085), P 0.069	lineage_model.tsv	
+lineage_model_EUR_acc_l5_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ -0.1226 (SE 0.0360), P 6.6e-04	lineage_model.tsv	
+lineage_model_EUR_acc_l5_rs1773135+rs6680585	5A vs 4A: bJ 0.0012 (SE 0.0059), P 0.84	lineage_model.tsv	
+lineage_model_EUR_acc_l5_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ 0.0025 (SE 0.0056), P 0.65	lineage_model.tsv	
+lineage_model_EUR_acc_l5_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.59	lineage_model.tsv	
+lineage_model_EUR_acc_m10_rs1773135	5B vs 4A: bJ 0.0023 (SE 0.0112), P 0.83	lineage_model.tsv	
+lineage_model_EUR_acc_m10_rs6680585	5A vs 5B: bJ -0.0091 (SE 0.0114), P 0.43	lineage_model.tsv	
+lineage_model_EUR_acc_m10_rs61773390	4B.1 vs 4A: bJ -0.0167 (SE 0.0068), P 0.013	lineage_model.tsv	
+lineage_model_EUR_acc_m10_rs228697	4B.2 vs 4A: bJ 0.0103 (SE 0.0085), P 0.22	lineage_model.tsv	
+lineage_model_EUR_acc_m10_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ -0.1005 (SE 0.0358), P 0.0050	lineage_model.tsv	
+lineage_model_EUR_acc_m10_rs1773135+rs6680585	5A vs 4A: bJ -0.0068 (SE 0.0058), P 0.25	lineage_model.tsv	
+lineage_model_EUR_acc_m10_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ -0.0056 (SE 0.0056), P 0.32	lineage_model.tsv	
+lineage_model_EUR_acc_m10_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.46	lineage_model.tsv	
+lineage_model_EUR_noFIN_chronotype_rs1773135	5B vs 4A: bJ -0.0027 (SE 0.0062), P 0.66	lineage_model.tsv	
+lineage_model_EUR_noFIN_chronotype_rs6680585	5A vs 5B: bJ 0.0054 (SE 0.0063), P 0.39	lineage_model.tsv	
+lineage_model_EUR_noFIN_chronotype_rs61773390	4B.1 vs 4A: bJ 0.0260 (SE 0.0038), P 6.3e-12	lineage_model.tsv	
+lineage_model_EUR_noFIN_chronotype_rs228697	4B.2 vs 4A: bJ -0.0256 (SE 0.0049), P 1.3e-07	lineage_model.tsv	
+lineage_model_EUR_noFIN_chronotype_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ 0.1549 (SE 0.0201), P 1.4e-14	lineage_model.tsv	
+lineage_model_EUR_noFIN_chronotype_rs1773135+rs6680585	5A vs 4A: bJ 0.0027 (SE 0.0033), P 0.41	lineage_model.tsv	
+lineage_model_EUR_noFIN_chronotype_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ 0.0020 (SE 0.0032), P 0.52	lineage_model.tsv	
+lineage_model_EUR_noFIN_chronotype_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.58	lineage_model.tsv	
+lineage_model_EUR_noFIN_morning_rs1773135	5B vs 4A: bJ -0.0079 (SE 0.0104), P 0.44	lineage_model.tsv	
+lineage_model_EUR_noFIN_morning_rs6680585	5A vs 5B: bJ 0.0084 (SE 0.0106), P 0.43	lineage_model.tsv	
+lineage_model_EUR_noFIN_morning_rs61773390	4B.1 vs 4A: bJ 0.0417 (SE 0.0064), P 5.5e-11	lineage_model.tsv	
+lineage_model_EUR_noFIN_morning_rs228697	4B.2 vs 4A: bJ -0.0416 (SE 0.0081), P 3.2e-07	lineage_model.tsv	
+lineage_model_EUR_noFIN_morning_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ 0.2293 (SE 0.0336), P 8.9e-12	lineage_model.tsv	
+lineage_model_EUR_noFIN_morning_rs1773135+rs6680585	5A vs 4A: bJ 0.0005 (SE 0.0056), P 0.93	lineage_model.tsv	
+lineage_model_EUR_noFIN_morning_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ -0.0006 (SE 0.0053), P 0.91	lineage_model.tsv	
+lineage_model_EUR_noFIN_morning_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.72	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_midpoint_rs1773135	5B vs 4A: bJ 0.0333 (SE 0.0111), P 0.0027	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_midpoint_rs6680585	5A vs 5B: bJ -0.0259 (SE 0.0113), P 0.022	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_midpoint_rs61773390	4B.1 vs 4A: bJ -0.0203 (SE 0.0068), P 0.0028	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_midpoint_rs228697	4B.2 vs 4A: bJ 0.0030 (SE 0.0087), P 0.73	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_midpoint_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ -0.0592 (SE 0.0359), P 0.099	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_midpoint_rs1773135+rs6680585	5A vs 4A: bJ 0.0075 (SE 0.0060), P 0.21	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_midpoint_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ 0.0108 (SE 0.0057), P 0.057	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_midpoint_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.0093	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_l5_rs1773135	5B vs 4A: bJ 0.0110 (SE 0.0110), P 0.32	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_l5_rs6680585	5A vs 5B: bJ -0.0099 (SE 0.0112), P 0.38	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_l5_rs61773390	4B.1 vs 4A: bJ -0.0204 (SE 0.0067), P 0.0024	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_l5_rs228697	4B.2 vs 4A: bJ 0.0138 (SE 0.0086), P 0.11	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_l5_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ -0.1234 (SE 0.0357), P 5.4e-04	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_l5_rs1773135+rs6680585	5A vs 4A: bJ 0.0011 (SE 0.0059), P 0.85	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_l5_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ 0.0024 (SE 0.0056), P 0.67	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_l5_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.61	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_m10_rs1773135	5B vs 4A: bJ 0.0020 (SE 0.0110), P 0.86	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_m10_rs6680585	5A vs 5B: bJ -0.0089 (SE 0.0112), P 0.43	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_m10_rs61773390	4B.1 vs 4A: bJ -0.0174 (SE 0.0067), P 0.0093	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_m10_rs228697	4B.2 vs 4A: bJ 0.0085 (SE 0.0086), P 0.32	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_m10_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ -0.1017 (SE 0.0355), P 0.0041	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_m10_rs1773135+rs6680585	5A vs 4A: bJ -0.0069 (SE 0.0059), P 0.24	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_m10_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ -0.0058 (SE 0.0056), P 0.30	lineage_model.tsv	
+lineage_model_EUR_noFIN_acc_m10_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.45	lineage_model.tsv	
+lineage_model_CEU_GBR_chronotype_rs1773135	5B vs 4A: bJ 0.0050 (SE 0.0058), P 0.39	lineage_model.tsv	
+lineage_model_CEU_GBR_chronotype_rs6680585	5A vs 5B: bJ 0.0006 (SE 0.0059), P 0.92	lineage_model.tsv	
+lineage_model_CEU_GBR_chronotype_rs61773390	4B.1 vs 4A: bJ 0.0252 (SE 0.0039), P 1.7e-10	lineage_model.tsv	
+lineage_model_CEU_GBR_chronotype_rs228697	4B.2 vs 4A: bJ -0.0230 (SE 0.0049), P 2.1e-06	lineage_model.tsv	
+lineage_model_CEU_GBR_chronotype_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ 0.1485 (SE 0.0205), P 4.6e-13	lineage_model.tsv	
+lineage_model_CEU_GBR_chronotype_rs1773135+rs6680585	5A vs 4A: bJ 0.0056 (SE 0.0033), P 0.092	lineage_model.tsv	
+lineage_model_CEU_GBR_chronotype_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ 0.0055 (SE 0.0032), P 0.081	lineage_model.tsv	
+lineage_model_CEU_GBR_chronotype_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.22	lineage_model.tsv	
+lineage_model_CEU_GBR_morning_rs1773135	5B vs 4A: bJ 0.0045 (SE 0.0097), P 0.64	lineage_model.tsv	
+lineage_model_CEU_GBR_morning_rs6680585	5A vs 5B: bJ 0.0005 (SE 0.0099), P 0.96	lineage_model.tsv	
+lineage_model_CEU_GBR_morning_rs61773390	4B.1 vs 4A: bJ 0.0405 (SE 0.0066), P 9.3e-10	lineage_model.tsv	
+lineage_model_CEU_GBR_morning_rs228697	4B.2 vs 4A: bJ -0.0370 (SE 0.0081), P 5.4e-06	lineage_model.tsv	
+lineage_model_CEU_GBR_morning_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ 0.2172 (SE 0.0343), P 2.4e-10	lineage_model.tsv	
+lineage_model_CEU_GBR_morning_rs1773135+rs6680585	5A vs 4A: bJ 0.0050 (SE 0.0056), P 0.37	lineage_model.tsv	
+lineage_model_CEU_GBR_morning_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ 0.0049 (SE 0.0053), P 0.36	lineage_model.tsv	
+lineage_model_CEU_GBR_morning_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.65	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_midpoint_rs1773135	5B vs 4A: bJ 0.0263 (SE 0.0104), P 0.011	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_midpoint_rs6680585	5A vs 5B: bJ -0.0201 (SE 0.0106), P 0.058	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_midpoint_rs61773390	4B.1 vs 4A: bJ -0.0205 (SE 0.0071), P 0.0038	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_midpoint_rs228697	4B.2 vs 4A: bJ -0.0017 (SE 0.0087), P 0.84	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_midpoint_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ -0.0479 (SE 0.0367), P 0.19	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_midpoint_rs1773135+rs6680585	5A vs 4A: bJ 0.0063 (SE 0.0060), P 0.29	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_midpoint_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ 0.0089 (SE 0.0057), P 0.12	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_midpoint_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.036	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_l5_rs1773135	5B vs 4A: bJ 0.0048 (SE 0.0103), P 0.64	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_l5_rs6680585	5A vs 5B: bJ -0.0057 (SE 0.0105), P 0.59	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_l5_rs61773390	4B.1 vs 4A: bJ -0.0198 (SE 0.0070), P 0.0047	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_l5_rs228697	4B.2 vs 4A: bJ 0.0110 (SE 0.0086), P 0.20	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_l5_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ -0.1168 (SE 0.0364), P 0.0013	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_l5_rs1773135+rs6680585	5A vs 4A: bJ -0.0009 (SE 0.0059), P 0.88	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_l5_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ -0.0002 (SE 0.0057), P 0.97	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_l5_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.86	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_m10_rs1773135	5B vs 4A: bJ -0.0025 (SE 0.0102), P 0.80	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_m10_rs6680585	5A vs 5B: bJ -0.0061 (SE 0.0104), P 0.56	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_m10_rs61773390	4B.1 vs 4A: bJ -0.0170 (SE 0.0070), P 0.015	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_m10_rs228697	4B.2 vs 4A: bJ 0.0071 (SE 0.0086), P 0.41	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_m10_rs150812083	rare branch of 4B.1 (vs rest of 4B.1): bJ -0.0992 (SE 0.0362), P 0.0062	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_m10_rs1773135+rs6680585	5A vs 4A: bJ -0.0086 (SE 0.0059), P 0.14	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_m10_rs1773135+w*rs6680585	five units (5A and 5B by frequency) vs 4A: bJ -0.0078 (SE 0.0056), P 0.16	lineage_model.tsv	
+lineage_model_CEU_GBR_acc_m10_rs1773135,rs6680585	5A and 5B vs 4A (2-df test): bJ NA (SE NA), P 0.34	lineage_model.tsv	
+tag_info_chronotype	rs1773135 0.995; rs228701 0.995	gwas_tag_results.tsv	imputation information score in UK Biobank
+rare_branch_vs_4A_chronotype	4B.1 0.0250; rare branch 0.1808 (7.2 times)	lineage_model.tsv	joint effects relative to 4A, EUR panel
+lineage_five_vs_4A_chronotype_sd	0.0016 SD (95% CI -0.0032 to 0.0064); weight of 5A 0.87	lineage_model.tsv	joint effect / chronotype SD of step 08
+cojo_tag_EUR_chronotype_R	3 signals; conditional beta 0.0026 (SE 0.0031), P 0.40	cojo_tag_conditional.tsv	
+cojo_tag_EUR_chronotype_GCTA	3 signals; conditional beta 0.0022 (SE 0.0031), P 0.49	cojo_tag_conditional.tsv	
+cojo_tag_EUR_morning_R	3 signals; conditional beta -0.0001 (SE 0.0052), P 0.98	cojo_tag_conditional.tsv	
+cojo_tag_EUR_morning_GCTA	3 signals; conditional beta -0.0005 (SE 0.0052), P 0.92	cojo_tag_conditional.tsv	
+cojo_tag_EUR_acc_midpoint_R	0 signals; conditional beta 0.0170 (SE 0.0051), P 9.0e-04	cojo_tag_conditional.tsv	
+cojo_tag_EUR_acc_midpoint_GCTA	0 signals; conditional beta 0.0170 (SE 0.0051), P 9.0e-04	cojo_tag_conditional.tsv	
+cojo_tag_EUR_acc_l5_R	0 signals; conditional beta 0.0074 (SE 0.0051), P 0.15	cojo_tag_conditional.tsv	
+cojo_tag_EUR_acc_l5_GCTA	0 signals; conditional beta 0.0074 (SE 0.0051), P 0.15	cojo_tag_conditional.tsv	
+cojo_tag_EUR_acc_m10_R	0 signals; conditional beta -0.0011 (SE 0.0050), P 0.82	cojo_tag_conditional.tsv	
+cojo_tag_EUR_acc_m10_GCTA	0 signals; conditional beta -0.0011 (SE 0.0050), P 0.82	cojo_tag_conditional.tsv	
+cojo_tag_EUR_noFIN_chronotype_R	3 signals; conditional beta 0.0019 (SE 0.0031), P 0.56	cojo_tag_conditional.tsv	
+cojo_tag_EUR_noFIN_chronotype_GCTA	3 signals; conditional beta 0.0020 (SE 0.0032), P 0.53	cojo_tag_conditional.tsv	
+cojo_tag_EUR_noFIN_morning_R	3 signals; conditional beta -0.0008 (SE 0.0052), P 0.88	cojo_tag_conditional.tsv	
+cojo_tag_EUR_noFIN_morning_GCTA	2 signals; conditional beta 0.0073 (SE 0.0050), P 0.15	cojo_tag_conditional.tsv	
+cojo_tag_EUR_noFIN_acc_midpoint_R	0 signals; conditional beta 0.0170 (SE 0.0051), P 9.0e-04	cojo_tag_conditional.tsv	
+cojo_tag_EUR_noFIN_acc_midpoint_GCTA	0 signals; conditional beta 0.0170 (SE 0.0051), P 9.0e-04	cojo_tag_conditional.tsv	
+cojo_tag_EUR_noFIN_acc_l5_R	0 signals; conditional beta 0.0074 (SE 0.0051), P 0.15	cojo_tag_conditional.tsv	
+cojo_tag_EUR_noFIN_acc_l5_GCTA	0 signals; conditional beta 0.0074 (SE 0.0051), P 0.15	cojo_tag_conditional.tsv	
+cojo_tag_EUR_noFIN_acc_m10_R	0 signals; conditional beta -0.0011 (SE 0.0050), P 0.82	cojo_tag_conditional.tsv	
+cojo_tag_EUR_noFIN_acc_m10_GCTA	0 signals; conditional beta -0.0011 (SE 0.0050), P 0.82	cojo_tag_conditional.tsv	
+cojo_tag_CEU_GBR_chronotype_R	4 signals; conditional beta 0.0033 (SE 0.0032), P 0.29	cojo_tag_conditional.tsv	
+cojo_tag_CEU_GBR_chronotype_GCTA	4 signals; conditional beta 0.0051 (SE 0.0031), P 0.10	cojo_tag_conditional.tsv	
+cojo_tag_CEU_GBR_morning_R	4 signals; conditional beta 0.0026 (SE 0.0053), P 0.62	cojo_tag_conditional.tsv	
+cojo_tag_CEU_GBR_morning_GCTA	2 signals; conditional beta 0.0117 (SE 0.0051), P 0.023	cojo_tag_conditional.tsv	
+cojo_tag_CEU_GBR_acc_midpoint_R	0 signals; conditional beta 0.0170 (SE 0.0051), P 9.0e-04	cojo_tag_conditional.tsv	
+cojo_tag_CEU_GBR_acc_midpoint_GCTA	0 signals; conditional beta 0.0170 (SE 0.0051), P 9.0e-04	cojo_tag_conditional.tsv	
+cojo_tag_CEU_GBR_acc_l5_R	0 signals; conditional beta 0.0074 (SE 0.0051), P 0.15	cojo_tag_conditional.tsv	
+cojo_tag_CEU_GBR_acc_l5_GCTA	0 signals; conditional beta 0.0074 (SE 0.0051), P 0.15	cojo_tag_conditional.tsv	
+cojo_tag_CEU_GBR_acc_m10_R	0 signals; conditional beta -0.0011 (SE 0.0050), P 0.82	cojo_tag_conditional.tsv	
+cojo_tag_CEU_GBR_acc_m10_GCTA	0 signals; conditional beta -0.0011 (SE 0.0050), P 0.82	cojo_tag_conditional.tsv	
+single_cond_EUR_chronotype	r -0.334; z -1.05 -> 2.46, P 0.014	single_snp_conditional.tsv	
+single_cond_EUR_morning	r -0.334; z -1.75 -> 1.61, P 0.11	single_snp_conditional.tsv	
+single_cond_EUR_acc_midpoint	r -0.334; z 3.34 -> 1.98, P 0.048	single_snp_conditional.tsv	
+single_cond_EUR_acc_l5	r -0.334; z 1.46 -> -0.07, P 0.94	single_snp_conditional.tsv	
+single_cond_EUR_acc_m10	r -0.334; z -0.22 -> -1.41, P 0.16	single_snp_conditional.tsv	
+single_cond_EUR_noFIN_chronotype	r -0.327; z -1.05 -> 2.38, P 0.017	single_snp_conditional.tsv	
+single_cond_EUR_noFIN_morning	r -0.327; z -1.75 -> 1.54, P 0.12	single_snp_conditional.tsv	
+single_cond_EUR_noFIN_acc_midpoint	r -0.327; z 3.34 -> 2.00, P 0.045	single_snp_conditional.tsv	
+single_cond_EUR_noFIN_acc_l5	r -0.327; z 1.46 -> -0.04, P 0.97	single_snp_conditional.tsv	
+single_cond_EUR_noFIN_acc_m10	r -0.327; z -0.22 -> -1.38, P 0.17	single_snp_conditional.tsv	
+single_cond_CEU_GBR_chronotype	r -0.366; z -1.05 -> 2.85, P 0.0044	single_snp_conditional.tsv	
+single_cond_CEU_GBR_morning	r -0.366; z -1.75 -> 1.97, P 0.048	single_snp_conditional.tsv	
+single_cond_CEU_GBR_acc_midpoint	r -0.366; z 3.34 -> 1.85, P 0.065	single_snp_conditional.tsv	
+single_cond_CEU_GBR_acc_l5	r -0.366; z 1.46 -> -0.23, P 0.82	single_snp_conditional.tsv	
+single_cond_CEU_GBR_acc_m10	r -0.366; z -0.22 -> -1.54, P 0.12	single_snp_conditional.tsv	
+gcta_max_rel_diff	4.8e-06	gcta_crosscheck.tsv	
+susie_chronotype	3 credible sets; LD mismatch s = 0.064	susie_diagnostics.tsv	
+susie_morning	3 credible sets; LD mismatch s = 0.062	susie_diagnostics.tsv	
+susie_acc_midpoint	0 credible sets; LD mismatch s = 0.054	susie_diagnostics.tsv	
+susie_chronotype_EUR_noFIN	3 credible sets; LD mismatch s = 0.074	susie_diagnostics.tsv	
+susie_morning_EUR_noFIN	3 credible sets; LD mismatch s = 0.076	susie_diagnostics.tsv	
+susie_acc_midpoint_EUR_noFIN	0 credible sets; LD mismatch s = 0.064	susie_diagnostics.tsv	
+susie_chronotype_CEU_GBR	10 credible sets; LD mismatch s = 0.137	susie_diagnostics.tsv	
+susie_morning_CEU_GBR	6 credible sets; LD mismatch s = 0.129	susie_diagnostics.tsv	
+susie_acc_midpoint_CEU_GBR	0 credible sets; LD mismatch s = 0.127	susie_diagnostics.tsv	
+susie_cs_chronotype_1	lead rs111997612 (PIP 0.52), 2 variants; minor allele on 4A:19 4B.0:0 4B.1:140 4B.2:97 5A:0 5B:0; best lineage 4B (r2 0.66)	susie_credible_sets.tsv	
+susie_cs_chronotype_2	lead rs61773390 (PIP 0.14), 11 variants; minor allele on 4A:0 4B.0:0 4B.1:198 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 1.00)	susie_credible_sets.tsv	
+susie_cs_chronotype_3	lead rs150812083 (PIP 0.38), 4 variants; minor allele on 4A:0 4B.0:0 4B.1:11 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.04)	susie_credible_sets.tsv	
+susie_cs_morning_1	lead rs111997612 (PIP 0.51), 2 variants; minor allele on 4A:19 4B.0:0 4B.1:140 4B.2:97 5A:0 5B:0; best lineage 4B (r2 0.66)	susie_credible_sets.tsv	
+susie_cs_morning_2	lead rs61773390 (PIP 0.15), 11 variants; minor allele on 4A:0 4B.0:0 4B.1:198 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 1.00)	susie_credible_sets.tsv	
+susie_cs_morning_3	lead rs114167192 (PIP 0.37), 4 variants; minor allele on 4A:0 4B.0:0 4B.1:12 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.05)	susie_credible_sets.tsv	
+susie_cs_chronotype_1_EUR_noFIN	lead rs61773390 (PIP 0.11), 15 variants; minor allele on 4A:0 4B.0:0 4B.1:152 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 1.00)	susie_credible_sets.tsv	
+susie_cs_chronotype_2_EUR_noFIN	lead rs150812083 (PIP 0.38), 4 variants; minor allele on 4A:0 4B.0:0 4B.1:4 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.02)	susie_credible_sets.tsv	
+susie_cs_chronotype_3_EUR_noFIN	lead rs228690 (PIP 0.15), 18 variants; minor allele on 4A:0 4B.0:0 4B.1:0 4B.2:69 5A:0 5B:0; best lineage 4B.2 (r2 0.81)	susie_credible_sets.tsv	
+susie_cs_morning_1_EUR_noFIN	lead rs111997612 (PIP 0.51), 2 variants; minor allele on 4A:17 4B.0:0 4B.1:109 4B.2:84 5A:0 5B:0; best lineage 4B (r2 0.67)	susie_credible_sets.tsv	
+susie_cs_morning_2_EUR_noFIN	lead rs61773390 (PIP 0.16), 11 variants; minor allele on 4A:0 4B.0:0 4B.1:152 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 1.00)	susie_credible_sets.tsv	
+susie_cs_morning_3_EUR_noFIN	lead rs114167192 (PIP 0.35), 4 variants; minor allele on 4A:0 4B.0:0 4B.1:5 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.03)	susie_credible_sets.tsv	
+susie_cs_chronotype_1_CEU_GBR	lead rs150812083 (PIP 0.59), 2 variants; minor allele on 4A:0 4B.0:0 4B.1:3 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.04)	susie_credible_sets.tsv	
+susie_cs_chronotype_2_CEU_GBR	lead rs228663 (PIP 0.43), 3 variants; minor allele on 4A:0 4B.0:0 4B.1:71 4B.2:32 5A:0 5B:0; best lineage 4B (r2 1.00)	susie_credible_sets.tsv	
+susie_cs_chronotype_3_CEU_GBR	lead rs142695975 (PIP 1.00), 1 variants; minor allele on 4A:1 4B.0:0 4B.1:1 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.00)	susie_credible_sets.tsv	
+susie_cs_chronotype_4_CEU_GBR	lead rs138722594 (PIP 0.77), 2 variants; minor allele on 4A:1 4B.0:0 4B.1:0 4B.2:0 5A:2 5B:0; best lineage 5A (r2 0.01)	susie_credible_sets.tsv	
+susie_cs_chronotype_5_CEU_GBR	lead rs186777642 (PIP 1.00), 1 variants; minor allele on 4A:1 4B.0:0 4B.1:1 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.00)	susie_credible_sets.tsv	
+susie_cs_chronotype_6_CEU_GBR	lead rs189987722 (PIP 1.00), 1 variants; minor allele on 4A:0 4B.0:0 4B.1:3 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.04)	susie_credible_sets.tsv	
+susie_cs_chronotype_7_CEU_GBR	lead rs145018855 (PIP 1.00), 1 variants; minor allele on 4A:0 4B.0:0 4B.1:1 4B.2:0 5A:1 5B:0; best lineage 4B.1 (r2 0.00)	susie_credible_sets.tsv	
+susie_cs_chronotype_8_CEU_GBR	lead rs191980376 (PIP 1.00), 1 variants; minor allele on 4A:0 4B.0:0 4B.1:3 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.04)	susie_credible_sets.tsv	
+susie_cs_chronotype_9_CEU_GBR	lead rs61773390 (PIP 0.16), 12 variants; minor allele on 4A:0 4B.0:0 4B.1:71 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 1.00)	susie_credible_sets.tsv	
+susie_cs_chronotype_10_CEU_GBR	lead rs75766272 (PIP 0.57), 2 variants; minor allele on 4A:1 4B.0:0 4B.1:3 4B.2:0 5A:3 5B:1; best lineage 4A (r2 0.01)	susie_credible_sets.tsv	
+susie_cs_morning_1_CEU_GBR	lead rs61773390 (PIP 0.22), 10 variants; minor allele on 4A:0 4B.0:0 4B.1:71 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 1.00)	susie_credible_sets.tsv	
+susie_cs_morning_2_CEU_GBR	lead rs114167192 (PIP 0.56), 4 variants; minor allele on 4A:0 4B.0:0 4B.1:3 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.04)	susie_credible_sets.tsv	
+susie_cs_morning_3_CEU_GBR	lead rs228663 (PIP 0.42), 3 variants; minor allele on 4A:0 4B.0:0 4B.1:71 4B.2:32 5A:0 5B:0; best lineage 4B (r2 1.00)	susie_credible_sets.tsv	
+susie_cs_morning_4_CEU_GBR	lead rs142695975 (PIP 1.00), 1 variants; minor allele on 4A:1 4B.0:0 4B.1:1 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.00)	susie_credible_sets.tsv	
+susie_cs_morning_5_CEU_GBR	lead rs146119067 (PIP 0.82), 3 variants; minor allele on 4A:0 4B.0:0 4B.1:4 4B.2:0 5A:0 5B:0; best lineage 4B.1 (r2 0.05)	susie_credible_sets.tsv	
+susie_cs_morning_6_CEU_GBR	lead rs35731977 (PIP 0.36), 47 variants; minor allele on 4A:46 4B.0:0 4B.1:8 4B.2:4 5A:7 5B:0; best lineage 4A (r2 0.09)	susie_credible_sets.tsv	
+susie_pip_chronotype_rs1773135	0.00202	susie_tags.tsv	
+susie_pip_chronotype_rs228701	0.00202	susie_tags.tsv	
+susie_pip_morning_rs1773135	0.00184	susie_tags.tsv	
+susie_pip_morning_rs228701	0.00184	susie_tags.tsv	
+susie_pip_acc_midpoint_rs1773135	0.00689	susie_tags.tsv	
+susie_pip_acc_midpoint_rs228701	0.00692	susie_tags.tsv	
+susie_pip_chronotype_rs1773135_EUR_noFIN	0.0024	susie_tags.tsv	
+susie_pip_chronotype_rs228701_EUR_noFIN	0.0024	susie_tags.tsv	
+susie_pip_morning_rs1773135_EUR_noFIN	0.00213	susie_tags.tsv	
+susie_pip_morning_rs228701_EUR_noFIN	0.00213	susie_tags.tsv	
+susie_pip_acc_midpoint_rs1773135_EUR_noFIN	0.00713	susie_tags.tsv	
+susie_pip_acc_midpoint_rs228701_EUR_noFIN	0.00716	susie_tags.tsv	
+susie_pip_chronotype_rs1773135_CEU_GBR	3.59e-08	susie_tags.tsv	
+susie_pip_chronotype_rs228701_CEU_GBR	3.59e-08	susie_tags.tsv	
+susie_pip_morning_rs1773135_CEU_GBR	0.000756	susie_tags.tsv	
+susie_pip_morning_rs228701_CEU_GBR	0.000757	susie_tags.tsv	
+susie_pip_acc_midpoint_rs1773135_CEU_GBR	0.00663	susie_tags.tsv	
+susie_pip_acc_midpoint_rs228701_CEU_GBR	0.00665	susie_tags.tsv	
+gtex_rs228701	four units (ALT G); tissues P<0.05: 1 of 49; Bonferroni: 0; top Testis NES 0.111 P 0.0017; brain P<0.05: 0 of 13; hypothalamus NES 0.071 P 0.32	gtex_summary.tsv	
+gtex_rs1773135	four units (ALT G); tissues P<0.05: 1 of 49; Bonferroni: 0; top Testis NES 0.111 P 0.0017; brain P<0.05: 0 of 13; hypothalamus NES 0.071 P 0.32	gtex_summary.tsv	
+gtex_rs228663	4B (ALT A); tissues P<0.05: 3 of 49; Bonferroni: 3; top Whole_Blood NES 0.174 P 4.8e-06; brain P<0.05: 0 of 13; hypothalamus NES 0.068 P 0.34	gtex_summary.tsv	
+gtex_rs61773390	4B.1 (ALT T); tissues P<0.05: 7 of 49; Bonferroni: 0; top Testis NES 0.149 P 0.0012; brain P<0.05: 4 of 13; hypothalamus NES 0.082 P 0.33	gtex_summary.tsv	
+gtex_rs228697	4B.2 (ALT G); tissues P<0.05: 6 of 49; Bonferroni: 1; top Whole_Blood NES 0.324 P 2.5e-09; brain P<0.05: 3 of 13; hypothalamus NES 0.017 P 0.87	gtex_summary.tsv	
+pqtl_per3	4 associations; strongest rs148515378-A P 8e-120 (Loya H); 1000G carriers 51, on 4B 51/921	gwas_catalog_per3_protein.tsv	
+mukamel_sleep_EVENING_PERSON	z 0.31, P 0.76	mukamel_sleep_traits.tsv	
+mukamel_sleep_HOURS	z 1.17, P 0.24	mukamel_sleep_traits.tsv	
+mukamel_sleep_INSOMNIA	z 0.83, P 0.4	mukamel_sleep_traits.tsv	
+mukamel_sleep_NAP_DURING_DAY	z 1.53, P 0.13	mukamel_sleep_traits.tsv	
+mukamel_sleep_GET_UP_EASE	z -1.34, P 0.18	mukamel_sleep_traits.tsv	
+mukamel_sleep_NARCOLEPSY	z 1.51, P 0.13	mukamel_sleep_traits.tsv	
+mukamel_sleep_SNORING	z -0.47, P 0.64	mukamel_sleep_traits.tsv	
+implied_per_allele_sd_range	-0.0089 to 0.0037	implied_length_effects.tsv	
+implied_55v44_sd_range	-0.0178 to 0.0075	implied_length_effects.tsv	
+primate_Gorilla_gorilla_gorilla	DNA 4/3.61; protein 3.61	primate_units_by_species.tsv	
+primate_Homo_sapiens	DNA 5/5; protein 5	primate_units_by_species.tsv	
+primate_Pan_paniscus	DNA 3/3; protein 3	primate_units_by_species.tsv	
+primate_Pan_troglodytes	DNA 4/4; protein 4	primate_units_by_species.tsv	
+primate_Pongo_abelii	DNA 3/3; protein 3	primate_units_by_species.tsv	
+primate_Pongo_pygmaeus	DNA 3/3; protein 3	primate_units_by_species.tsv	
+primate_Hylobates_moloch	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Nomascus_leucogenys	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Symphalangus_syndactylus	DNA 4/4; protein 4	primate_units_by_species.tsv	
+primate_Cercocebus_atys	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Chlorocebus_sabaeus	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Colobus_angolensis_palliatus	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Macaca_fascicularis	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Macaca_mulatta	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Macaca_nemestrina	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Macaca_thibetana_thibetana	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Mandrillus_leucophaeus	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Papio_anubis	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Piliocolobus_tephrosceles	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Rhinopithecus_bieti	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Rhinopithecus_roxellana	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Theropithecus_gelada	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Trachypithecus_francoisi	DNA 3; protein 3	primate_units_by_species.tsv	
+primate_Aotus_nancymaae	DNA 2; protein 2	primate_units_by_species.tsv	
+primate_Callithrix_jacchus	DNA 7; protein 7	primate_units_by_species.tsv	
+primate_Cebus_imitator	DNA 2; protein 2	primate_units_by_species.tsv	
+primate_Saimiri_boliviensis	DNA 4; protein 4	primate_units_by_species.tsv	
+primate_Sapajus_apella	DNA 2; protein 2	primate_units_by_species.tsv	
+primate_Carlito_syrichta	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Eulemur_rufifrons	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Lemur_catta	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Microcebus_murinus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Nycticebus_coucang	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Otolemur_garnettii	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Propithecus_coquereli	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Galeopterus_variegatus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Mus_caroli	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Mus_musculus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Mus_pahari	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Rattus_norvegicus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Rattus_rattus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Canis_aureus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Canis_lupus_baileyi	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Canis_lupus_dingo	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Canis_lupus_familiaris	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Bos_grunniens	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Bos_indicus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Bos_indicus_x_Bos_taurus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Bos_javanicus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Bos_mutus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Bos_taurus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Monodelphis_domestica	DNA ; protein NA	primate_units_by_species.tsv	
+primate_Gallus_gallus	DNA ; protein NA	primate_units_by_species.tsv	
+primate_sequences_long_read	26	primate_units_dna.tsv	of the 35 genome sequences (filled dots in Figure 5, with GRCh38)
+aligned_region_Hominidaegreatapes	54,54,54,65,72,90	primate_aligned_region.tsv	
+aligned_region_Hylobatidaegibbons	54,54,72	primate_aligned_region.tsv	
+aligned_region_CercopithecidaeOldWorldmonkeys	54,54,54,54,54,54,54,54,54,54,54,54,54,54	primate_aligned_region.tsv	
+aligned_region_PlatyrrhiniNewWorldmonkeys	36,36,36,72,126	primate_aligned_region.tsv	
+aligned_region_Tarsiidaetarsiers	21	primate_aligned_region.tsv	
+aligned_region_Strepsirrhinilemurslorisesgalagos	21,21,21,21,21,21	primate_aligned_region.tsv	
+aligned_region_Dermopteracolugosnotprimates	0	primate_aligned_region.tsv	
+aligned_region_Rodentianotprimates	14,16,16,16,16	primate_aligned_region.tsv	
+aligned_region_Carnivoranotprimates	21,21,21,21	primate_aligned_region.tsv	
+aligned_region_Artiodactylanotprimates	0,0,0,20,21,49	primate_aligned_region.tsv	
+aligned_region_Marsupialianotprimates	44	primate_aligned_region.tsv	
+aligned_region_Avesabird	44	primate_aligned_region.tsv	

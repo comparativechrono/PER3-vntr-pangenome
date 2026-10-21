@@ -1,0 +1,80 @@
+06: the two tags in 1000G (2,504 unrelated):
+ group haplotypes r2_rs228701_rs1773135 discordant_haplotypes
+   All       5008                0.9981                     2
+   AFR       1322                0.9936                     2
+   AMR        694                1.0000                     0
+   EAS       1008                1.0000                     0
+   EUR       1006                1.0000                     0
+   SAS        978                1.0000                     0
+ r2_rs2640909_rs228663
+                     1
+                     1
+                     1
+                     1
+                     1
+                     1
+06: five-unit frequency by group (1000G, via rs1773135):
+ group haplotypes five freq_five ci_lower ci_upper
+   AFR       1322  493     0.373    0.347    0.399
+   AMR        694  178     0.256    0.225    0.290
+   EAS       1008  149     0.148    0.127    0.171
+   EUR       1006  337     0.335    0.307    0.365
+   SAS        978  341     0.349    0.319    0.379
+   All       5008 1498     0.299    0.287    0.312
+06: range over 26 populations: CDX 0.081 to GWD 0.403
+06: lineages by group (1000G):
+ group haplotypes    4A    4B    5A    5B
+   AFR       1322 0.535 0.092 0.236 0.137
+   AMR        694 0.460 0.284 0.209 0.048
+   EAS       1008 0.802 0.051 0.148 0.000
+   EUR       1006 0.372 0.293 0.286 0.049
+   SAS        978 0.390 0.262 0.329 0.019
+   All       5008 0.517 0.184 0.243 0.056
+06: validation against long reads:
+ people units_concordant lineage_concordant people_without_other_lineage
+    222              221                217                          217
+ lineage_concordant_without_other
+                              217
+  sample group units_short units_long lineage_short lineage_long units_agree
+ HG00253   EUR         4/4        4/4         4A/4B     4A/other        TRUE
+ HG02257   AFR         5/5        4/5         5A/5B     5A/other       FALSE
+ HG02451   AFR         4/5        4/5         4A/5A     5A/other        TRUE
+ NA19682   AMR         4/4        4/4         4A/4B     4B/other        TRUE
+ NA20827   EUR         4/5        4/5         4B/5A     4B/other        TRUE
+ lineage_agree lineage_agree_excl_other
+         FALSE                       NA
+         FALSE                       NA
+         FALSE                       NA
+         FALSE                       NA
+         FALSE                       NA
+06: SV calls:
+     pos                     ref alt deleted_bp carriers_haplotypes haplotypes
+ 7829951 GGATCGCCTCCC... (54 bp)   G         53                   2       6404
+ 7830003 CAGGATCGCCTC... (55 bp)   C         54                  13       6404
+      NA  any of these deletions             NA                  15       6404
+ four_unit_by_tag
+             4466
+             4466
+             4466
+06: haplotypes with a deletion call, by group and tag:
+ group haplotypes with_deletion_call on_five_unit_tag on_four_unit_tag
+   All       6404                 15               14                1
+   AFR       1786                 14               14                0
+   AMR        980                  1                0                1
+   EAS       1170                  0                0                0
+   EUR       1266                  0                0                0
+   SAS       1202                  0                0                0
+ four_unit_by_tag freq_deletion_on_five_unit_tag
+             4466                         0.0022
+             1118                         0.0078
+              733                         0.0000
+              989                         0.0000
+              836                         0.0000
+              790                         0.0000
+06: structures that the calls give:
+                        
+                          4  5
+  R1-R2-R4*8T>C,14T>C-R5  0 12
+  R1-R2-R4*8T>C-R5        1  0
+  R1-R3*9A>G-R4-R5        0  1
+  R1-R3*9A>G-R4-R5*9G>T   0  1

@@ -1,0 +1,10 @@
+panel	trait	variants	n	ld_mismatch_s	credible_sets	converged
+EUR	chronotype	1634	449734	0.0635	3	TRUE
+EUR	morning	1635	403195	0.0619	3	TRUE
+EUR	acc_midpoint	1642	84810	0.0541	0	TRUE
+EUR_noFIN	chronotype	1585	449734	0.0744	3	TRUE
+EUR_noFIN	morning	1586	403195	0.0764	3	TRUE
+EUR_noFIN	acc_midpoint	1591	84810	0.0643	0	TRUE
+CEU_GBR	chronotype	1462	449734	0.1373	10	TRUE
+CEU_GBR	morning	1462	403195	0.1294	6	TRUE
+CEU_GBR	acc_midpoint	1467	84810	0.1274	0	TRUE

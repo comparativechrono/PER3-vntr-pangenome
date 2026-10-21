@@ -1,0 +1,8 @@
+test	statistic	df	p
+chi-squared, five groups x two alleles	13.3	4	0.0099
+Hardy-Weinberg exact, all 231			0.43
+Hardy-Weinberg exact, AFR			0.0786
+Hardy-Weinberg exact, AMR			0.61
+Hardy-Weinberg exact, EAS			0.245
+Hardy-Weinberg exact, EUR			1
+Hardy-Weinberg exact, SAS			0.116

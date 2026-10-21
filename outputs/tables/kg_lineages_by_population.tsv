@@ -1,0 +1,27 @@
+population	population_name	superpopulation	haplotypes	4A	4B	5A	5B
+ACB	African Caribbean in Barbados	AFR	192	0.547	0.062	0.245	0.146
+ASW	African Ancestry in Southwest US	AFR	122	0.467	0.148	0.221	0.164
+ESN	Esan in Nigeria	AFR	198	0.551	0.111	0.202	0.136
+GWD	Gambian in Western Division, The Gambia	AFR	226	0.518	0.08	0.288	0.115
+LWK	Luhya in Webuye, Kenya	AFR	198	0.52	0.111	0.212	0.157
+MSL	Mende in Sierra Leone	AFR	170	0.588	0.071	0.241	0.1
+YRI	Yoruba in Ibadan, Nigeria	AFR	216	0.537	0.083	0.231	0.148
+CLM	Colombian in Medellin, Colombia	AMR	188	0.479	0.261	0.213	0.048
+MXL	Mexican Ancestry in Los Angeles, California	AMR	128	0.477	0.273	0.211	0.039
+PEL	Peruvian in Lima, Peru	AMR	170	0.512	0.4	0.065	0.024
+PUR	Puerto Rican in Puerto Rico	AMR	208	0.389	0.216	0.322	0.072
+CDX	Chinese Dai in Xishuangbanna, China	EAS	186	0.909	0.011	0.081	0
+CHB	Han Chinese in Beijing, China	EAS	206	0.816	0.044	0.141	0
+CHS	Southern Han Chinese, China	EAS	210	0.757	0.043	0.2	0
+JPT	Japanese in Tokyo, Japan	EAS	208	0.731	0.125	0.144	0
+KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	198	0.808	0.025	0.167	0
+CEU	Utah residents with Northern and Western European ancestry	EUR	198	0.389	0.242	0.308	0.061
+FIN	Finnish in Finland	EUR	198	0.414	0.298	0.247	0.04
+GBR	British in England and Scotland	EUR	182	0.39	0.302	0.253	0.055
+IBS	Iberian populations in Spain	EUR	214	0.355	0.308	0.308	0.028
+TSI	Toscani in Italy	EUR	214	0.318	0.313	0.308	0.061
+BEB	Bengali in Bangladesh	SAS	172	0.43	0.244	0.291	0.035
+GIH	Gujarati Indian in Houston,TX	SAS	206	0.345	0.257	0.364	0.034
+ITU	Indian Telugu in the UK	SAS	204	0.373	0.279	0.343	0.005
+PJL	Punjabi in Lahore,Pakistan	SAS	192	0.391	0.25	0.344	0.016
+STU	Sri Lankan Tamil in the UK	SAS	204	0.417	0.275	0.299	0.01

@@ -1,0 +1,54 @@
+species	common_name	group	DNA_sequences	protein
+Gorilla gorilla gorilla	western lowland gorilla	Hominidae (great apes)	2	XP_030869435.3
+Homo sapiens	human	Hominidae (great apes)	2	NP_001276791.1
+Pan paniscus	bonobo	Hominidae (great apes)	2	XP_063451026.1
+Pan troglodytes	chimpanzee	Hominidae (great apes)	2	XP_016808835.2
+Pongo abelii	Sumatran orangutan	Hominidae (great apes)	2	XP_024087582.2
+Pongo pygmaeus	Bornean orangutan	Hominidae (great apes)	2	XP_063524437.1
+Hylobates moloch	silvery gibbon	Hylobatidae (gibbons)	1	XP_032614688.1
+Nomascus leucogenys	northern white-cheeked gibbon	Hylobatidae (gibbons)	1	XP_030661104.1
+Symphalangus syndactylus	siamang	Hylobatidae (gibbons)	2	XP_055117194.1
+Cercocebus atys	sooty mangabey	Cercopithecidae (Old World monkeys)	1	XP_011904896.1
+Chlorocebus sabaeus	green monkey	Cercopithecidae (Old World monkeys)	1	XP_037841010.1
+Colobus angolensis palliatus		Cercopithecidae (Old World monkeys)	1	XP_011793643.1
+Macaca fascicularis	crab-eating macaque	Cercopithecidae (Old World monkeys)	1	XP_065386357.1
+Macaca mulatta	Rhesus monkey	Cercopithecidae (Old World monkeys)	1	XP_028696090.2
+Macaca nemestrina	pig-tailed macaque	Cercopithecidae (Old World monkeys)	1	XP_011735576.2
+Macaca thibetana thibetana		Cercopithecidae (Old World monkeys)	1	XP_050642994.1
+Mandrillus leucophaeus	drill	Cercopithecidae (Old World monkeys)	1	XP_011836770.1
+Papio anubis	olive baboon	Cercopithecidae (Old World monkeys)	1	XP_017812291.3
+Piliocolobus tephrosceles	Ugandan red Colobus	Cercopithecidae (Old World monkeys)	1	XP_023071014.1
+Rhinopithecus bieti	black snub-nosed monkey	Cercopithecidae (Old World monkeys)	1	XP_017711567.1
+Rhinopithecus roxellana	golden snub-nosed monkey	Cercopithecidae (Old World monkeys)	1	XP_030768616.1
+Theropithecus gelada	gelada	Cercopithecidae (Old World monkeys)	1	XP_025211626.1
+Trachypithecus francoisi	Francois's langur	Cercopithecidae (Old World monkeys)	1	XP_033084406.1
+Aotus nancymaae	Ma's night monkey	Platyrrhini (New World monkeys)	1	XP_064219266.1
+Callithrix jacchus	white-tufted-ear marmoset	Platyrrhini (New World monkeys)	1	XP_054092864.2
+Cebus imitator	Panamanian white-faced capuchin	Platyrrhini (New World monkeys)	1	XP_017353870.1
+Saimiri boliviensis	Bolivian squirrel monkey	Platyrrhini (New World monkeys)	1	XP_039330266.1
+Sapajus apella	tufted capuchin	Platyrrhini (New World monkeys)	1	XP_032156154.1
+Carlito syrichta	Philippine tarsier	Tarsiidae (tarsiers)	0	XP_021571396.1
+Eulemur rufifrons	Bennett's brown lemur	Strepsirrhini (lemurs, lorises, galagos)	0	XP_069335387.1
+Lemur catta	Ring-tailed lemur	Strepsirrhini (lemurs, lorises, galagos)	0	XP_045402193.1
+Microcebus murinus	gray mouse lemur	Strepsirrhini (lemurs, lorises, galagos)	0	XP_020137504.2
+Nycticebus coucang	slow loris	Strepsirrhini (lemurs, lorises, galagos)	0	XP_053431024.1
+Otolemur garnettii	small-eared galago	Strepsirrhini (lemurs, lorises, galagos)	0	XP_023370970.1
+Propithecus coquereli	Coquerel's sifaka	Strepsirrhini (lemurs, lorises, galagos)	0	XP_012517961.1
+Galeopterus variegatus	Sunda flying lemur	Dermoptera (colugos; not primates)	0	XP_008568483.1
+Mus caroli	Ryukyu mouse	Rodentia (not primates)	0	XP_029331595.1
+Mus musculus	house mouse	Rodentia (not primates)	0	XP_017175520.1
+Mus pahari	shrew mouse	Rodentia (not primates)	0	XP_021055587.1
+Rattus norvegicus	Norway rat	Rodentia (not primates)	0	XP_087407409.1
+Rattus rattus	black rat	Rodentia (not primates)	0	XP_032750010.1
+Canis aureus	golden jackal	Carnivora (not primates)	0	XP_077747485.1
+Canis lupus baileyi	Mexican gray wolf	Carnivora (not primates)	0	XP_072675909.1
+Canis lupus dingo	dingo	Carnivora (not primates)	0	XP_025283063.3
+Canis lupus familiaris	dog	Carnivora (not primates)	0	XP_013969374.1
+Bos grunniens	domestic yak	Artiodactyla (not primates)	0	XP_086200410.1
+Bos indicus	zebu cattle	Artiodactyla (not primates)	0	XP_070623777.1
+Bos indicus x Bos taurus	hybrid cattle	Artiodactyla (not primates)	0	XP_027420809.1
+Bos javanicus	banteng	Artiodactyla (not primates)	0	XP_061238849.1
+Bos mutus	wild yak	Artiodactyla (not primates)	0	XP_070240501.1
+Bos taurus	domestic cattle	Artiodactyla (not primates)	0	XP_059731607.1
+Monodelphis domestica	gray short-tailed opossum	Marsupialia (not primates)	0	XP_007492170.2
+Gallus gallus	chicken	Aves (a bird)	0	NP_001276708.1

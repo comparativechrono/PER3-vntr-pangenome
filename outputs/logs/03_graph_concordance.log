@@ -1,0 +1,5 @@
+03: PGGB unit-changing record: chr1:7829912, REF 55 bp, ALT 1 bp (-54 bp)
+03: haplotypes in both graphs: 462; identical number of units: 462
+03: table (MC units, PGGB units):  {(5, 5): 135, (4, 4): 327}
+03: in PGGB only: {'CHM13': [5], 'HG00272': [4, 4]}
+03: other (non-unit) indels near the repeat in PGGB: [(7830272, -1)]

@@ -1,0 +1,232 @@
+sample	population	population_name	superpopulation	sex	in_1000G_high_coverage
+HG00097	GBR	British in England and Scotland	EUR	female	yes
+HG00099	GBR	British in England and Scotland	EUR	female	yes
+HG00126	GBR	British in England and Scotland	EUR	male	yes
+HG00128	GBR	British in England and Scotland	EUR	female	yes
+HG00133	GBR	British in England and Scotland	EUR	female	yes
+HG00140	GBR	British in England and Scotland	EUR	male	yes
+HG00146	GBR	British in England and Scotland	EUR	female	yes
+HG002	AJ	Ashkenazi Jewish (Genome in a Bottle)	EUR	male	no
+HG00232	GBR	British in England and Scotland	EUR	female	yes
+HG00235	GBR	British in England and Scotland	EUR	female	yes
+HG00253	GBR	British in England and Scotland	EUR	female	yes
+HG00280	FIN	Finnish in Finland	EUR	male	yes
+HG00290	FIN	Finnish in Finland	EUR	male	yes
+HG00320	FIN	Finnish in Finland	EUR	female	yes
+HG00321	FIN	Finnish in Finland	EUR	male	yes
+HG00323	FIN	Finnish in Finland	EUR	female	yes
+HG00329	FIN	Finnish in Finland	EUR	male	yes
+HG00344	FIN	Finnish in Finland	EUR	female	yes
+HG00350	FIN	Finnish in Finland	EUR	female	yes
+HG00408	CHS	Southern Han Chinese, China	EAS	female	yes
+HG00423	CHS	Southern Han Chinese, China	EAS	female	yes
+HG00438	CHS	Southern Han Chinese, China	EAS	female	yes
+HG005	CHN	Han Chinese (Genome in a Bottle)	EAS	male	no
+HG00544	CHS	Southern Han Chinese, China	EAS	female	yes
+HG00558	CHS	Southern Han Chinese, China	EAS	female	yes
+HG00597	CHS	Southern Han Chinese, China	EAS	female	yes
+HG00609	CHS	Southern Han Chinese, China	EAS	male	yes
+HG00621	CHS	Southern Han Chinese, China	EAS	male	yes
+HG00639	PUR	Puerto Rican in Puerto Rico	AMR	female	yes
+HG00642	PUR	Puerto Rican in Puerto Rico	AMR	male	yes
+HG00658	CHS	Southern Han Chinese, China	EAS	male	yes
+HG00673	CHS	Southern Han Chinese, China	EAS	male	yes
+HG00706	CHS	Southern Han Chinese, China	EAS	male	yes
+HG00733	PUR	Puerto Rican in Puerto Rico	AMR	female	yes
+HG00735	PUR	Puerto Rican in Puerto Rico	AMR	female	yes
+HG00738	PUR	Puerto Rican in Puerto Rico	AMR	male	yes
+HG00741	PUR	Puerto Rican in Puerto Rico	AMR	female	yes
+HG01071	PUR	Puerto Rican in Puerto Rico	AMR	female	yes
+HG01074	PUR	Puerto Rican in Puerto Rico	AMR	male	yes
+HG01081	PUR	Puerto Rican in Puerto Rico	AMR	female	yes
+HG01099	PUR	Puerto Rican in Puerto Rico	AMR	male	yes
+HG01106	PUR	Puerto Rican in Puerto Rico	AMR	male	yes
+HG01109	PUR	Puerto Rican in Puerto Rico	AMR	male	yes
+HG01123	CLM	Colombian in Medellin, Colombia	AMR	female	no
+HG01150	CLM	Colombian in Medellin, Colombia	AMR	female	yes
+HG01167	PUR	Puerto Rican in Puerto Rico	AMR	male	yes
+HG01175	PUR	Puerto Rican in Puerto Rico	AMR	female	yes
+HG01192	PUR	Puerto Rican in Puerto Rico	AMR	male	yes
+HG01243	PUR	Puerto Rican in Puerto Rico	AMR	male	yes
+HG01252	CLM	Colombian in Medellin, Colombia	AMR	male	yes
+HG01255	CLM	Colombian in Medellin, Colombia	AMR	male	yes
+HG01258	CLM	Colombian in Medellin, Colombia	AMR	male	yes
+HG01261	CLM	Colombian in Medellin, Colombia	AMR	male	yes
+HG01346	CLM	Colombian in Medellin, Colombia	AMR	female	yes
+HG01358	CLM	Colombian in Medellin, Colombia	AMR	male	yes
+HG01361	CLM	Colombian in Medellin, Colombia	AMR	female	yes
+HG01433	CLM	Colombian in Medellin, Colombia	AMR	male	yes
+HG01496	CLM	Colombian in Medellin, Colombia	AMR	female	yes
+HG01530	IBS	Iberian populations in Spain	EUR	male	yes
+HG01784	IBS	Iberian populations in Spain	EUR	female	yes
+HG01786	IBS	Iberian populations in Spain	EUR	female	yes
+HG01884	ACB	African Caribbean in Barbados	AFR	female	yes
+HG01891	ACB	African Caribbean in Barbados	AFR	female	yes
+HG01928	PEL	Peruvian in Lima, Peru	AMR	male	yes
+HG01934	PEL	Peruvian in Lima, Peru	AMR	male	yes
+HG01940	PEL	Peruvian in Lima, Peru	AMR	female	yes
+HG01943	PEL	Peruvian in Lima, Peru	AMR	male	yes
+HG01952	PEL	Peruvian in Lima, Peru	AMR	male	yes
+HG01960	ACB	African Caribbean in Barbados	AFR	female	yes
+HG01969	PEL	Peruvian in Lima, Peru	AMR	female	yes
+HG01975	PEL	Peruvian in Lima, Peru	AMR	female	yes
+HG01978	PEL	Peruvian in Lima, Peru	AMR	female	yes
+HG01981	PEL	Peruvian in Lima, Peru	AMR	female	yes
+HG01993	PEL	Peruvian in Lima, Peru	AMR	female	yes
+HG02004	PEL	Peruvian in Lima, Peru	AMR	female	yes
+HG02015	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	male	yes
+HG02027	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	male	yes
+HG02040	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	male	yes
+HG02055	ACB	African Caribbean in Barbados	AFR	male	yes
+HG02056	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	male	yes
+HG02071	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	male	yes
+HG02074	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	male	yes
+HG02080	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	female	yes
+HG02083	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	male	yes
+HG02109	ACB	African Caribbean in Barbados	AFR	female	no
+HG02129	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	male	yes
+HG02132	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	male	yes
+HG02135	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	male	yes
+HG02145	ACB	African Caribbean in Barbados	AFR	male	yes
+HG02148	PEL	Peruvian in Lima, Peru	AMR	female	yes
+HG02155	CDX	Chinese Dai in Xishuangbanna, China	EAS	female	yes
+HG02165	CDX	Chinese Dai in Xishuangbanna, China	EAS	female	yes
+HG02178	CDX	Chinese Dai in Xishuangbanna, China	EAS	female	yes
+HG02257	ACB	African Caribbean in Barbados	AFR	female	yes
+HG02258	ACB	African Caribbean in Barbados	AFR	male	yes
+HG02273	PEL	Peruvian in Lima, Peru	AMR	female	yes
+HG02280	ACB	African Caribbean in Barbados	AFR	female	yes
+HG02293	PEL	Peruvian in Lima, Peru	AMR	female	yes
+HG02300	PEL	Peruvian in Lima, Peru	AMR	female	yes
+HG02391	CDX	Chinese Dai in Xishuangbanna, China	EAS	male	yes
+HG02392	CDX	Chinese Dai in Xishuangbanna, China	EAS	male	yes
+HG02451	ACB	African Caribbean in Barbados	AFR	female	yes
+HG02486	ACB	African Caribbean in Barbados	AFR	male	no
+HG02514	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	male	yes
+HG02523	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	female	yes
+HG02559	ACB	African Caribbean in Barbados	AFR	female	no
+HG02572	GWD	Gambian in Western Division, The Gambia	AFR	male	yes
+HG02583	GWD	Gambian in Western Division, The Gambia	AFR	female	yes
+HG02602	PJL	Punjabi in Lahore,Pakistan	SAS	male	yes
+HG02615	GWD	Gambian in Western Division, The Gambia	AFR	female	yes
+HG02622	GWD	Gambian in Western Division, The Gambia	AFR	female	yes
+HG02630	GWD	Gambian in Western Division, The Gambia	AFR	female	yes
+HG02647	GWD	Gambian in Western Division, The Gambia	AFR	male	yes
+HG02668	GWD	Gambian in Western Division, The Gambia	AFR	male	yes
+HG02698	PJL	Punjabi in Lahore,Pakistan	SAS	male	yes
+HG02717	GWD	Gambian in Western Division, The Gambia	AFR	male	yes
+HG02723	GWD	Gambian in Western Division, The Gambia	AFR	female	yes
+HG02735	PJL	Punjabi in Lahore,Pakistan	SAS	male	yes
+HG02738	PJL	Punjabi in Lahore,Pakistan	SAS	male	yes
+HG02809	GWD	Gambian in Western Division, The Gambia	AFR	female	yes
+HG02818	GWD	Gambian in Western Division, The Gambia	AFR	female	yes
+HG02841	GWD	Gambian in Western Division, The Gambia	AFR	female	yes
+HG02886	GWD	Gambian in Western Division, The Gambia	AFR	female	yes
+HG02922	ESN	Esan in Nigeria	AFR	female	yes
+HG02965	ESN	Esan in Nigeria	AFR	male	yes
+HG02976	ESN	Esan in Nigeria	AFR	female	yes
+HG02984	GWD	Gambian in Western Division, The Gambia	AFR	male	yes
+HG03017	PJL	Punjabi in Lahore,Pakistan	SAS	male	yes
+HG03041	GWD	Gambian in Western Division, The Gambia	AFR	female	yes
+HG03050	GWD	Gambian in Western Division, The Gambia	AFR	male	yes
+HG03098	MSL	Mende in Sierra Leone	AFR	male	yes
+HG03130	ESN	Esan in Nigeria	AFR	male	yes
+HG03139	ESN	Esan in Nigeria	AFR	male	yes
+HG03195	ESN	Esan in Nigeria	AFR	female	yes
+HG03209	MSL	Mende in Sierra Leone	AFR	male	yes
+HG03225	MSL	Mende in Sierra Leone	AFR	male	yes
+HG03239	PJL	Punjabi in Lahore,Pakistan	SAS	female	yes
+HG03270	ESN	Esan in Nigeria	AFR	female	yes
+HG03369	ESN	Esan in Nigeria	AFR	female	yes
+HG03453	MSL	Mende in Sierra Leone	AFR	female	yes
+HG03470	MSL	Mende in Sierra Leone	AFR	female	yes
+HG03471	MSL	Mende in Sierra Leone	AFR	male	no
+HG03486	MSL	Mende in Sierra Leone	AFR	female	yes
+HG03516	ESN	Esan in Nigeria	AFR	female	yes
+HG03521	ESN	Esan in Nigeria	AFR	male	yes
+HG03540	GWD	Gambian in Western Division, The Gambia	AFR	female	yes
+HG03579	MSL	Mende in Sierra Leone	AFR	male	yes
+HG03583	MSL	Mende in Sierra Leone	AFR	female	yes
+HG03654	PJL	Punjabi in Lahore,Pakistan	SAS	male	yes
+HG03669	PJL	Punjabi in Lahore,Pakistan	SAS	female	yes
+HG03688	STU	Sri Lankan Tamil in the UK	SAS	male	yes
+HG03704	PJL	Punjabi in Lahore,Pakistan	SAS	female	yes
+HG03710	PJL	Punjabi in Lahore,Pakistan	SAS	male	yes
+HG03742	ITU	Indian Telugu in the UK	SAS	male	yes
+HG03784	ITU	Indian Telugu in the UK	SAS	female	yes
+HG03804	BEB	Bengali in Bangladesh	SAS	female	yes
+HG03816	BEB	Bengali in Bangladesh	SAS	female	yes
+HG03831	BEB	Bengali in Bangladesh	SAS	female	yes
+HG03834	BEB	Bengali in Bangladesh	SAS	female	yes
+HG03874	ITU	Indian Telugu in the UK	SAS	female	yes
+HG03927	BEB	Bengali in Bangladesh	SAS	female	yes
+HG03942	BEB	Bengali in Bangladesh	SAS	male	yes
+HG04115	STU	Sri Lankan Tamil in the UK	SAS	male	yes
+HG04157	BEB	Bengali in Bangladesh	SAS	male	yes
+HG04160	BEB	Bengali in Bangladesh	SAS	male	yes
+HG04184	BEB	Bengali in Bangladesh	SAS	female	yes
+HG04187	BEB	Bengali in Bangladesh	SAS	male	yes
+HG04199	STU	Sri Lankan Tamil in the UK	SAS	male	yes
+HG04204	STU	Sri Lankan Tamil in the UK	SAS	male	yes
+HG04228	STU	Sri Lankan Tamil in the UK	SAS	male	yes
+HG06807	ASL	African Americans living in St. Louis, Missouri	AFR	female	no
+NA18505	YRI	Yoruba in Ibadan, Nigeria	AFR	female	yes
+NA18508	YRI	Yoruba in Ibadan, Nigeria	AFR	female	yes
+NA18522	YRI	Yoruba in Ibadan, Nigeria	AFR	male	yes
+NA18565	CHB	Han Chinese in Beijing, China	EAS	female	yes
+NA18570	CHB	Han Chinese in Beijing, China	EAS	female	yes
+NA18608	CHB	Han Chinese in Beijing, China	EAS	male	yes
+NA18620	CHB	Han Chinese in Beijing, China	EAS	male	yes
+NA18747	CHB	Han Chinese in Beijing, China	EAS	male	yes
+NA18879	YRI	Yoruba in Ibadan, Nigeria	AFR	male	yes
+NA18906	YRI	Yoruba in Ibadan, Nigeria	AFR	female	yes
+NA18940	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18943	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18944	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18945	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18948	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18952	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18959	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18960	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18967	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18970	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18971	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18974	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18976	JPT	Japanese in Tokyo, Japan	EAS	female	yes
+NA18982	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA18983	JPT	Japanese in Tokyo, Japan	EAS	male	yes
+NA19036	LWK	Luhya in Webuye, Kenya	AFR	female	yes
+NA19043	LWK	Luhya in Webuye, Kenya	AFR	male	yes
+NA19087	JPT	Japanese in Tokyo, Japan	EAS	female	yes
+NA19159	YRI	Yoruba in Ibadan, Nigeria	AFR	female	yes
+NA19185	YRI	Yoruba in Ibadan, Nigeria	AFR	female	yes
+NA19240	YRI	Yoruba in Ibadan, Nigeria	AFR	female	yes
+NA19338	LWK	Luhya in Webuye, Kenya	AFR	female	yes
+NA19391	LWK	Luhya in Webuye, Kenya	AFR	female	yes
+NA19443	LWK	Luhya in Webuye, Kenya	AFR	male	yes
+NA19468	LWK	Luhya in Webuye, Kenya	AFR	female	yes
+NA19682	MXL	Mexican Ancestry in Los Angeles, California	AMR	male	yes
+NA19700	ASW	African Ancestry in Southwest US	AFR	male	yes
+NA19776	MXL	Mexican Ancestry in Los Angeles, California	AMR	female	yes
+NA19835	ASW	African Ancestry in Southwest US	AFR	female	yes
+NA19909	ASW	African Ancestry in Southwest US	AFR	female	yes
+NA20129	ASW	African Ancestry in Southwest US	AFR	female	yes
+NA20282	ASW	African Ancestry in Southwest US	AFR	female	yes
+NA20346	ASW	African Ancestry in Southwest US	AFR	male	yes
+NA20503	TSI	Toscani in Italy	EUR	female	yes
+NA20752	TSI	Toscani in Italy	EUR	male	yes
+NA20762	TSI	Toscani in Italy	EUR	male	yes
+NA20799	TSI	Toscani in Italy	EUR	female	yes
+NA20805	TSI	Toscani in Italy	EUR	male	yes
+NA20806	TSI	Toscani in Italy	EUR	male	yes
+NA20809	TSI	Toscani in Italy	EUR	male	yes
+NA20827	TSI	Toscani in Italy	EUR	male	yes
+NA20850	GIH	Gujarati Indian in Houston,TX	SAS	male	yes
+NA20870	GIH	Gujarati Indian in Houston,TX	SAS	male	yes
+NA20905	GIH	Gujarati Indian in Houston,TX	SAS	male	yes
+NA21093	GIH	Gujarati Indian in Houston,TX	SAS	male	yes
+NA21102	GIH	Gujarati Indian in Houston,TX	SAS	female	yes
+NA21106	GIH	Gujarati Indian in Houston,TX	SAS	female	yes
+NA21110	GIH	Gujarati Indian in Houston,TX	SAS	female	yes
+NA21144	GIH	Gujarati Indian in Houston,TX	SAS	female	yes
+NA21309	MKK	Maasai in Kinyawa, Kenya	AFR	female	no

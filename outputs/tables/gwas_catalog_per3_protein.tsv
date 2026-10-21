@@ -1,0 +1,5 @@
+rsid	position_GRCh38	effect_allele	p_value	trait	reported_trait	study	pubmed_id	first_author	carriers_1000G_all	on_4B_1000G_all
+rs148515378	7814731	A	8e-120	level of period circadian protein homolog 3 in blood	PER3 protein levels	GCST90470210	39789286	Loya H	51	51/921
+rs143396342	7843186	G	8e-34	level of period circadian protein homolog 3 in blood	PER3 protein levels	GCST90470210	39789286	Loya H		
+rs182027064	7822999	G	7e-20	level of period circadian protein homolog 3 in blood	PER3 protein levels	GCST90470210	39789286	Loya H		
+rs146003548	7808268	C	8e-17	level of period circadian protein homolog 3 in blood	PER3 protein levels	GCST90470210	39789286	Loya H		

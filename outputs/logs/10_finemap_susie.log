@@ -1,0 +1,158 @@
+HINT: For large R or large XtX, consider installing the Rfast package for better performance.
+HINT: For large R or large XtX, consider installing the Rfast package for better performance.
+HINT: For large R or large XtX, consider installing the Rfast package for better performance.
+HINT: For large R or large XtX, consider installing the Rfast package for better performance.
+HINT: For large R or large XtX, consider installing the Rfast package for better performance.
+HINT: For large R or large XtX, consider installing the Rfast package for better performance.
+HINT: For large R or large XtX, consider installing the Rfast package for better performance.
+HINT: For large R or large XtX, consider installing the Rfast package for better performance.
+HINT: For large R or large XtX, consider installing the Rfast package for better performance.
+10: SuSiE-RSS diagnostics:
+     panel        trait variants      n ld_mismatch_s credible_sets converged
+       EUR   chronotype     1634 449734        0.0635             3      TRUE
+       EUR      morning     1635 403195        0.0619             3      TRUE
+       EUR acc_midpoint     1642  84810        0.0541             0      TRUE
+ EUR_noFIN   chronotype     1585 449734        0.0744             3      TRUE
+ EUR_noFIN      morning     1586 403195        0.0764             3      TRUE
+ EUR_noFIN acc_midpoint     1591  84810        0.0643             0      TRUE
+   CEU_GBR   chronotype     1462 449734        0.1373            10      TRUE
+   CEU_GBR      morning     1462 403195        0.1294             6      TRUE
+   CEU_GBR acc_midpoint     1467  84810        0.1274             0      TRUE
+10: credible sets:
+     panel      trait credible_set size lead_minor_allele
+       EUR chronotype            1    2                 A
+       EUR chronotype            2   11                 T
+       EUR chronotype            3    4                 G
+       EUR    morning            1    2                 A
+       EUR    morning            2   11                 T
+       EUR    morning            3    4                 T
+ EUR_noFIN chronotype            1   15                 T
+ EUR_noFIN chronotype            2    4                 G
+ EUR_noFIN chronotype            3   18                 T
+ EUR_noFIN    morning            1    2                 A
+ EUR_noFIN    morning            2   11                 T
+ EUR_noFIN    morning            3    4                 T
+   CEU_GBR chronotype            1    2                 G
+   CEU_GBR chronotype            2    3                 A
+   CEU_GBR chronotype            3    1                 A
+   CEU_GBR chronotype            4    2                 G
+   CEU_GBR chronotype            5    1                 G
+   CEU_GBR chronotype            6    1                 A
+   CEU_GBR chronotype            7    1                 T
+   CEU_GBR chronotype            8    1                 T
+   CEU_GBR chronotype            9   12                 T
+   CEU_GBR chronotype           10    2                 T
+   CEU_GBR    morning            1   10                 T
+   CEU_GBR    morning            2    4                 T
+   CEU_GBR    morning            3    3                 A
+   CEU_GBR    morning            4    1                 A
+   CEU_GBR    morning            5    3                 A
+   CEU_GBR    morning            6   47                 A
+      minor_allele_haplotypes_by_lineage purity_min_abs_r        lead lead_pip
+ 4A:19 4B.0:0 4B.1:140 4B.2:97 5A:0 5B:0            1.000 rs111997612    0.517
+   4A:0 4B.0:0 4B.1:198 4B.2:0 5A:0 5B:0            0.994  rs61773390    0.144
+    4A:0 4B.0:0 4B.1:11 4B.2:0 5A:0 5B:0            0.956 rs150812083    0.379
+ 4A:19 4B.0:0 4B.1:140 4B.2:97 5A:0 5B:0            1.000 rs111997612    0.513
+   4A:0 4B.0:0 4B.1:198 4B.2:0 5A:0 5B:0            0.994  rs61773390    0.153
+    4A:0 4B.0:0 4B.1:12 4B.2:0 5A:0 5B:0            0.956 rs114167192    0.373
+   4A:0 4B.0:0 4B.1:152 4B.2:0 5A:0 5B:0            0.921  rs61773390    0.109
+     4A:0 4B.0:0 4B.1:4 4B.2:0 5A:0 5B:0            0.893 rs150812083    0.381
+    4A:0 4B.0:0 4B.1:0 4B.2:69 5A:0 5B:0            0.876    rs228690    0.148
+ 4A:17 4B.0:0 4B.1:109 4B.2:84 5A:0 5B:0            1.000 rs111997612    0.510
+   4A:0 4B.0:0 4B.1:152 4B.2:0 5A:0 5B:0            0.992  rs61773390    0.159
+     4A:0 4B.0:0 4B.1:5 4B.2:0 5A:0 5B:0            0.893 rs114167192    0.348
+     4A:0 4B.0:0 4B.1:3 4B.2:0 5A:0 5B:0            1.000 rs150812083    0.595
+   4A:0 4B.0:0 4B.1:71 4B.2:32 5A:0 5B:0            1.000    rs228663    0.431
+     4A:1 4B.0:0 4B.1:1 4B.2:0 5A:0 5B:0            1.000 rs142695975    1.000
+     4A:1 4B.0:0 4B.1:0 4B.2:0 5A:2 5B:0            1.000 rs138722594    0.765
+     4A:1 4B.0:0 4B.1:1 4B.2:0 5A:0 5B:0            1.000 rs186777642    1.000
+     4A:0 4B.0:0 4B.1:3 4B.2:0 5A:0 5B:0            1.000 rs189987722    1.000
+     4A:0 4B.0:0 4B.1:1 4B.2:0 5A:1 5B:0            1.000 rs145018855    1.000
+     4A:0 4B.0:0 4B.1:3 4B.2:0 5A:0 5B:0            1.000 rs191980376    1.000
+    4A:0 4B.0:0 4B.1:71 4B.2:0 5A:0 5B:0            0.953  rs61773390    0.157
+     4A:1 4B.0:0 4B.1:3 4B.2:0 5A:3 5B:1            0.861  rs75766272    0.570
+    4A:0 4B.0:0 4B.1:71 4B.2:0 5A:0 5B:0            1.000  rs61773390    0.223
+     4A:0 4B.0:0 4B.1:3 4B.2:0 5A:0 5B:0            1.000 rs114167192    0.563
+   4A:0 4B.0:0 4B.1:71 4B.2:32 5A:0 5B:0            1.000    rs228663    0.418
+     4A:1 4B.0:0 4B.1:1 4B.2:0 5A:0 5B:0            1.000 rs142695975    1.000
+     4A:0 4B.0:0 4B.1:4 4B.2:0 5A:0 5B:0            0.864 rs146119067    0.817
+    4A:46 4B.0:0 4B.1:8 4B.2:4 5A:7 5B:0            0.669  rs35731977    0.361
+ lead_a1 lead_freq lead_z best_lineage r2_best_lineage r2_with_five
+       G    0.7528  -0.26           4B           0.659        0.172
+       G    0.8036 -10.10         4B.1           1.000        0.123
+       C    0.9953  -9.67         4B.1           0.045        0.006
+       G    0.7527  -0.18           4B           0.659        0.172
+       G    0.8037  -9.80         4B.1           1.000        0.123
+       C    0.9953  -8.81         4B.1           0.049        0.006
+       G    0.8036 -10.10         4B.1           1.000        0.123
+       C    0.9953  -9.67         4B.1           0.021        0.003
+       C    0.9216   7.43         4B.2           0.805        0.050
+       G    0.7527  -0.18           4B           0.668        0.186
+       G    0.8037  -9.80         4B.1           1.000        0.123
+       C    0.9953  -8.81         4B.1           0.027        0.003
+       C    0.9953  -9.67         4B.1           0.035        0.004
+       T    0.7061  -3.82           4B           1.000        0.191
+       G    0.9931   1.15         4B.1           0.003        0.003
+       A    0.9928   0.73           5A           0.006        0.004
+       C    0.9957  -7.15         4B.1           0.003        0.003
+       G    0.9765  -3.20         4B.1           0.035        0.004
+       C    0.9904  -0.94         4B.1           0.003        0.001
+       C    0.9888  -3.67         4B.1           0.035        0.004
+       G    0.8036 -10.10         4B.1           1.000        0.118
+       C    0.9747  -1.45           4A           0.006        0.002
+       G    0.8037  -9.80         4B.1           1.000        0.118
+       C    0.9953  -8.81         4B.1           0.035        0.004
+       T    0.7062  -3.85           4B           1.000        0.191
+       G    0.9931   1.14         4B.1           0.003        0.003
+       G    0.9908  -0.48         4B.1           0.046        0.005
+       G    0.8205  -3.71           4A           0.088        0.049
+ in_set_rs1773135 in_set_rs228701
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+            FALSE           FALSE
+10: the repeat's tags:
+     panel        trait       tag     z      pip in_any_credible_set
+       EUR   chronotype rs1773135 -1.05 2.02e-03               FALSE
+       EUR   chronotype  rs228701 -1.05 2.02e-03               FALSE
+       EUR      morning rs1773135 -1.75 1.84e-03               FALSE
+       EUR      morning  rs228701 -1.75 1.84e-03               FALSE
+       EUR acc_midpoint rs1773135  3.34 6.89e-03               FALSE
+       EUR acc_midpoint  rs228701  3.35 6.92e-03               FALSE
+ EUR_noFIN   chronotype rs1773135 -1.05 2.40e-03               FALSE
+ EUR_noFIN   chronotype  rs228701 -1.05 2.40e-03               FALSE
+ EUR_noFIN      morning rs1773135 -1.75 2.13e-03               FALSE
+ EUR_noFIN      morning  rs228701 -1.75 2.13e-03               FALSE
+ EUR_noFIN acc_midpoint rs1773135  3.34 7.13e-03               FALSE
+ EUR_noFIN acc_midpoint  rs228701  3.35 7.16e-03               FALSE
+   CEU_GBR   chronotype rs1773135 -1.05 3.59e-08               FALSE
+   CEU_GBR   chronotype  rs228701 -1.05 3.59e-08               FALSE
+   CEU_GBR      morning rs1773135 -1.75 7.56e-04               FALSE
+   CEU_GBR      morning  rs228701 -1.75 7.57e-04               FALSE
+   CEU_GBR acc_midpoint rs1773135  3.34 6.63e-03               FALSE
+   CEU_GBR acc_midpoint  rs228701  3.35 6.65e-03               FALSE
+10: susieR version 0.14.2 

@@ -1,0 +1,17 @@
+# conda env create -f environment.yml && conda activate per3-vntr && bash run_all.sh
+# The versions used for the published results are in expected/versions.txt; others of the same series should do.
+name: per3-vntr
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.9          # standard library only
+  - r-base>=4.1          # base R only, except:
+  - r-susier>=0.12       # optional: fine-mapping (step 10)
+  - bcftools=1.19
+  - samtools=1.19
+  - htslib=1.19          # tabix, bgzip
+  - kalign3=3.3.5
+  - gcta=1.94.1          # optional: the check of the conditional analysis (step 09)
+  - curl                 # only for the scripts in data-build/
+  - fonts-conda-forge    # fonts for the figures

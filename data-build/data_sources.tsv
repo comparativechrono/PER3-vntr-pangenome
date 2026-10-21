@@ -1,0 +1,17 @@
+files	source	version_or_date	script
+reference/GRCh38_chr1_8Mb.fa.gz	NCBI E-utilities, NC_000001.11 bases 1–8,100,000	GRCh38.p14	01_reference.sh
+reference/genes_GRCh38.gff3, PER3_exons.bed	Ensembl REST API, overlap/region (GFF3), protein-coding genes and their MANE Select transcripts	October 2026	02_genes_gff3.py
+reference/dbsnp157_per3_500kb.vcf.gz	NCBI dbSNP build 157, snp/archive/b157/VCF/GCF_000001405.40.gz	build 157	03_dbsnp.sh
+hprc/*.vcf.gz	Human Pangenome Reference Consortium, release 2, Minigraph-Cactus v2.1, GRCh38-based VCFs (hprc-v2.1-mc-grch38.vcf.gz, .wave.vcf.gz) on AWS S3	release 2 (v2.1)	04_hprc.sh
+hprc/hprc_samples.tsv	HPRC release 2 sample table (GitHub: human-pangenomics/hprc_intermediate_assembly); 1000 Genomes population names	October 2026	05_samples.py
+1000g/1kgp_per3_gene.vcf.gz	1000 Genomes high-coverage phased panel (NYGC, 20220422)	2022	06_1000g.sh
+1000g/1kgp_samples.tsv	1000 Genomes: the 3,202-sample pedigree file, the phase 3 panel of 2,504, the phase 3 table of populations	2013–2022	05_samples.py
+gwas/*_Jones2019.tsv, *_Dashti2019.tsv, *_Lane2019.tsv, *_Dashti2021.tsv	GWAS Catalog summary statistics FTP (GCST007576, 007565, 007561, 007387, 011494, 007801–007808)	as deposited (2019–2021)	07_gwas.sh
+gwas/gwas_catalog_PER3_associations.tsv	GWAS Catalog REST API v2, associations?mapped_gene=PER3	21 October 2026	08_gwas_catalog.py
+gtex/GTEx_v8_PER3_rs228701.tsv	GTEx Portal API v2, association/dyneqtl for PER3 (ENSG00000049246.14) and chr1_7829744_C_G_b38	GTEx v8	09_gtex.py
+primates/*	NCBI Datasets (orthologues of human PER3, gene 8863: gene regions and proteins); NCBI E-utilities and BLAST+ for the T2T apes	October 2026	10_ape_haplotypes.py and the steps in data-build/README.md (The primates)
+gtex/GTEx_v8_PER3_lineage_markers.tsv	GTEx Portal API v2, association/dyneqtl for PER3 and rs1773135, rs228663, rs61773390, rs228697	GTEx v8	11_gtex_lineage_markers.py
+primates/assemblies.tsv	NCBI E-utilities (elink nuccore→assembly) and NCBI Datasets v2 (genome dataset_report)	21 October 2026	12_primate_assemblies.py
+hprc/hprc_pggb_per3_7.78-7.86Mb.vcf.gz	HPRC release 2 PGGB graph, 20250930_hprc25272.GRCh38.p98-k311.laced.vcf.gz (AWS S3)	release 2	13_hprc_pggb.sh
+1000g/1kgp2504_chr1_7.58-8.08Mb.vcf.gz	1000 Genomes high-coverage phased panel (NYGC, 20220422), the 2,504 unrelated	2022	14_1000g_wide.sh
+mukamel2021/*	data.broadinstitute.org/lohlab/UKB_codingVNTR_sumstats/coding_vntr_stats.tar.gz (Mukamel et al. 2021)	2021-11-05	15_mukamel2021.sh

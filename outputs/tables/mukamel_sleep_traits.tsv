@@ -1,0 +1,8 @@
+mukamel_phenotype	mukamel_z_longer	mukamel_p	our_trait	our_z_five_aligned	our_p	same_direction
+sleep_EVENING_PERSON	0.31	0.76	chronotype	1.05	0.28	TRUE
+sleep_HOURS	1.17	0.24	sleepdur	1.36	0.16	TRUE
+sleep_INSOMNIA	0.83	0.4	insomnia	1.38	0.19	TRUE
+sleep_NAP_DURING_DAY	1.53	0.13	nap	2.4	0.02	TRUE
+sleep_GET_UP_EASE	-1.34	0.18				
+sleep_NARCOLEPSY	1.51	0.13				
+sleep_SNORING	-0.47	0.64				

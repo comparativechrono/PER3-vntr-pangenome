@@ -1,0 +1,6 @@
+rsid	marks	tissues	bonferroni	tissues_p05	tissues_bonferroni	top_tissue	top_NES	top_p	brain_tissues	brain_p05	top_brain	top_brain_NES	top_brain_p	hypothalamus_NES	hypothalamus_p
+rs228701	four units (ALT G)	49	0.001	1	0	Testis	0.1112	0.00168	13	0	Brain_Spinal_cord_cervical_c-1	-0.0814	0.205	0.071	0.316
+rs1773135	four units (ALT G)	49	0.001	1	0	Testis	0.1112	0.00168	13	0	Brain_Spinal_cord_cervical_c-1	-0.0814	0.205	0.071	0.316
+rs228663	4B (ALT A)	49	0.001	3	3	Whole_Blood	0.1738	4.84e-06	13	0	Brain_Hippocampus	0.1329	0.114	0.0683	0.339
+rs61773390	4B.1 (ALT T)	49	0.001	7	0	Testis	0.1495	0.00115	13	4	Brain_Hippocampus	0.2295	0.0192	0.082	0.328
+rs228697	4B.2 (ALT G)	49	0.001	6	1	Whole_Blood	0.324	2.46e-09	13	3	Brain_Substantia_nigra	-0.3593	0.0124	0.0166	0.867

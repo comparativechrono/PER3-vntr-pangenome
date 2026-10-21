@@ -1,0 +1,17 @@
+14: lineage effects used (chronotype score units, 4A = 0):
+     4A    4B.0    4B.1   4B.1r    4B.2      5B      5A 
+ 0.0000  0.0000  0.0250  0.1808 -0.0278 -0.0029  0.0028 
+14: chronotype SD (from the summary statistics): 1.276
+ level name haplotypes freq_five share_4B1_of_four share_4B2_of_four
+ group  AFR       1322     0.373             0.113             0.016
+ group  AMR        694     0.256             0.287             0.093
+ group  EAS       1008     0.148             0.009             0.050
+ group  EUR       1006     0.335             0.296             0.145
+ group  SAS        978     0.349             0.248             0.154
+ implied_beta_five implied_beta_five_sd implied_55_vs_44_sd
+         -0.001880            -0.001470           -0.002950
+         -0.003450            -0.002710           -0.005420
+          0.003950             0.003100            0.006200
+         -0.003970            -0.003110           -0.006220
+         -0.000186            -0.000145           -0.000291
+14: implied per-allele difference over 26 populations: -0.0089 to 0.0037 SD (5/5 vs 4/4: -0.0178 to 0.0075 SD)

@@ -1,0 +1,242 @@
+Warning messages:
+1: In sqrt(sigma2/den) : NaNs produced
+2: In sqrt(sigma2/den) : NaNs produced
+3: In sqrt(sigma2/den) : NaNs produced
+4: In sqrt(sigma2/den) : NaNs produced
+5: In sqrt(sigma2/den) : NaNs produced
+09: lineage model (EUR panel):
+        trait                                  contrast        bJ      se
+   chronotype                                  5B vs 4A -0.002890 0.00630
+   chronotype                                  5A vs 5B  0.005680 0.00643
+   chronotype                                4B.1 vs 4A  0.025000 0.00382
+   chronotype                                4B.2 vs 4A -0.027800 0.00480
+   chronotype     rare branch of 4B.1 (vs rest of 4B.1)  0.156000 0.02030
+   chronotype                                  5A vs 4A  0.002790 0.00328
+   chronotype five units (5A and 5B by frequency) vs 4A  0.002060 0.00314
+   chronotype               5A and 5B vs 4A (2-df test)        NA      NA
+      morning                                  5B vs 4A -0.008330 0.01060
+      morning                                  5A vs 5B  0.009060 0.01080
+      morning                                4B.1 vs 4A  0.040200 0.00641
+      morning                                4B.2 vs 4A -0.044700 0.00805
+      morning     rare branch of 4B.1 (vs rest of 4B.1)  0.231000 0.03390
+      morning                                  5A vs 4A  0.000727 0.00551
+      morning five units (5A and 5B by frequency) vs 4A -0.000451 0.00527
+      morning               5A and 5B vs 4A (2-df test)        NA      NA
+ acc_midpoint                                  5B vs 4A  0.034800 0.01130
+ acc_midpoint                                  5A vs 5B -0.027500 0.01160
+ acc_midpoint                                4B.1 vs 4A -0.020100 0.00684
+ acc_midpoint                                4B.2 vs 4A  0.003710 0.00859
+ acc_midpoint     rare branch of 4B.1 (vs rest of 4B.1) -0.054700 0.03630
+ acc_midpoint                                  5A vs 4A  0.007370 0.00591
+ acc_midpoint five units (5A and 5B by frequency) vs 4A  0.010900 0.00565
+ acc_midpoint               5A and 5B vs 4A (2-df test)        NA      NA
+       acc_l5                                  5B vs 4A  0.011500 0.01120
+       acc_l5                                  5A vs 5B -0.010300 0.01150
+       acc_l5                                4B.1 vs 4A -0.019600 0.00679
+       acc_l5                                4B.2 vs 4A  0.015500 0.00853
+       acc_l5     rare branch of 4B.1 (vs rest of 4B.1) -0.123000 0.03600
+       acc_l5                                  5A vs 4A  0.001170 0.00586
+       acc_l5 five units (5A and 5B by frequency) vs 4A  0.002520 0.00560
+       acc_l5               5A and 5B vs 4A (2-df test)        NA      NA
+      acc_m10                                  5B vs 4A  0.002330 0.01120
+      acc_m10                                  5A vs 5B -0.009100 0.01140
+      acc_m10                                4B.1 vs 4A -0.016700 0.00676
+      acc_m10                                4B.2 vs 4A  0.010300 0.00850
+      acc_m10     rare branch of 4B.1 (vs rest of 4B.1) -0.100000 0.03580
+      acc_m10                                  5A vs 4A -0.006770 0.00584
+      acc_m10 five units (5A and 5B by frequency) vs 4A -0.005580 0.00558
+      acc_m10               5A and 5B vs 4A (2-df test)        NA      NA
+      pJ
+ 6.5e-01
+ 3.8e-01
+ 5.5e-11
+ 7.1e-09
+ 1.7e-14
+ 3.9e-01
+ 5.1e-01
+ 5.6e-01
+ 4.3e-01
+ 4.0e-01
+ 3.3e-10
+ 2.8e-08
+ 1.1e-11
+ 9.0e-01
+ 9.3e-01
+ 7.0e-01
+ 2.1e-03
+ 1.7e-02
+ 3.3e-03
+ 6.7e-01
+ 1.3e-01
+ 2.1e-01
+ 5.3e-02
+ 7.4e-03
+ 3.1e-01
+ 3.7e-01
+ 3.9e-03
+ 6.9e-02
+ 6.6e-04
+ 8.4e-01
+ 6.5e-01
+ 5.9e-01
+ 8.3e-01
+ 4.3e-01
+ 1.3e-02
+ 2.2e-01
+ 5.0e-03
+ 2.5e-01
+ 3.2e-01
+ 4.6e-01
+09: five units (5A and 5B by frequency) vs 4A in the lineage model, by panel:
+     panel        trait        bJ      se    pJ
+       EUR   chronotype  0.002060 0.00314 0.510
+       EUR      morning -0.000451 0.00527 0.930
+       EUR acc_midpoint  0.010900 0.00565 0.053
+       EUR       acc_l5  0.002520 0.00560 0.650
+       EUR      acc_m10 -0.005580 0.00558 0.320
+ EUR_noFIN   chronotype  0.002020 0.00316 0.520
+ EUR_noFIN      morning -0.000624 0.00531 0.910
+ EUR_noFIN acc_midpoint  0.010800 0.00569 0.057
+ EUR_noFIN       acc_l5  0.002400 0.00565 0.670
+ EUR_noFIN      acc_m10 -0.005790 0.00562 0.300
+   CEU_GBR   chronotype  0.005520 0.00317 0.081
+   CEU_GBR      morning  0.004890 0.00531 0.360
+   CEU_GBR acc_midpoint  0.008900 0.00570 0.120
+   CEU_GBR       acc_l5 -0.000184 0.00565 0.970
+   CEU_GBR      acc_m10 -0.007830 0.00563 0.160
+09: signals selected (P < 5e-8):
+     panel      trait method         snp a1     freq           pJ
+       EUR chronotype      R  rs61773390  G 0.803561 2.018925e-24
+       EUR chronotype      R rs150812083  C 0.995339 1.109768e-16
+       EUR chronotype      R rs111997612  G 0.752769 4.064851e-11
+       EUR chronotype   GCTA rs150812083  C 0.995339 8.206294e-15
+       EUR chronotype   GCTA    rs228690  C 0.921615 1.170123e-10
+       EUR chronotype   GCTA  rs17374439  C 0.803335 1.876668e-12
+       EUR    morning      R  rs17374439  C 0.803508 1.542116e-23
+       EUR    morning      R rs114167192  C 0.995271 9.797247e-14
+       EUR    morning      R rs111997612  G 0.752743 1.737686e-10
+       EUR    morning   GCTA rs114167192  C 0.995271 6.501130e-12
+       EUR    morning   GCTA    rs228690  C 0.921532 3.998782e-09
+       EUR    morning   GCTA  rs17374439  C 0.803508 2.165489e-12
+ EUR_noFIN chronotype      R  rs61773390  G 0.803561 8.505399e-14
+ EUR_noFIN chronotype      R rs150812083  C 0.995339 1.521157e-14
+ EUR_noFIN chronotype      R    rs228690  C 0.921615 1.757918e-09
+ EUR_noFIN chronotype   GCTA rs150812083  C 0.995339 1.447718e-14
+ EUR_noFIN chronotype   GCTA    rs228690  C 0.921615 1.932816e-09
+ EUR_noFIN chronotype   GCTA  rs17374439  C 0.803335 8.497112e-14
+ EUR_noFIN    morning      R  rs17374439  C 0.803508 2.453707e-23
+ EUR_noFIN    morning      R rs114167192  C 0.995271 2.284342e-13
+ EUR_noFIN    morning      R rs111997612  G 0.752743 5.992295e-09
+ EUR_noFIN    morning   GCTA rs114167192  C 0.995271 3.890392e-12
+ EUR_noFIN    morning   GCTA  rs17374439  C 0.803508 3.028773e-16
+   CEU_GBR chronotype      R  rs61773390  G 0.803561 1.979925e-27
+   CEU_GBR chronotype      R    rs228663  T 0.706130 2.197277e-13
+   CEU_GBR chronotype      R rs114167192  C 0.995302 4.033622e-19
+   CEU_GBR chronotype      R rs142695975  G 0.993051 8.239317e-10
+   CEU_GBR chronotype   GCTA rs114167192  C 0.995302 7.922885e-23
+   CEU_GBR chronotype   GCTA  rs17374439  C 0.803335 8.876056e-26
+   CEU_GBR chronotype   GCTA rs111997612  G 0.752769 5.477371e-12
+   CEU_GBR chronotype   GCTA rs142695975  G 0.993051 7.067609e-11
+   CEU_GBR    morning      R  rs17374439  C 0.803508 8.638561e-25
+   CEU_GBR    morning      R    rs228663  T 0.706227 3.446799e-11
+   CEU_GBR    morning      R rs114167192  C 0.995271 6.714564e-16
+   CEU_GBR    morning      R rs142695975  G 0.993086 1.027657e-08
+   CEU_GBR    morning   GCTA rs114167192  C 0.995271 2.354928e-10
+   CEU_GBR    morning   GCTA  rs17374439  C 0.803508 1.787964e-14
+09: the tag, conditional on the selected signals:
+     panel        trait method signals           b      p            bC
+       EUR   chronotype      R       3 -0.00297240 0.2800  0.0025859004
+       EUR   chronotype   GCTA       3 -0.00297240 0.2800  0.0021762154
+       EUR      morning      R       3 -0.00833743 0.0700 -0.0001330122
+       EUR      morning   GCTA       3 -0.00833743 0.0700 -0.0005435399
+       EUR acc_midpoint      R       0  0.01704000 0.0009  0.0170400000
+       EUR acc_midpoint   GCTA       0  0.01704000 0.0009  0.0170400000
+       EUR       acc_l5      R       0  0.00738018 0.1500  0.0073801800
+       EUR       acc_l5   GCTA       0  0.00738018 0.1500  0.0073801800
+       EUR      acc_m10      R       0 -0.00108764 0.8200 -0.0010876400
+       EUR      acc_m10   GCTA       0 -0.00108764 0.8200 -0.0010876400
+ EUR_noFIN   chronotype      R       3 -0.00297240 0.2800  0.0018541932
+ EUR_noFIN   chronotype   GCTA       3 -0.00297240 0.2800  0.0019930807
+ EUR_noFIN      morning      R       3 -0.00833743 0.0700 -0.0007923313
+ EUR_noFIN      morning   GCTA       2 -0.00833743 0.0700  0.0072584003
+ EUR_noFIN acc_midpoint      R       0  0.01704000 0.0009  0.0170400000
+ EUR_noFIN acc_midpoint   GCTA       0  0.01704000 0.0009  0.0170400000
+ EUR_noFIN       acc_l5      R       0  0.00738018 0.1500  0.0073801800
+ EUR_noFIN       acc_l5   GCTA       0  0.00738018 0.1500  0.0073801800
+ EUR_noFIN      acc_m10      R       0 -0.00108764 0.8200 -0.0010876400
+ EUR_noFIN      acc_m10   GCTA       0 -0.00108764 0.8200 -0.0010876400
+   CEU_GBR   chronotype      R       4 -0.00297240 0.2800  0.0033249199
+   CEU_GBR   chronotype   GCTA       4 -0.00297240 0.2800  0.0051085615
+   CEU_GBR      morning      R       4 -0.00833743 0.0700  0.0026174077
+   CEU_GBR      morning   GCTA       2 -0.00833743 0.0700  0.0116672490
+   CEU_GBR acc_midpoint      R       0  0.01704000 0.0009  0.0170400000
+   CEU_GBR acc_midpoint   GCTA       0  0.01704000 0.0009  0.0170400000
+   CEU_GBR       acc_l5      R       0  0.00738018 0.1500  0.0073801800
+   CEU_GBR       acc_l5   GCTA       0  0.00738018 0.1500  0.0073801800
+   CEU_GBR      acc_m10      R       0 -0.00108764 0.8200 -0.0010876400
+   CEU_GBR      acc_m10   GCTA       0 -0.00108764 0.8200 -0.0010876400
+       bC_se        pC
+ 0.003094694 0.4033847
+ 0.003126969 0.4864598
+ 0.005199918 0.9795926
+ 0.005246666 0.9174890
+ 0.005096830 0.0009000
+ 0.005096830 0.0009000
+ 0.005058030 0.1500000
+ 0.005058030 0.1500000
+ 0.005034610 0.8200000
+ 0.005034610 0.8200000
+ 0.003145695 0.5555673
+ 0.003152604 0.5272553
+ 0.005237500 0.8797545
+ 0.005039279 0.1497642
+ 0.005096830 0.0009000
+ 0.005096830 0.0009000
+ 0.005058030 0.1500000
+ 0.005058030 0.1500000
+ 0.005034610 0.8200000
+ 0.005034610 0.8200000
+ 0.003155494 0.2920238
+ 0.003125774 0.1021885
+ 0.005296735 0.6211968
+ 0.005130064 0.0229486
+ 0.005096830 0.0009000
+ 0.005096830 0.0009000
+ 0.005058030 0.1500000
+ 0.005058030 0.1500000
+ 0.005034610 0.8200000
+ 0.005034610 0.8200000
+09: single-SNP conditional on rs61773390:
+     panel        trait r_five_with_4B1      z_tag z_tag_given_rs61773390
+       EUR   chronotype      -0.3339815 -1.0485507             2.46484375
+       EUR      morning      -0.3339815 -1.7533179             1.61275757
+       EUR acc_midpoint      -0.3339815  3.3432545             1.97506873
+       EUR       acc_l5      -0.3339815  1.4591017            -0.07405493
+       EUR      acc_m10      -0.3339815 -0.2160326            -1.40660306
+ EUR_noFIN   chronotype      -0.3270451 -1.0485507             2.38440335
+ EUR_noFIN      morning      -0.3270451 -1.7533179             1.53666982
+ EUR_noFIN acc_midpoint      -0.3270451  3.3432545             2.00255346
+ EUR_noFIN       acc_l5      -0.3270451  1.4591017            -0.04026329
+ EUR_noFIN      acc_m10      -0.3270451 -0.2160326            -1.37859692
+   CEU_GBR   chronotype      -0.3662365 -1.0485507             2.84674279
+   CEU_GBR      morning      -0.3662365 -1.7533179             1.97340327
+   CEU_GBR acc_midpoint      -0.3662365  3.3432545             1.84688993
+   CEU_GBR       acc_l5      -0.3662365  1.4591017            -0.23369667
+   CEU_GBR      acc_m10      -0.3662365 -0.2160326            -1.54001436
+           p
+ 0.013707301
+ 0.106797187
+ 0.048260349
+ 0.940966678
+ 0.159545125
+ 0.017106841
+ 0.124374186
+ 0.045225240
+ 0.967883218
+ 0.168019067
+ 0.004416903
+ 0.048449635
+ 0.064763094
+ 0.815220470
+ 0.123556854
+09: GCTA vs R, joint lineage model: largest relative difference in bJ = 4.8e-06 over 75 estimates

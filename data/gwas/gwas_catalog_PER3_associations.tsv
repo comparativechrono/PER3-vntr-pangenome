@@ -1,0 +1,29 @@
+rsid	position_GRCh38	effect_allele	p_value	trait	reported_trait	study	pubmed_id	first_author
+rs189355347	7826724	T	1e-13	Atypical behavior	Decreased libido (PheCode 302.1)	GCST90480758	39024449	Verma A
+rs12130462	7831318	T	6e-09	hypothyroidism	Hypothyroidism	GCST90627750	41644669	White SL
+rs12130462	7831318	T	4e-10	hypothyroidism	Hypothyroidism	GCST90627749	41644669	White SL
+rs4908694	7790838	C	1e-10	body height	Height (baseline)	GCST90565843	40374629	Schoeler T
+rs228682	7796286	C	1e-39	transcription factor RelB measurement	RELB protein levels	GCST90470452	39789286	Loya H
+rs182027064	7822999	G	7e-20	level of period circadian protein homolog 3 in blood	PER3 protein levels	GCST90470210	39789286	Loya H
+rs148515378	7814731	A	8e-120	level of period circadian protein homolog 3 in blood	PER3 protein levels	GCST90470210	39789286	Loya H
+rs146003548	7808268	C	8e-17	level of period circadian protein homolog 3 in blood	PER3 protein levels	GCST90470210	39789286	Loya H
+rs143396342	7843186	G	8e-34	level of period circadian protein homolog 3 in blood	PER3 protein levels	GCST90470210	39789286	Loya H
+rs186648500	7817315	T	7e-14	glioma pathogenesis-related protein 1 measurement	GLIPR1 protein levels	GCST90469357	39789286	Loya H
+rs1312665132	7801870	?	8e-06	cleft lip	Nonsyndromic cleft palate	GCST90448958	39500877	Rahimov F
+rs61773392	7835358	?	6e-09	testosterone measurement	Total testosterone levels	GCST90239820	36653534	Leinonen JT
+rs2640909	7830057	T	2e-10	osteoarthritis, spine; body mass index	Body mass index or spine osteoarthritis (pleiotropy)	GCST90271772	36889626	Zhang L
+rs10462018	7819567	?	8e-08	amino acid measurement	Imidazole propionate levels in elite athletes	GCST90133561	31882771	Al-Khelaifi F
+rs571084788	7783651	?	4e-09	testosterone measurement	Testosterone levels	GCST90104296	35192695	Haas CB
+rs571084788	7783651	C	5e-10	testosterone measurement	Testosterone levels	GCST90104272	35192695	Haas CB
+rs571084788	7783651	T	1e-11	testosterone measurement	Total testosterone levels	GCST90012112	32042192	Ruth KS
+rs228654	7837168	A	3e-16	chronotype measurement	Morningness	GCST007983	30804565	Jansen PR
+rs61773390	7824465	T	3e-27	chronotype measurement	Morningness	GCST007983	30804565	Jansen PR
+rs150812083	7809893	C	4e-22	chronotype measurement	Morningness	GCST007983	30804565	Jansen PR
+rs148173313	7833451	A	9e-11	chronotype measurement	Ease of getting up in the morning	GCST007986	30804565	Jansen PR
+rs61773374	7798048	G	3e-14	chronotype measurement	Ease of getting up in the morning	GCST007986	30804565	Jansen PR
+rs61773390	7824465	T	5e-41	chronotype measurement	Morning person	GCST007565	30696823	Jones SE
+rs150812083	7809893	C	7e-40	chronotype measurement	Chronotype	GCST007576	30696823	Jones SE
+rs228726	7788883	A	3e-26	chronotype measurement	Chronotype	GCST007576	30696823	Jones SE
+rs61773390	7824465	T	5e-41	chronotype measurement	Chronotype	GCST007576	30696823	Jones SE
+rs17374439	7828378	?	5e-24	chronotype measurement	Morning person	GCST007083	30595370	Kichaev G
+rs2797685	7819003	A	7e-09	Crohn disease	Crohn's disease	GCST000879	21102463	Franke A

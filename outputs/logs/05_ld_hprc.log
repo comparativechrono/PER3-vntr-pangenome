@@ -1,0 +1,32 @@
+05: 6140 biallelic SNVs; 5395 complete and polymorphic in the 462 haplotypes
+05: the best tags of repeat length (HPRC):
+     pos       rsid ref alt five_unit_allele alt_freq     r2 dprime r2_AFR
+ 7829744   rs228701   C   G                C   0.7056 0.9896 -1.000 0.9700
+ 7830204  rs1773135   A   G                A   0.7056 0.9896 -1.000 0.9700
+ 7830896   rs228665   G   C                G   0.7294 0.8783 -0.989 0.6714
+ 7830004 rs12023156   A   G                G   0.2359 0.7479  1.000 0.5428
+ 7805003  rs6680585   G   A                A   0.2381 0.7376  0.987 0.5140
+ 7805407  rs6657232   C   T                T   0.2381 0.7376  0.987 0.5140
+ 7805631 rs11121027   A   T                T   0.2381 0.7376  0.987 0.5140
+ 7832499 rs59746373   G   A                A   0.2381 0.7376  0.987 0.5140
+ r2_AMR r2_EAS r2_EUR r2_SAS
+ 1.0000      1 1.0000      1
+ 1.0000      1 1.0000      1
+ 1.0000      1 1.0000      1
+ 0.8514      1 0.6281      1
+ 0.8514      1 0.6281      1
+ 0.8514      1 0.6281      1
+ 0.8514      1 0.6281      1
+ 0.8514      1 0.6281      1
+05: extent of LD with the repeat:
+ r2_above snvs    from      to span_kb farthest_kb
+     0.95    2 7829744 7830204     0.5         0.3
+     0.80    3 7829744 7830896     1.2         0.9
+     0.50   26 7785635 7846854    61.2        44.4
+     0.20   53 7693888 7860363   166.5       136.1
+05: best tag of each lineage:
+ lineage haplotypes rank     pos       rsid ref alt    r2 lineage_allele
+      4A        238    1 7827188  rs2859387   G   A 0.983              A
+      4B         85    1 7832049   rs228663   T   A 0.986              A
+      5A        108    1 7830004 rs12023156   A   G 0.988              G
+      5B         26    1 7786210   rs228728   A   G 0.602              A

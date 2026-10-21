@@ -1,0 +1,17 @@
+04: five-unit allele frequency by group (HPRC):
+ group people haplotypes four five freq_five ci_lower ci_upper
+   AFR     70        140   88   52     0.371    0.296    0.454
+   AMR     44         88   72   16     0.182    0.115    0.275
+   EAS     51        102   79   23     0.225    0.155    0.316
+   EUR     30         60   38   22     0.367    0.256    0.493
+   SAS     36         72   50   22     0.306    0.211    0.420
+   All    231        462  327  135     0.292    0.253    0.335
+04: heterogeneity chi2 = 13.3, df = 4, P = 0.0099; genotypes 4/4 113, 4/5 101, 5/5 17; HWE P = 0.43
+04: lineages by group:
+     4A 4B  5A 5B other haplotypes share_4B_of_four share_5B_of_five
+AFR  75 11  34 18     2        140            0.128            0.346
+AMR  43 28  14  2     1         88            0.394            0.125
+EAS  75  4  23  0     0        102            0.051            0.000
+EUR  18 19  15  6     2         60            0.514            0.286
+SAS  27 23  22  0     0         72            0.460            0.000
+All 238 85 108 26     5        462            0.263            0.194

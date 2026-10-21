@@ -1,0 +1,54 @@
+protein	species	common_name	group	length	aa	units	region
+Gorilla_gorilla_gorilla|XP_030869435.3	Gorilla gorilla gorilla	western lowland gorilla	Hominidae (great apes)	1185	65	3.61	LSTGSPPRENPSHPTASALSTGSPPMENPSHPTASALSMGLPPSGTVLSTGSPPSESPSRTGSAA
+Homo_sapiens|NP_001276791.1	Homo sapiens	human	Hominidae (great apes)	1210	90	5.0	LSTGSPPRENPSHPTASALSTGSPPMKNPSHPTASALSTGSPPMKNPSHPTASTLSMGLPPSRTPSHPTATVLSTGSPPSESPSRTGSAA
+Pan_paniscus|XP_063451026.1	Pan paniscus	bonobo	Hominidae (great apes)	1198	54	3.0	LSTGSPPRENPSHPTASALSTGSPPMENPSHPTATVLSTGSPPSKSPSRTGSAA
+Pan_troglodytes|XP_016808835.2	Pan troglodytes	chimpanzee	Hominidae (great apes)	1209	72	4.0	LSTGSPPRENPSHPTASALSTGSPPMENPSHPTASTLSMGLPPSGTPSHPTATVLSTGSPPSKSPSRTGSAA
+Pongo_abelii|XP_024087582.2	Pongo abelii	Sumatran orangutan	Hominidae (great apes)	1180	54	3.0	LSTGSPPRENPSHPTASTLSMGLPPSRTPSHPAASVLSMGSPPSESPSRTGSAA
+Pongo_pygmaeus|XP_063524437.1	Pongo pygmaeus	Bornean orangutan	Hominidae (great apes)	1181	54	3.0	LSTGSPPRENPSHPTASTLSMGLLPSRTPSHPAASVLSMGSPPSESPSRTGSAA
+Hylobates_moloch|XP_032614688.1	Hylobates moloch	silvery gibbon	Hylobatidae (gibbons)	1174	54	3.0	LSTGSPPRENPSHPTASTLSTGLPPSGAPSHPTASVLPTGSPPSESPSGTGSAA
+Nomascus_leucogenys|XP_030661104.1	Nomascus leucogenys	northern white-cheeked gibbon	Hylobatidae (gibbons)	1173	54	3.0	LSTGSPPRENPSHPTASTLSMGLPPSRTPSHPTASVLSTGSPPSEPPSGTGSAA
+Symphalangus_syndactylus|XP_055117194.1	Symphalangus syndactylus	siamang	Hylobatidae (gibbons)	1192	72	4.0	LSTGSPPRENPSHPTASTLSTGSPPAENPYHPTASTLSTGLLPSRTPSHPTASVLSTGSPPSESPSGTGSAA
+Cercocebus_atys|XP_011904896.1	Cercocebus atys	sooty mangabey	Cercopithecidae (Old World monkeys)	1196	54	3.0	LSMGSPPRENPSHPTASTLSMGSPPSGTPSYPTASVLSTGSPPCESLSGTGSAA
+Chlorocebus_sabaeus|XP_037841010.1	Chlorocebus sabaeus	green monkey	Cercopithecidae (Old World monkeys)	1188	54	3.0	LSTGSPPRENPSHPTASTLSMGSPPSGTPSHPTASVLSTGSPPSESPSGTGSAA
+Colobus_angolensis_palliatus|XP_011793643.1	Colobus angolensis palliatus		Cercopithecidae (Old World monkeys)	1185	54	3.0	LSTGSPPRENPSHPTASTLSMGSPPSGTPSHPTASVLSTGSPPSESPSGTGSAA
+Macaca_fascicularis|XP_065386357.1	Macaca fascicularis	crab-eating macaque	Cercopithecidae (Old World monkeys)	1197	54	3.0	LSMGSPPRENPSHPTASTLSMGSPPSRTPSHPTASVLSTGSPPCESLSGTGSAA
+Macaca_mulatta|XP_028696090.2	Macaca mulatta	Rhesus monkey	Cercopithecidae (Old World monkeys)	1196	54	3.0	LSMGSPPRENPSHPTASTLSMGSPPSRTPSHPTASVLSTGSPPCESLSGTGSAA
+Macaca_nemestrina|XP_011735576.2	Macaca nemestrina	pig-tailed macaque	Cercopithecidae (Old World monkeys)	1197	54	3.0	LSMGSPPRENPSHPTASTLSMGSPPSGTPSHPTASVLSTGSPPCESLSGTGSAA
+Macaca_thibetana_thibetana|XP_050642994.1	Macaca thibetana thibetana		Cercopithecidae (Old World monkeys)	1179	54	3.0	LSMGSPPRENPSHPTASTLSMGSPPSGTPSHPTASVLSTGSPPCESLSGTGSAA
+Mandrillus_leucophaeus|XP_011836770.1	Mandrillus leucophaeus	drill	Cercopithecidae (Old World monkeys)	1190	54	3.0	LSMGSPPRENPSHPTAGTLSMGSPPSGTPSYPTASVLSTGSPPCESLSGTGSAA
+Papio_anubis|XP_017812291.3	Papio anubis	olive baboon	Cercopithecidae (Old World monkeys)	1179	54	3.0	LSMGSPPRENPSHPTASTLSMGSPPSGTPSYPTASVLSTGSPPCESLSGTGSAA
+Piliocolobus_tephrosceles|XP_023071014.1	Piliocolobus tephrosceles	Ugandan red Colobus	Cercopithecidae (Old World monkeys)	1201	54	3.0	LSTGSPPRENPSHPTASTLSMGSPPSGTPSHPTASVLSTGSPPSESPSGTGSAA
+Rhinopithecus_bieti|XP_017711567.1	Rhinopithecus bieti	black snub-nosed monkey	Cercopithecidae (Old World monkeys)	1180	54	3.0	LSTGPPPRENPSHPTASTLSMGSPPSGTPSHPTASVLSAGSPPSESPSGTGSAA
+Rhinopithecus_roxellana|XP_030768616.1	Rhinopithecus roxellana	golden snub-nosed monkey	Cercopithecidae (Old World monkeys)	1180	54	3.0	LSTGPPPRENPSHPTASTLSMGSPPSGTPSHPTASVLSAGSPPSESPSGTGSAA
+Theropithecus_gelada|XP_025211626.1	Theropithecus gelada	gelada	Cercopithecidae (Old World monkeys)	1179	54	3.0	LSMGSPPRENPSHPTASTLSMGSPPSGTPSYPTASVLSTGSPPCESLSGTGSAA
+Trachypithecus_francoisi|XP_033084406.1	Trachypithecus francoisi	Francois's langur	Cercopithecidae (Old World monkeys)	1208	54	3.0	LSTGSPPRENPSHPTARTLSMGSPPSGTPSHPTASVLSTGSPPSESPSGTGSAA
+Aotus_nancymaae|XP_064219266.1	Aotus nancymaae	Ma's night monkey	Platyrrhini (New World monkeys)	1149	36	2.0	LSTGSPPRETPSHPTASALSPGSPPRETPSGTGSAA
+Callithrix_jacchus|XP_054092864.2	Callithrix jacchus	white-tufted-ear marmoset	Platyrrhini (New World monkeys)	1270	126	7.0	LFTGSSPRETPSHPTAGVLSPGSPPRETPSHPTASVLSTGSPPREAPSHPSASELSPGSPPRETPSRPTASVLSMGSLPRETTSHPTASMLSPGSAPRETPSHPTASILSPESPPRETPSRTGSAA
+Cebus_imitator|XP_017353870.1	Cebus imitator	Panamanian white-faced capuchin	Platyrrhini (New World monkeys)	1149	36	2.0	LSMGSPPRETPSHPTAGVLSTGSPPRETPSGTGSAA
+Saimiri_boliviensis|XP_039330266.1	Saimiri boliviensis	Bolivian squirrel monkey	Platyrrhini (New World monkeys)	1201	72	4.0	LSTGSPPRETPSHPTAGVLSPGSPPRETPSRPTASVLSPGSPPRETPSHPTAGVLSRGSPPRETPSRTGSSA
+Sapajus_apella|XP_032156154.1	Sapajus apella	tufted capuchin	Platyrrhini (New World monkeys)	1168	36	2.0	LSMGSPPRETPSHPTAGVLSTGSPPRETPSGTGSAA
+Carlito_syrichta|XP_021571396.1	Carlito syrichta	Philippine tarsier	Tarsiidae (tarsiers)	1171			
+Eulemur_rufifrons|XP_069335387.1	Eulemur rufifrons	Bennett's brown lemur	Strepsirrhini (lemurs, lorises, galagos)	1135			
+Lemur_catta|XP_045402193.1	Lemur catta	Ring-tailed lemur	Strepsirrhini (lemurs, lorises, galagos)	1135			
+Microcebus_murinus|XP_020137504.2	Microcebus murinus	gray mouse lemur	Strepsirrhini (lemurs, lorises, galagos)	1127			
+Nycticebus_coucang|XP_053431024.1	Nycticebus coucang	slow loris	Strepsirrhini (lemurs, lorises, galagos)	1153			
+Otolemur_garnettii|XP_023370970.1	Otolemur garnettii	small-eared galago	Strepsirrhini (lemurs, lorises, galagos)	1131			
+Propithecus_coquereli|XP_012517961.1	Propithecus coquereli	Coquerel's sifaka	Strepsirrhini (lemurs, lorises, galagos)	1079			
+Galeopterus_variegatus|XP_008568483.1	Galeopterus variegatus	Sunda flying lemur	Dermoptera (colugos; not primates)	94			
+Mus_caroli|XP_029331595.1	Mus caroli	Ryukyu mouse	Rodentia (not primates)	1141			
+Mus_musculus|XP_017175520.1	Mus musculus	house mouse	Rodentia (not primates)	1122			
+Mus_pahari|XP_021055587.1	Mus pahari	shrew mouse	Rodentia (not primates)	1104			
+Rattus_norvegicus|XP_087407409.1	Rattus norvegicus	Norway rat	Rodentia (not primates)	1120			
+Rattus_rattus|XP_032750010.1	Rattus rattus	black rat	Rodentia (not primates)	1115			
+Canis_aureus|XP_077747485.1	Canis aureus	golden jackal	Carnivora (not primates)	1131			
+Canis_lupus_baileyi|XP_072675909.1	Canis lupus baileyi	Mexican gray wolf	Carnivora (not primates)	1131			
+Canis_lupus_dingo|XP_025283063.3	Canis lupus dingo	dingo	Carnivora (not primates)	1131			
+Canis_lupus_familiaris|XP_013969374.1	Canis lupus familiaris	dog	Carnivora (not primates)	1131			
+Bos_grunniens|XP_086200410.1	Bos grunniens	domestic yak	Artiodactyla (not primates)	1160			
+Bos_indicus|XP_070623777.1	Bos indicus	zebu cattle	Artiodactyla (not primates)	1095			
+Bos_indicus_x_Bos_taurus|XP_027420809.1	Bos indicus x Bos taurus	hybrid cattle	Artiodactyla (not primates)	975			
+Bos_javanicus|XP_061238849.1	Bos javanicus	banteng	Artiodactyla (not primates)	979			
+Bos_mutus|XP_070240501.1	Bos mutus	wild yak	Artiodactyla (not primates)	1194			
+Bos_taurus|XP_059731607.1	Bos taurus	domestic cattle	Artiodactyla (not primates)	920			
+Monodelphis_domestica|XP_007492170.2	Monodelphis domestica	gray short-tailed opossum	Marsupialia (not primates)	1182			
+Gallus_gallus|NP_001276708.1	Gallus gallus	chicken	Aves (a bird)	1182			

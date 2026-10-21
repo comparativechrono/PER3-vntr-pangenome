@@ -1,0 +1,15 @@
+data	rsid	pos	alt	note	alt_haplotypes	haplotypes	alt_on_4A	alt_on_4B	alt_on_5A	alt_on_5B	alt_on_other	r2_with_five	r2_with_4A	r2_with_4B	r2_with_5A	r2_with_5B
+HPRC (462 haplotypes)	rs150812083	7809893	G	rare; chronotype lead variant (Jones 2019)	1	462	0/238	1/85	0/108	0/26	0/5	0.001	0.002	0.01	0.001	0
+HPRC (462 haplotypes)	rs10462020	7820623	G	p.Val647Gly (V647G)	59	462	0/238	58/85	0/108	0/26	1/5	0.06	0.156	0.623	0.045	0.009
+HPRC (462 haplotypes)	rs61773390	7824465	T	chronotype lead variant (Jones 2019)	59	462	0/238	58/85	0/108	0/26	1/5	0.06	0.156	0.623	0.045	0.009
+HPRC (462 haplotypes)	rs228697	7827519	G	p.Pro864Ala	25	462	0/238	25/85	0/108	0/26	0/5	0.024	0.061	0.254	0.017	0.003
+HPRC (462 haplotypes)	rs228726	7788883	A	chronotype lead variant (Jones 2019)	26	462	0/238	26/85	0/108	0/26	0/5	0.025	0.063	0.264	0.018	0.004
+HPRC (462 haplotypes)	rs228654	7837168	A		27	462	0/238	27/85	0/108	0/26	0/5	0.026	0.066	0.275	0.019	0.004
+HPRC (462 haplotypes)	rs2640909	7830057	C	p.Met1037Thr, inside unit R4	87	462	0/238	85/85	0/108	0/26	2/5	0.096	0.246	0.972	0.071	0.014
+HPRC (462 haplotypes)	rs228663	7832049	A	best tag of 4B	86	462	0/238	85/85	0/108	0/26	1/5	0.094	0.243	0.986	0.07	0.014
+HPRC (462 haplotypes)	rs2859387	7827188	A	best tag of 4A	240	462	238/238	0/85	0/108	0/26	2/5	0.446	0.983	0.244	0.33	0.064
+HPRC (462 haplotypes)	rs12023156	7830004	G	best tag of 5A, inside unit R3	109	462	0/238	0/85	108/108	0/26	1/5	0.748	0.328	0.07	0.988	0.018
+HPRC (462 haplotypes)	rs6680585	7805003	A	tag of 5A outside the repeat	110	462	0/238	0/85	108/108	0/26	2/5	0.738	0.332	0.07	0.976	0.019
+HPRC (462 haplotypes)	rs2087947	7791033	T	proxy of the VNTR used by Webb 2022	117	462	12/238	0/85	100/108	3/26	2/5	0.584	0.231	0.076	0.73	0.006
+HPRC (462 haplotypes)	rs148515378	7814731	A	PER3 protein QTL (Loya 2025)	9	462	0/238	9/85	0/108	0/26	0/5	0.008	0.021	0.088	0.006	0.001
+HPRC (462 haplotypes)	rs10462021	7837073	G	p.His1158Arg (H1158R)	59	462	0/238	58/85	0/108	0/26	1/5	0.06	0.156	0.623	0.045	0.009

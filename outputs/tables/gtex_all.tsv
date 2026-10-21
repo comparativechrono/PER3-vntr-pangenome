@@ -1,0 +1,246 @@
+rsid	variant_id	tissue	n_hom_ref	n_het	n_hom_alt	NES	p_value	marks	brain
+rs228701	chr1_7829744_C_G_b38	Adipose_Subcutaneous	70	275	236	-0.0094	0.79	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Adipose_Visceral_Omentum	64	212	193	0.0398	0.359	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Adrenal_Gland	27	108	98	0.0992	0.249	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Artery_Aorta	51	166	170	-0.0068	0.902	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Artery_Coronary	24	97	92	-0.0064	0.932	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Artery_Tibial	64	282	238	0.036	0.362	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Brain_Amygdala	12	64	53	0.0557	0.607	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Anterior_cingulate_cortex_BA24	16	66	65	0.0557	0.477	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Caudate_basal_ganglia	24	94	76	-0.0394	0.655	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Cerebellar_Hemisphere	20	86	69	0.0713	0.368	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Cerebellum	26	95	88	0.0252	0.725	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Cortex	28	93	84	0.0188	0.765	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Frontal_Cortex_BA9	20	85	70	0.0272	0.71	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Hippocampus	18	83	64	0.0459	0.62	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Hypothalamus	21	85	64	0.071	0.316	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Nucleus_accumbens_basal_ganglia	26	106	70	-0.045	0.552	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Putamen_basal_ganglia	21	83	66	0.0843	0.298	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Spinal_cord_cervical_c-1	16	56	54	-0.0814	0.205	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Brain_Substantia_nigra	19	51	44	-0.0694	0.493	four units (ALT G)	TRUE
+rs228701	chr1_7829744_C_G_b38	Breast_Mammary_Tissue	58	190	148	-0.0262	0.587	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Cells_EBV-transformed_lymphocytes	13	69	65	-0.1758	0.219	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Cells_Cultured_fibroblasts	63	213	207	0.0237	0.542	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Colon_Sigmoid	43	148	127	0.0401	0.439	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Colon_Transverse	49	167	152	0.0307	0.396	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Esophagus_Gastroesophageal_Junction	46	148	136	0.0878	0.0707	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Esophagus_Mucosa	57	227	213	0.0227	0.629	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Esophagus_Muscularis	51	218	196	0.0344	0.374	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Heart_Atrial_Appendage	49	167	156	0.0826	0.0897	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Heart_Left_Ventricle	45	175	166	-0.0381	0.413	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Kidney_Cortex	11	33	29	-0.0371	0.746	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Liver	22	83	103	-0.0317	0.586	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Lung	62	242	211	-0.0106	0.84	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Minor_Salivary_Gland	17	64	63	0.1355	0.194	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Muscle_Skeletal	90	324	292	0.0401	0.112	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Nerve_Tibial	72	246	214	0.0063	0.832	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Ovary	21	77	69	0.1019	0.257	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Pancreas	33	134	138	0.0693	0.356	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Pituitary	28	108	101	0.0552	0.51	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Prostate	28	99	94	0.0593	0.379	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Skin_Not_Sun_Exposed_Suprapubic	64	250	203	-0.0425	0.365	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Skin_Sun_Exposed_Lower_leg	76	282	247	-0.0041	0.916	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Small_Intestine_Terminal_Ileum	23	81	70	0.1463	0.0539	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Spleen	24	104	99	0.134	0.115	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Stomach	45	152	127	-0.0273	0.619	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Testis	45	147	130	0.1112	0.00168	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Thyroid	73	267	234	0.0035	0.891	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Uterus	19	57	53	0.0813	0.465	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Vagina	16	60	65	-0.1118	0.289	four units (ALT G)	FALSE
+rs228701	chr1_7829744_C_G_b38	Whole_Blood	85	308	277	0.0456	0.195	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Adipose_Subcutaneous	70	275	236	-0.0094	0.79	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Adipose_Visceral_Omentum	64	212	193	0.0398	0.359	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Adrenal_Gland	27	108	98	0.0992	0.249	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Artery_Aorta	51	166	170	-0.0068	0.902	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Artery_Coronary	24	97	92	-0.0064	0.932	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Artery_Tibial	64	282	238	0.036	0.362	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Brain_Amygdala	12	64	53	0.0557	0.607	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Anterior_cingulate_cortex_BA24	16	66	65	0.0557	0.477	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Caudate_basal_ganglia	24	94	76	-0.0394	0.655	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Cerebellar_Hemisphere	20	86	69	0.0713	0.368	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Cerebellum	26	95	88	0.0252	0.725	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Cortex	28	93	84	0.0188	0.765	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Frontal_Cortex_BA9	20	85	70	0.0272	0.71	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Hippocampus	18	83	64	0.0459	0.62	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Hypothalamus	21	85	64	0.071	0.316	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Nucleus_accumbens_basal_ganglia	26	106	70	-0.045	0.552	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Putamen_basal_ganglia	21	83	66	0.0843	0.298	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Spinal_cord_cervical_c-1	16	56	54	-0.0814	0.205	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Brain_Substantia_nigra	19	51	44	-0.0694	0.493	four units (ALT G)	TRUE
+rs1773135	chr1_7830204_A_G_b38	Breast_Mammary_Tissue	58	190	148	-0.0262	0.587	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Cells_EBV-transformed_lymphocytes	13	69	65	-0.1758	0.219	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Cells_Cultured_fibroblasts	63	213	207	0.0237	0.542	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Colon_Sigmoid	43	148	127	0.0401	0.439	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Colon_Transverse	49	167	152	0.0307	0.396	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Esophagus_Gastroesophageal_Junction	46	148	136	0.0878	0.0707	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Esophagus_Mucosa	57	227	213	0.0227	0.629	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Esophagus_Muscularis	51	218	196	0.0344	0.374	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Heart_Atrial_Appendage	49	167	156	0.0826	0.0897	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Heart_Left_Ventricle	45	175	166	-0.0381	0.413	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Kidney_Cortex	11	33	29	-0.0371	0.746	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Liver	22	83	103	-0.0317	0.586	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Lung	62	242	211	-0.0106	0.84	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Minor_Salivary_Gland	17	64	63	0.1355	0.194	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Muscle_Skeletal	90	324	292	0.0401	0.112	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Nerve_Tibial	72	246	214	0.0063	0.832	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Ovary	21	77	69	0.1019	0.257	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Pancreas	33	134	138	0.0693	0.356	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Pituitary	28	108	101	0.0552	0.51	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Prostate	28	99	94	0.0593	0.379	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Skin_Not_Sun_Exposed_Suprapubic	64	250	203	-0.0425	0.365	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Skin_Sun_Exposed_Lower_leg	76	282	247	-0.0041	0.916	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Small_Intestine_Terminal_Ileum	23	81	70	0.1463	0.0539	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Spleen	24	104	99	0.134	0.115	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Stomach	45	152	127	-0.0273	0.619	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Testis	45	147	130	0.1112	0.00168	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Thyroid	73	267	234	0.0035	0.891	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Uterus	19	57	53	0.0813	0.465	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Vagina	16	60	65	-0.1118	0.289	four units (ALT G)	FALSE
+rs1773135	chr1_7830204_A_G_b38	Whole_Blood	85	308	277	0.0456	0.195	four units (ALT G)	FALSE
+rs228663	chr1_7832049_T_A_b38	Adipose_Subcutaneous	301	230	50	-0.0543	0.14	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Adipose_Visceral_Omentum	249	186	34	0.0232	0.635	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Adrenal_Gland	113	104	16	0.1597	0.0849	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Artery_Aorta	192	159	36	-0.0339	0.555	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Artery_Coronary	108	92	13	0.0035	0.968	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Artery_Tibial	298	237	49	0.0249	0.549	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Brain_Amygdala	62	55	12	0.021	0.843	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Anterior_cingulate_cortex_BA24	73	61	13	0.0413	0.615	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Caudate_basal_ganglia	106	71	17	0.0123	0.898	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Cerebellar_Hemisphere	94	66	15	0.0994	0.232	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Cerebellum	107	81	21	0.0316	0.667	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Cortex	111	73	21	0.0514	0.437	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Frontal_Cortex_BA9	96	65	14	0.0486	0.532	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Hippocampus	91	57	17	0.1329	0.114	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Hypothalamus	91	64	15	0.0683	0.339	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Nucleus_accumbens_basal_ganglia	114	71	17	-0.0125	0.867	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Putamen_basal_ganglia	93	63	14	0.1035	0.255	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Spinal_cord_cervical_c-1	67	48	11	-0.0178	0.795	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Brain_Substantia_nigra	65	40	9	-0.0936	0.342	4B (ALT A)	TRUE
+rs228663	chr1_7832049_T_A_b38	Breast_Mammary_Tissue	209	158	29	0.0137	0.8	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Cells_EBV-transformed_lymphocytes	79	54	14	0.043	0.745	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Cells_Cultured_fibroblasts	254	189	40	0.1624	0.000111	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Colon_Sigmoid	167	126	25	-0.0837	0.135	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Colon_Transverse	197	145	26	-0.0459	0.236	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Esophagus_Gastroesophageal_Junction	177	132	21	0.0614	0.249	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Esophagus_Mucosa	253	201	43	-0.0519	0.289	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Esophagus_Muscularis	241	188	36	0.0033	0.934	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Heart_Atrial_Appendage	208	138	26	0.0628	0.26	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Heart_Left_Ventricle	196	162	28	-0.0163	0.761	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Kidney_Cortex	35	32	6	0.0169	0.886	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Liver	99	91	18	0.0757	0.236	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Lung	269	207	39	0.0108	0.848	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Minor_Salivary_Gland	76	58	10	0.029	0.801	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Muscle_Skeletal	369	275	62	0.029	0.277	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Nerve_Tibial	279	213	40	-0.0074	0.82	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Ovary	88	70	9	-0.003	0.976	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Pancreas	160	125	20	-0.0653	0.431	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Pituitary	124	92	21	-0.0785	0.364	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Prostate	116	80	25	0.0672	0.344	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Skin_Not_Sun_Exposed_Suprapubic	272	211	34	-0.0284	0.578	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Skin_Sun_Exposed_Lower_leg	313	241	51	-0.0267	0.505	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Small_Intestine_Terminal_Ileum	93	68	13	-0.0132	0.876	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Spleen	105	107	15	0.1059	0.274	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Stomach	174	129	21	-0.0563	0.376	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Testis	161	132	29	0.1324	0.000755	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Thyroid	307	221	46	0.002	0.94	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Uterus	65	57	7	-0.0151	0.91	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Vagina	75	60	6	0.0067	0.955	4B (ALT A)	FALSE
+rs228663	chr1_7832049_T_A_b38	Whole_Blood	356	261	53	0.1738	4.84e-06	4B (ALT A)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Adipose_Subcutaneous	392	166	23	-0.0117	0.779	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Adipose_Visceral_Omentum	316	139	14	0.0309	0.578	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Adrenal_Gland	148	77	8	0.0986	0.331	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Artery_Aorta	254	117	16	-0.093	0.16	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Artery_Coronary	146	58	9	-0.0041	0.964	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Artery_Tibial	393	169	22	0.0375	0.428	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Brain_Amygdala	87	36	6	0.0941	0.433	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Anterior_cingulate_cortex_BA24	99	41	7	0.1963	0.0295	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Caudate_basal_ganglia	141	45	8	0.1418	0.178	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Cerebellar_Hemisphere	124	43	8	0.193	0.0406	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Cerebellum	146	53	10	0.1743	0.0324	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Cortex	147	48	10	0.078	0.319	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Frontal_Cortex_BA9	126	42	7	0.132	0.149	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Hippocampus	118	39	8	0.2295	0.0192	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Hypothalamus	122	41	7	0.082	0.328	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Nucleus_accumbens_basal_ganglia	148	45	9	-0.0048	0.954	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Putamen_basal_ganglia	122	41	7	0.1831	0.0586	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Spinal_cord_cervical_c-1	84	39	3	-0.028	0.741	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Brain_Substantia_nigra	82	28	4	0.1017	0.39	4B.1 (ALT T)	TRUE
+rs61773390	chr1_7824465_G_T_b38	Breast_Mammary_Tissue	279	104	13	-0.0179	0.772	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Cells_EBV-transformed_lymphocytes	102	38	7	-0.0587	0.695	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Cells_Cultured_fibroblasts	337	129	17	0.1405	0.00349	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Colon_Sigmoid	214	93	11	0.0259	0.693	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Colon_Transverse	253	104	11	-0.0369	0.425	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Esophagus_Gastroesophageal_Junction	223	97	10	0.0395	0.514	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Esophagus_Mucosa	334	140	23	-0.0022	0.968	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Esophagus_Muscularis	314	135	16	0.0159	0.727	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Heart_Atrial_Appendage	262	97	13	0.0792	0.226	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Heart_Left_Ventricle	264	111	11	-0.0068	0.91	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Kidney_Cortex	47	22	4	0.1443	0.257	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Liver	142	61	5	0.1998	0.0081	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Lung	357	136	22	0.0797	0.207	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Minor_Salivary_Gland	94	45	5	0.0512	0.689	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Muscle_Skeletal	489	189	28	0.0386	0.216	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Nerve_Tibial	373	140	19	-0.0112	0.762	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Ovary	117	46	4	0.0165	0.889	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Pancreas	206	89	10	-0.0161	0.864	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Pituitary	168	59	10	0.0765	0.45	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Prostate	147	64	10	0.0859	0.302	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Skin_Not_Sun_Exposed_Suprapubic	356	143	18	-0.0456	0.435	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Skin_Sun_Exposed_Lower_leg	413	166	26	0.0079	0.862	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Small_Intestine_Terminal_Ileum	115	53	6	-0.0395	0.668	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Spleen	138	81	8	0.0305	0.764	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Stomach	217	99	8	-0.0681	0.35	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Testis	216	94	12	0.1495	0.00115	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Thyroid	399	154	21	-0.0044	0.889	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Uterus	87	38	4	-0.0743	0.603	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Vagina	100	37	4	-0.0165	0.895	4B.1 (ALT T)	FALSE
+rs61773390	chr1_7824465_G_T_b38	Whole_Blood	464	181	25	0.0224	0.61	4B.1 (ALT T)	FALSE
+rs228697	chr1_7827519_C_G_b38	Adipose_Subcutaneous	472	101	8	-0.1014	0.064	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Adipose_Visceral_Omentum	386	79	4	-0.0016	0.982	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Adrenal_Gland	191	41	1	0.1633	0.227	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Artery_Aorta	311	70	6	0.0734	0.372	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Artery_Coronary	174	36	3	0.0132	0.91	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Artery_Tibial	470	107	7	-0.0029	0.96	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Brain_Amygdala	101	25	3	-0.092	0.513	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Anterior_cingulate_cortex_BA24	118	26	3	-0.2186	0.0483	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Caudate_basal_ganglia	153	38	3	-0.1836	0.147	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Cerebellar_Hemisphere	141	31	3	-0.0949	0.411	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Cerebellum	163	42	4	-0.212	0.038	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Cortex	161	41	3	-0.0097	0.923	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Frontal_Cortex_BA9	142	29	4	-0.0888	0.409	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Hippocampus	133	28	4	-0.0716	0.558	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Hypothalamus	134	33	3	0.0166	0.867	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Nucleus_accumbens_basal_ganglia	164	34	4	-0.0171	0.871	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Putamen_basal_ganglia	137	30	3	-0.1199	0.365	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Spinal_cord_cervical_c-1	104	19	3	9e-04	0.992	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Brain_Substantia_nigra	94	18	2	-0.3593	0.0124	4B.2 (ALT G)	TRUE
+rs228697	chr1_7827519_C_G_b38	Breast_Mammary_Tissue	315	77	4	0.0656	0.383	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Cells_EBV-transformed_lymphocytes	117	30	0	0.2289	0.279	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Cells_Cultured_fibroblasts	384	93	6	0.1165	0.0618	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Colon_Sigmoid	260	55	3	-0.2381	0.00498	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Colon_Transverse	302	62	4	-0.0448	0.439	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Esophagus_Gastroesophageal_Junction	276	51	3	0.0696	0.385	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Esophagus_Mucosa	401	91	5	-0.1125	0.125	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Esophagus_Muscularis	378	81	6	-0.0192	0.743	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Heart_Atrial_Appendage	308	61	3	0.0114	0.89	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Heart_Left_Ventricle	307	73	6	-0.021	0.777	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Kidney_Cortex	60	12	1	-0.236	0.177	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Liver	157	46	5	-0.1136	0.178	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Lung	417	92	6	-0.112	0.175	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Minor_Salivary_Gland	121	23	0	-0.0349	0.856	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Muscle_Skeletal	563	133	10	0.0018	0.963	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Nerve_Tibial	426	98	8	0.0074	0.871	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Ovary	135	30	2	-0.0288	0.836	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Pancreas	251	52	2	-0.1204	0.335	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Pituitary	186	47	4	-0.2513	0.0327	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Prostate	181	35	5	0.0179	0.859	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Skin_Not_Sun_Exposed_Suprapubic	420	94	3	0.0146	0.849	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Skin_Sun_Exposed_Lower_leg	489	108	8	-0.0662	0.261	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Small_Intestine_Terminal_Ileum	146	27	1	0.0469	0.717	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Spleen	189	36	2	0.1533	0.257	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Stomach	270	52	2	-0.0108	0.914	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Testis	254	64	4	0.049	0.397	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Thyroid	463	106	5	0.0178	0.659	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Uterus	105	23	1	0.1068	0.585	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Vagina	115	25	1	0.0441	0.794	4B.2 (ALT G)	FALSE
+rs228697	chr1_7827519_C_G_b38	Whole_Blood	542	120	8	0.324	2.46e-09	4B.2 (ALT G)	FALSE

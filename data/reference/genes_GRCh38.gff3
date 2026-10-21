@@ -1,0 +1,154 @@
+##gff-version 3
+##sequence-region chr1 1 8100000
+# Protein-coding genes of GRCh38 chr1:7,400,000-8,100,000 with their MANE Select transcript (Ensembl release via REST, October 2026)
+chr1	ensembl_havana	gene	6785432	7769706	.	+	.	ID=gene:ENSG00000171735;Name=CAMTA1;assembly_name=GRCh38;biotype=protein_coding;description=calmodulin binding transcription activator 1 [Source:HGNC Symbol%3BAcc:HGNC:18806];gene_id=ENSG00000171735;logic_name=ensembl_havana_gene_homo_sapiens;version=22
+chr1	havana	mRNA	6785454	7769706	.	+	.	ID=transcript:ENST00000303635;Name=CAMTA1-201;Parent=gene:ENSG00000171735;assembly_name=GRCh38;biotype=protein_coding;ccdsid=CCDS30576.1;logic_name=havana_homo_sapiens;tag=gencode_basic,Ensembl_canonical,gencode_primary,MANE_Select;transcript_id=ENST00000303635;transcript_support_level=1 (assigned to previous version 11);version=12
+chr1	havana	CDS	6785531	6785575	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	CDS	6820181	6820250	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	CDS	6825092	6825210	.	+	2	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	CDS	7091304	7091371	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	CDS	7249491	7249626	.	+	1	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7467830	7467901	.	+	.	Name=ENSE00004011029;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSE00004011029;rank=6;version=1
+chr1	havana	CDS	7467830	7467901	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7640400	7640553	.	+	.	Name=ENSE00004011037;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSE00004011037;rank=7;version=1
+chr1	havana	CDS	7640400	7640553	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7661726	7661866	.	+	.	Name=ENSE00004011031;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSE00004011031;rank=8;version=1
+chr1	havana	CDS	7661726	7661866	.	+	2	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7663353	7665199	.	+	.	Name=ENSE00004011033;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSE00004011033;rank=9;version=1
+chr1	havana	CDS	7663353	7665199	.	+	2	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7670911	7671037	.	+	.	Name=ENSE00004011047;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSE00004011047;rank=10;version=1
+chr1	havana	CDS	7670911	7671037	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7677599	7677733	.	+	.	Name=ENSE00004011039;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSE00004011039;rank=11;version=1
+chr1	havana	CDS	7677599	7677733	.	+	2	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7732448	7732599	.	+	.	Name=ENSE00004011028;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSE00004011028;rank=12;version=1
+chr1	havana	CDS	7732448	7732599	.	+	2	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7736344	7736540	.	+	.	Name=ENSE00004011038;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSE00004011038;rank=13;version=1
+chr1	havana	CDS	7736344	7736540	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7736931	7737009	.	+	.	Name=ENSE00004011032;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSE00004011032;rank=14;version=1
+chr1	havana	CDS	7736931	7737009	.	+	1	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7737255	7737570	.	+	.	Name=ENSE00004011036;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSE00004011036;rank=15;version=1
+chr1	havana	CDS	7737255	7737570	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7737959	7738482	.	+	.	Name=ENSE00004011053;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSE00004011053;rank=16;version=1
+chr1	havana	CDS	7737959	7738482	.	+	2	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7744835	7745022	.	+	.	Name=ENSE00004011051;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSE00004011051;rank=17;version=1
+chr1	havana	CDS	7744835	7745022	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7745845	7746091	.	+	.	Name=ENSE00004011042;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSE00004011042;rank=18;version=1
+chr1	havana	CDS	7745845	7746091	.	+	1	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7747710	7747781	.	+	.	Name=ENSE00004011050;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSE00004011050;rank=19;version=1
+chr1	havana	CDS	7747710	7747781	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7751199	7751392	.	+	.	Name=ENSE00004011052;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSE00004011052;rank=20;version=1
+chr1	havana	CDS	7751199	7751392	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7752459	7752533	.	+	.	Name=ENSE00004011035;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSE00004011035;rank=21;version=1
+chr1	havana	CDS	7752459	7752533	.	+	1	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7755638	7755668	.	+	.	Name=ENSE00004011041;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSE00004011041;rank=22;version=1
+chr1	havana	CDS	7755638	7755668	.	+	1	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	havana	exon	7766459	7769706	.	+	.	Name=ENSE00004011048;Parent=transcript:ENST00000303635;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSE00004011048;rank=23;version=1
+chr1	havana	CDS	7766459	7766491	.	+	0	ID=CDS:ENSP00000306522;Parent=transcript:ENST00000303635;assembly_name=GRCh38;protein_id=ENSP00000306522;version=6
+chr1	ensembl_havana	gene	7771264	7781447	.	+	.	ID=gene:ENSG00000049245;Name=VAMP3;assembly_name=GRCh38;biotype=protein_coding;description=vesicle associated membrane protein 3 [Source:HGNC Symbol%3BAcc:HGNC:12644];gene_id=ENSG00000049245;logic_name=ensembl_havana_gene_homo_sapiens;version=14
+chr1	ensembl_havana	mRNA	7771296	7781432	.	+	.	ID=transcript:ENST00000054666;Name=VAMP3-201;Parent=gene:ENSG00000049245;assembly_name=GRCh38;biotype=protein_coding;ccdsid=CCDS88.1;logic_name=ensembl_havana_transcript_homo_sapiens;tag=gencode_basic,Ensembl_canonical,gencode_primary,MANE_Select;transcript_id=ENST00000054666;transcript_support_level=1 (assigned to previous version 10);version=11
+chr1	ensembl_havana	exon	7771296	7771385	.	+	.	Name=ENSE00001474297;Parent=transcript:ENST00000054666;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=-1;exon_id=ENSE00001474297;rank=1;version=2
+chr1	ensembl_havana	CDS	7771384	7771385	.	+	0	ID=CDS:ENSP00000054666;Parent=transcript:ENST00000054666;assembly_name=GRCh38;protein_id=ENSP00000054666;version=6
+chr1	ensembl_havana	exon	7773442	7773511	.	+	.	Name=ENSE00003491204;Parent=transcript:ENST00000054666;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSE00003491204;rank=2;version=1
+chr1	ensembl_havana	CDS	7773442	7773511	.	+	1	ID=CDS:ENSP00000054666;Parent=transcript:ENST00000054666;assembly_name=GRCh38;protein_id=ENSP00000054666;version=6
+chr1	ensembl_havana	exon	7777160	7777318	.	+	.	Name=ENSE00003671151;Parent=transcript:ENST00000054666;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSE00003671151;rank=3;version=1
+chr1	ensembl_havana	CDS	7777160	7777318	.	+	0	ID=CDS:ENSP00000054666;Parent=transcript:ENST00000054666;assembly_name=GRCh38;protein_id=ENSP00000054666;version=6
+chr1	ensembl_havana	exon	7778118	7778169	.	+	.	Name=ENSE00003607081;Parent=transcript:ENST00000054666;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSE00003607081;rank=4;version=1
+chr1	ensembl_havana	CDS	7778118	7778169	.	+	0	ID=CDS:ENSP00000054666;Parent=transcript:ENST00000054666;assembly_name=GRCh38;protein_id=ENSP00000054666;version=6
+chr1	ensembl_havana	exon	7779626	7781432	.	+	.	Name=ENSE00001474288;Parent=transcript:ENST00000054666;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=ENSE00001474288;rank=5;version=3
+chr1	ensembl_havana	CDS	7779626	7779645	.	+	2	ID=CDS:ENSP00000054666;Parent=transcript:ENST00000054666;assembly_name=GRCh38;protein_id=ENSP00000054666;version=6
+chr1	ensembl_havana	gene	7784183	7845181	.	+	.	ID=gene:ENSG00000049246;Name=PER3;assembly_name=GRCh38;biotype=protein_coding;description=period circadian regulator 3 [Source:HGNC Symbol%3BAcc:HGNC:8847];gene_id=ENSG00000049246;logic_name=ensembl_havana_gene_homo_sapiens;version=17
+chr1	havana	mRNA	7784291	7845177	.	+	.	ID=transcript:ENST00000377532;Name=PER3-202;Parent=gene:ENSG00000049246;assembly_name=GRCh38;biotype=protein_coding;ccdsid=CCDS72695.1;logic_name=havana_homo_sapiens;tag=gencode_basic,Ensembl_canonical,gencode_primary,MANE_Select;transcript_id=ENST00000377532;transcript_support_level=1 (assigned to previous version 7);version=8
+chr1	havana	exon	7784291	7784376	.	+	.	Name=ENSE00003921678;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00003921678;rank=1;version=1
+chr1	havana	exon	7784654	7785005	.	+	.	Name=ENSE00001173207;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=-1;exon_id=ENSE00001173207;rank=2;version=6
+chr1	havana	CDS	7784878	7785005	.	+	0	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7785441	7785586	.	+	.	Name=ENSE00000738017;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSE00000738017;rank=3;version=1
+chr1	havana	CDS	7785441	7785586	.	+	1	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7786721	7786836	.	+	.	Name=ENSE00003590005;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSE00003590005;rank=4;version=1
+chr1	havana	CDS	7786721	7786836	.	+	2	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7788045	7788246	.	+	.	Name=ENSE00000844090;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSE00000844090;rank=5;version=1
+chr1	havana	CDS	7788045	7788246	.	+	0	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7793957	7794008	.	+	.	Name=ENSE00000401688;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSE00000401688;rank=6;version=1
+chr1	havana	CDS	7793957	7794008	.	+	2	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7798525	7798673	.	+	.	Name=ENSE00000844091;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSE00000844091;rank=7;version=1
+chr1	havana	CDS	7798525	7798673	.	+	1	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7801113	7801191	.	+	.	Name=ENSE00000401690;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSE00000401690;rank=8;version=1
+chr1	havana	CDS	7801113	7801191	.	+	2	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7803047	7803153	.	+	.	Name=ENSE00000737793;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSE00000737793;rank=9;version=1
+chr1	havana	CDS	7803047	7803153	.	+	1	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7803692	7803848	.	+	.	Name=ENSE00003654652;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSE00003654652;rank=10;version=1
+chr1	havana	CDS	7803692	7803848	.	+	2	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7808893	7808998	.	+	.	Name=ENSE00000401693;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSE00000401693;rank=11;version=1
+chr1	havana	CDS	7808893	7808998	.	+	1	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7809893	7810021	.	+	.	Name=ENSE00000401694;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSE00000401694;rank=12;version=1
+chr1	havana	CDS	7809893	7810021	.	+	0	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7810438	7810588	.	+	.	Name=ENSE00000737789;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSE00000737789;rank=13;version=1
+chr1	havana	CDS	7810438	7810588	.	+	0	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7819285	7819420	.	+	.	Name=ENSE00000401696;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSE00000401696;rank=14;version=1
+chr1	havana	CDS	7819285	7819420	.	+	2	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7820115	7820239	.	+	.	Name=ENSE00000737659;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSE00000737659;rank=15;version=1
+chr1	havana	CDS	7820115	7820239	.	+	1	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7820467	7820640	.	+	.	Name=ENSE00000401718;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSE00000401718;rank=16;version=1
+chr1	havana	CDS	7820467	7820640	.	+	2	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7826480	7826710	.	+	.	Name=ENSE00000401699;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSE00000401699;rank=17;version=1
+chr1	havana	CDS	7826480	7826710	.	+	2	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7827118	7827815	.	+	.	Name=ENSE00000737507;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSE00000737507;rank=18;version=1
+chr1	havana	CDS	7827118	7827815	.	+	2	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7829834	7830161	.	+	.	Name=ENSE00000844094;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSE00000844094;rank=19;version=1
+chr1	havana	CDS	7829834	7830161	.	+	0	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7835762	7835945	.	+	.	Name=ENSE00000737423;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSE00000737423;rank=20;version=1
+chr1	havana	CDS	7835762	7835945	.	+	2	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7836999	7837149	.	+	.	Name=ENSE00000737422;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSE00000737422;rank=21;version=1
+chr1	havana	CDS	7836999	7837149	.	+	1	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	havana	exon	7842672	7845177	.	+	.	Name=ENSE00001474227;Parent=transcript:ENST00000377532;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSE00001474227;rank=22;version=1
+chr1	havana	CDS	7842672	7842755	.	+	0	ID=CDS:ENSP00000366755;Parent=transcript:ENST00000377532;assembly_name=GRCh38;protein_id=ENSP00000366755;version=3
+chr1	ensembl_havana	gene	7843008	7853512	.	-	.	ID=gene:ENSG00000049247;Name=UTS2;assembly_name=GRCh38;biotype=protein_coding;description=urotensin 2 [Source:HGNC Symbol%3BAcc:HGNC:12636];gene_id=ENSG00000049247;logic_name=ensembl_havana_gene_homo_sapiens;version=15
+chr1	havana	mRNA	7847612	7853065	.	-	.	ID=transcript:ENST00000361696;Name=UTS2-202;Parent=gene:ENSG00000049247;assembly_name=GRCh38;biotype=protein_coding;ccdsid=CCDS91.1;logic_name=havana_homo_sapiens;tag=gencode_basic,Ensembl_canonical,gencode_primary,MANE_Select;transcript_id=ENST00000361696;transcript_support_level=1 (assigned to previous version 9);version=10
+chr1	havana	exon	7847612	7847882	.	-	.	Name=ENSE00001248273;Parent=transcript:ENST00000361696;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSE00001248273;rank=4;version=7
+chr1	havana	CDS	7847766	7847882	.	-	0	ID=CDS:ENSP00000355163;Parent=transcript:ENST00000361696;assembly_name=GRCh38;protein_id=ENSP00000355163;version=5
+chr1	havana	exon	7849640	7849683	.	-	.	Name=ENSE00000737420;Parent=transcript:ENST00000361696;assembly_name=GRCh38;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSE00000737420;rank=3;version=1
+chr1	havana	CDS	7849640	7849683	.	-	2	ID=CDS:ENSP00000355163;Parent=transcript:ENST00000361696;assembly_name=GRCh38;protein_id=ENSP00000355163;version=5
+chr1	havana	exon	7850812	7850922	.	-	.	Name=ENSE00000900905;Parent=transcript:ENST00000361696;assembly_name=GRCh38;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSE00000900905;rank=2;version=1
+chr1	havana	CDS	7850812	7850922	.	-	2	ID=CDS:ENSP00000355163;Parent=transcript:ENST00000361696;assembly_name=GRCh38;protein_id=ENSP00000355163;version=5
+chr1	havana	exon	7852901	7853065	.	-	.	Name=ENSE00001880719;Parent=transcript:ENST00000361696;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=ENSE00001880719;rank=1;version=2
+chr1	havana	CDS	7852901	7853003	.	-	0	ID=CDS:ENSP00000355163;Parent=transcript:ENST00000361696;assembly_name=GRCh38;protein_id=ENSP00000355163;version=5
+chr1	ensembl_havana	gene	7915871	7943165	.	-	.	ID=gene:ENSG00000049249;Name=TNFRSF9;assembly_name=GRCh38;biotype=protein_coding;description=TNF receptor superfamily member 9 [Source:HGNC Symbol%3BAcc:HGNC:11924];gene_id=ENSG00000049249;logic_name=ensembl_havana_gene_homo_sapiens;version=11
+chr1	havana	mRNA	7915871	7940839	.	-	.	ID=transcript:ENST00000377507;Name=TNFRSF9-201;Parent=gene:ENSG00000049249;assembly_name=GRCh38;biotype=protein_coding;ccdsid=CCDS92.1;logic_name=havana_homo_sapiens;tag=gencode_basic,Ensembl_canonical,gencode_primary,MANE_Select;transcript_id=ENST00000377507;transcript_support_level=1 (assigned to previous version 7);version=8
+chr1	havana	exon	7915871	7920923	.	-	.	Name=ENSE00001474151;Parent=transcript:ENST00000377507;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=ENSE00001474151;rank=8;version=5
+chr1	havana	CDS	7920835	7920923	.	-	2	ID=CDS:ENSP00000366729;Parent=transcript:ENST00000377507;assembly_name=GRCh38;protein_id=ENSP00000366729;version=3
+chr1	havana	exon	7933162	7933296	.	-	.	Name=ENSE00002917042;Parent=transcript:ENST00000377507;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSE00002917042;rank=7;version=1
+chr1	havana	CDS	7933162	7933296	.	-	2	ID=CDS:ENSP00000366729;Parent=transcript:ENST00000377507;assembly_name=GRCh38;protein_id=ENSP00000366729;version=3
+chr1	havana	exon	7935013	7935143	.	-	.	Name=ENSE00003563949;Parent=transcript:ENST00000377507;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSE00003563949;rank=6;version=1
+chr1	havana	CDS	7935013	7935143	.	-	1	ID=CDS:ENSP00000366729;Parent=transcript:ENST00000377507;assembly_name=GRCh38;protein_id=ENSP00000366729;version=3
+chr1	havana	exon	7937690	7937756	.	-	.	Name=ENSE00002813071;Parent=transcript:ENST00000377507;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSE00002813071;rank=5;version=1
+chr1	havana	CDS	7937690	7937756	.	-	2	ID=CDS:ENSP00000366729;Parent=transcript:ENST00000377507;assembly_name=GRCh38;protein_id=ENSP00000366729;version=3
+chr1	havana	exon	7938193	7938330	.	-	.	Name=ENSE00000737133;Parent=transcript:ENST00000377507;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSE00000737133;rank=4;version=1
+chr1	havana	CDS	7938193	7938330	.	-	2	ID=CDS:ENSP00000366729;Parent=transcript:ENST00000377507;assembly_name=GRCh38;protein_id=ENSP00000366729;version=3
+chr1	havana	exon	7938721	7938828	.	-	.	Name=ENSE00000737094;Parent=transcript:ENST00000377507;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSE00000737094;rank=3;version=1
+chr1	havana	CDS	7938721	7938828	.	-	2	ID=CDS:ENSP00000366729;Parent=transcript:ENST00000377507;assembly_name=GRCh38;protein_id=ENSP00000366729;version=3
+chr1	havana	exon	7939895	7940078	.	-	.	Name=ENSE00001474161;Parent=transcript:ENST00000377507;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=ENSE00001474161;rank=2;version=1
+chr1	havana	CDS	7939895	7939994	.	-	0	ID=CDS:ENSP00000366729;Parent=transcript:ENST00000377507;assembly_name=GRCh38;protein_id=ENSP00000366729;version=3
+chr1	havana	exon	7940784	7940839	.	-	.	Name=ENSE00001474163;Parent=transcript:ENST00000377507;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001474163;rank=1;version=5
+chr1	ensembl_havana	gene	7952654	7985991	.	+	.	ID=gene:ENSG00000116288;Name=PARK7;assembly_name=GRCh38;biotype=protein_coding;description=Parkinsonism associated deglycase [Source:HGNC Symbol%3BAcc:HGNC:16369];gene_id=ENSG00000116288;logic_name=ensembl_havana_gene_homo_sapiens;version=15
+chr1	ensembl_havana	mRNA	7961711	7985505	.	+	.	ID=transcript:ENST00000338639;Name=PARK7-201;Parent=gene:ENSG00000116288;assembly_name=GRCh38;biotype=protein_coding;ccdsid=CCDS93.1;logic_name=ensembl_havana_transcript_homo_sapiens;tag=gencode_basic,Ensembl_canonical,gencode_primary,MANE_Select;transcript_id=ENST00000338639;transcript_support_level=1 (assigned to previous version 9);version=10
+chr1	ensembl_havana	exon	7961711	7961793	.	+	.	Name=ENSE00001049271;Parent=transcript:ENST00000338639;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001049271;rank=1;version=6
+chr1	ensembl_havana	exon	7962763	7962875	.	+	.	Name=ENSE00003616908;Parent=transcript:ENST00000338639;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=-1;exon_id=ENSE00003616908;rank=2;version=1
+chr1	ensembl_havana	CDS	7962786	7962875	.	+	0	ID=CDS:ENSP00000340278;Parent=transcript:ENST00000338639;assembly_name=GRCh38;protein_id=ENSP00000340278;version=5
+chr1	ensembl_havana	exon	7965324	7965425	.	+	.	Name=ENSE00003623984;Parent=transcript:ENST00000338639;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSE00003623984;rank=3;version=1
+chr1	ensembl_havana	CDS	7965324	7965425	.	+	0	ID=CDS:ENSP00000340278;Parent=transcript:ENST00000338639;assembly_name=GRCh38;protein_id=ENSP00000340278;version=5
+chr1	ensembl_havana	exon	7969345	7969404	.	+	.	Name=ENSE00003584479;Parent=transcript:ENST00000338639;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSE00003584479;rank=4;version=1
+chr1	ensembl_havana	CDS	7969345	7969404	.	+	0	ID=CDS:ENSP00000340278;Parent=transcript:ENST00000338639;assembly_name=GRCh38;protein_id=ENSP00000340278;version=5
+chr1	ensembl_havana	exon	7970894	7970963	.	+	.	Name=ENSE00003499981;Parent=transcript:ENST00000338639;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSE00003499981;rank=5;version=1
+chr1	ensembl_havana	CDS	7970894	7970963	.	+	0	ID=CDS:ENSP00000340278;Parent=transcript:ENST00000338639;assembly_name=GRCh38;protein_id=ENSP00000340278;version=5
+chr1	ensembl_havana	exon	7977652	7977738	.	+	.	Name=ENSE00002898274;Parent=transcript:ENST00000338639;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSE00002898274;rank=6;version=1
+chr1	ensembl_havana	CDS	7977652	7977738	.	+	2	ID=CDS:ENSP00000340278;Parent=transcript:ENST00000338639;assembly_name=GRCh38;protein_id=ENSP00000340278;version=5
+chr1	ensembl_havana	exon	7984894	7985505	.	+	.	Name=ENSE00001941967;Parent=transcript:ENST00000338639;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=ENSE00001941967;rank=7;version=1
+chr1	ensembl_havana	CDS	7984894	7985054	.	+	2	ID=CDS:ENSP00000340278;Parent=transcript:ENST00000338639;assembly_name=GRCh38;protein_id=ENSP00000340278;version=5
+chr1	ensembl_havana	gene	8003196	8026318	.	-	.	ID=gene:ENSG00000116285;Name=ERRFI1;assembly_name=GRCh38;biotype=protein_coding;description=ERBB receptor feedback inhibitor 1 [Source:HGNC Symbol%3BAcc:HGNC:18185];gene_id=ENSG00000116285;logic_name=ensembl_havana_gene_homo_sapiens;version=15
+chr1	ensembl_havana	mRNA	8011727	8026309	.	-	.	ID=transcript:ENST00000377482;Name=ERRFI1-201;Parent=gene:ENSG00000116285;assembly_name=GRCh38;biotype=protein_coding;ccdsid=CCDS94.1;logic_name=ensembl_havana_transcript_homo_sapiens;tag=gencode_basic,Ensembl_canonical,gencode_primary,MANE_Select;transcript_id=ENST00000377482;transcript_support_level=1 (assigned to previous version 9);version=10
+chr1	ensembl_havana	exon	8011727	8014396	.	-	.	Name=ENSE00001474071;Parent=transcript:ENST00000377482;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=ENSE00001474071;rank=4;version=6
+chr1	ensembl_havana	CDS	8013210	8014396	.	-	2	ID=CDS:ENSP00000366702;Parent=transcript:ENST00000377482;assembly_name=GRCh38;protein_id=ENSP00000366702;version=5
+chr1	ensembl_havana	exon	8015308	8015384	.	-	.	Name=ENSE00001151225;Parent=transcript:ENST00000377482;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSE00001151225;rank=3;version=1
+chr1	ensembl_havana	CDS	8015308	8015384	.	-	1	ID=CDS:ENSP00000366702;Parent=transcript:ENST00000377482;assembly_name=GRCh38;protein_id=ENSP00000366702;version=5
+chr1	ensembl_havana	exon	8015495	8015692	.	-	.	Name=ENSE00002851188;Parent=transcript:ENST00000377482;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=2;ensembl_phase=-1;exon_id=ENSE00002851188;rank=2;version=1
+chr1	ensembl_havana	CDS	8015495	8015619	.	-	0	ID=CDS:ENSP00000366702;Parent=transcript:ENST00000377482;assembly_name=GRCh38;protein_id=ENSP00000366702;version=5
+chr1	ensembl_havana	exon	8026158	8026309	.	-	.	Name=ENSE00001181132;Parent=transcript:ENST00000377482;assembly_name=GRCh38;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSE00001181132;rank=1;version=7

@@ -1,0 +1,9 @@
+# intermediate files that run_all.sh makes and does not keep
+outputs/work/
+# optional local programs (for example tools/gcta64; see run_all.sh)
+tools/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.DS_Store

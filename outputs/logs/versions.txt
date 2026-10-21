@@ -1,0 +1,10 @@
+date: 2026-10-21T16:19:27Z
+uname: Linux 6.18.44-fc-v139 x86_64
+bcftools 1.19
+Using htslib 1.19
+samtools 1.19.2
+tabix (htslib) 1.19
+kalign: kalign 3.3.5
+Python 3.13.16
+R version 4.3.3 (2024-02-29) -- "Angel Food Cake"
+* version v1.94.1 Linux

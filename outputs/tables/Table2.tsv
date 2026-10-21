@@ -1,0 +1,14 @@
+Trait	N	Units	Beta (SE)	SD per allele (95% CI)	P	Detectable with 80% power at P < 0.05 (SD)	Study
+Chronotype (self-report; higher = morning)	449,734	score units	-0.0030 (0.0028)	-0.0023 (-0.0067 to 0.0020)	0.28	0.0062	Jones 2019, GCST007576
+Morning person (self-report)	403,195	log odds ratio	-0.0083 (0.0048)	-0.0041 (-0.0087 to 0.0005)	0.070	0.0066	Jones 2019, GCST007565
+Sleep duration (self-report)	446,118	hours	0.0033 (0.0024)	0.0030 (-0.0013 to 0.0074)	0.16	0.0063	Dashti 2019, GCST007561
+Insomnia symptoms (self-report)	453,379	linear-model beta (case = 1)	0.0020 (0.0015)	0.0030 (-0.0013 to 0.0074)	0.19	0.0062	Lane 2019, GCST007387
+Daytime napping (self-report)	452,633	napping category	0.0031 (0.0013)	0.0053 (0.0010 to 0.0097)	0.020	0.0062	Dashti 2021, GCST011494
+Sleep midpoint (accelerometer)	84,810	SD	0.0170 (0.0051)	0.0171 (0.0071 to 0.0272)	9.0e-04	0.0144	Jones 2019b, GCST007807
+L5 timing (accelerometer)	85,205	SD	0.0074 (0.0051)	0.0075 (-0.0026 to 0.0175)	0.15	0.0143	Jones 2019b, GCST007805
+M10 timing (accelerometer)	85,670	SD	-0.0011 (0.0050)	-0.0011 (-0.0111 to 0.0089)	0.82	0.0143	Jones 2019b, GCST007806
+Sleep duration (accelerometer)	85,449	SD	-0.0060 (0.0050)	-0.0061 (-0.0161 to 0.0039)	0.24	0.0143	Jones 2019b, GCST007801
+Sleep efficiency (accelerometer)	84,810	SD	0.0030 (0.0050)	0.0031 (-0.0069 to 0.0132)	0.56	0.0144	Jones 2019b, GCST007803
+Number of sleep episodes (accelerometer)	84,810	SD	0.0064 (0.0049)	0.0066 (-0.0034 to 0.0167)	0.20	0.0144	Jones 2019b, GCST007804
+Variability of sleep duration (accelerometer)	84,441	SD	0.0017 (0.0051)	0.0017 (-0.0084 to 0.0117)	0.70	0.0144	Jones 2019b, GCST007802
+Diurnal inactivity (accelerometer)	84,757	SD	-0.0089 (0.0049)	-0.0092 (-0.0193 to 0.0008)	0.066	0.0144	Jones 2019b, GCST007808
