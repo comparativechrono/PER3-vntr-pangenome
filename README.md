@@ -66,6 +66,7 @@ et al. (2012) and reproduces GCTA's joint estimates to a relative difference bel
 | Table S12 | `gtex_summary.tsv`, `gtex_all.tsv`, `gwas_catalog_per3_protein.tsv` |
 | Table S13 | `primate_units_dna.tsv`, `primate_units_protein.tsv`, `primate_units_by_species.tsv`, `primate_aligned_region.tsv`, `data/primates/assemblies.tsv` |
 | Table S14 | `implied_length_effects.tsv` |
+| Tables S1-S14 in Excel | `supplementary_tables/Table_S1.xlsx` to `Table_S14.xlsx` – each opens on an About sheet, then one sheet per file of the table as listed in the manuscript, values unchanged (made by `supplementary_tables/make_supplementary_xlsx.py`) |
 
 ## The data
 
